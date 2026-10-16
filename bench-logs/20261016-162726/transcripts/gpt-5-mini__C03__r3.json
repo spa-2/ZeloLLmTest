@@ -1,0 +1,198 @@
+{
+  "model" : "gpt-5-mini",
+  "case_id" : "C03",
+  "user_message" : "친구 넷이랑 삼겹살 파티 할 거야. 삼겹살 1.2kg에 상추, 쌈장, 마늘 챙겨 주고 소주 4병도 같이 주문해 줘",
+  "repeat" : 3,
+  "turns" : [ {
+    "turn" : 1,
+    "input" : [ {
+      "role" : "user",
+      "content" : "친구 넷이랑 삼겹살 파티 할 거야. 삼겹살 1.2kg에 상추, 쌈장, 마늘 챙겨 주고 소주 4병도 같이 주문해 줘"
+    } ],
+    "output" : [ {
+      "id" : "rs_0b6c2966a18dc4ea006ad1d2dacf2887d0a0f725464863bf61",
+      "type" : "reasoning",
+      "content" : [ ],
+      "encrypted_content" : "gAAAAABq0dLdxAaiGb9S0PYTVpI9A6uvmccSQkndhlGaZci49egnbCYRLPH2FntfqXEcoUsBViNvWlRCEvS7pskAG6dEa8xMIJeqSN5XR70OWLOLWaLl23g4nXv2BCRyszQb-JfnsJGJIdhcNqSuG1rn_kXd4BoqU487S7HXwyJzGcANw2BlMjsHY6i4MO7mKBU85GPV1-ICccMSywzBckBTmxlmOEi5opGVJdVBhyaxTZd7zQGZ8tReEJjxKrp0P7THrdA5Fn7LBj5R_PFtFwbu3FZ6-gTiaVqLztpVoH5zaCiamL6ysZAmULbhk5FbQDVJZ4CPc5_Sewfn0215zAUd1UaFPPAlDYoUVlSUi4sBexivzYkiUZLPGMJs5ZswrZxk00faouzQx-We5dGik7kk4SOETKOC7dFnCjQi2O1FwRdek41QYmRsDCkcFICJkAwCRvbctqqgtGk5zbk3yGoW-Aq5Afbm7LTp68qf3fzGX33eq-83rDM3zYz8yjIC41TBphEkp0m2hcaXzhp9VEluZOw4CZy4jyfGszDbwD8zPAzBh8EI-ww3a2wrO1y8cV5NuqijJjmRrcHlwi7pLnaqVhPcPT7FP5b8bKjg8TZ0uAFWOQID66ve8v9BebgOk3kTiR8kpCzQdWYjlx6e4672W7l_DHvc0TWoo8Hvws6l0ORGDA4wpAtRqJCZJpzmImxI_Pum9nbzisupGWxAq7Rsh6OQivHpMgcm1RBponEQaf4MiMil6Pnz385iJiJyJg4nSkB2keHGecjDO1YqaP-L0TQbtodaDvqqV_wqSFeOJJkLPvNAhRUIZ39o3ODPpHrh032HBG55U1bOAoOGLaUUdTXDVTE9l-RbBqtAj8cTSF-NRiA_Vyf0Z_I5uPmDJ_5RQJ5cNYUe9M2cMsaLqsduYuH4aUGriMx3bttHKfEyZlAa_jWnzlOHiJwU9wYM-ZP-3neV8J6DEQpyeqHXUFZ7sa9V9nwF8wEftHLNxL1jLiNzt9IWNJuHySBV3rNTyZ6kM4DY8AuE_fdnbUiNFFmrNeL9Eoi2teBowr-Z_hvJHCcl91XReSmUe--RwDtxLXhxu4nhWJO-SuL34i9U7QkEDpyJuf2yiMkH39-wCgIbmuvhBBTHsQ6Z7GlS6rDIFCXSU73GojqECNW4da_-BjGGWrD_YXfpQy7a5UafN8c56h3C0TromnVdXav2aSk_yp75QePQ25TVwAd-rPaonGa1grW_tPu7sqvX3KlZN97egAyFGZowttNTj6YzWjagOCaBwN9iII6J9L-puEDG7mVfdQYfRHk1IGptGTcwY6Q1S3nphHbv1jHPt8XqxiFRmGysg7mjmQ3cdC06a9jiJ8fgnpdEGufVNzCfSOnXxV563zEVxu7z23RBt-ZNgKn3-PDtC3BtO28fG4KO39OLU0-9zeeYzxeVl_MZJ-UnQbNpSj8powW-5y984RGUg4uHiAlmqrFJV40BSkp9UBp7jvIuxn9WGBbL6OonEyLUZmQsz9nHAK7cV3xZL0qYN_4AXaOviR9FFxI3msn9ttb_PKlFUbZJVNvctquTZL3jl83VZp96A9-3b2RKV9iTuK7QX3-bLQSqg7gN0WG5-aZRiUkB6hv5H8cETBIqseVKrP8_msannWizGRI275SJsaNsHfNWqAHdX2UDu0R4j_E3E6w6ZH7uss1j7EH7MxsrY_76oUwy2NwYhhDo4La6GgkM8aI2-OisWe_3XM9zy9MLJX5zBZEZxkCRQNuJlXmTPgzZBk0h50RTbij-xY3YVwN3-L4Z-i_qx0uB6_R_QxTfeJmLTXgs5w_yn1Sk5JSl6BmLM3zNHfOgN6LtlTAQ4urzccr-mJ49LzTKUK0mYtdMAm7ODXVExjeq_9Weoybd8hRlp4eKOlw7RCcSDME6HQiKeJGc6gLaKKe0Si-92T5k14nt29-95rxx1LKCEXS9zyupEndXCQWevN2O83fuBDwBWTrBZbRYA5m7snykLab36TtMK2BfCL9qGg9AEjuSAXFd4xZ3W3U_C1oz4YHR8OKz-IruT90yANblvY7qvW0J1qm19X0oeZ1n5x6dzECLgHKHwhK2xME7zOibn_U1PGIDwJNg1a9jWv13E1fZt9ouh15bBRX6yGhYQtBPcpjhA9MxPCJZU2mPWlzN84Ge8sEEtWWHV25kWxM1wrvlVUmEwvg_FmoArzsnr68UC6pU-MDj_pNET-pdHWpQFvpnFwagq4fbmb3lyJvToYMVZHhJunOPKro_sGBW_6eS7UZ9orUyYDl6ysdmxAfjB2Guos11jyQY9TfY_9l2a-nFK4GNZnVJ4_3ar3gprRvVM09D7Tedz3JnUmYOth1hbT6BMBdDaDwA9Fg8aLY_bpkGBA6OwfczRKTI_V7e6dUA2RSGaC_xrXp2ljPeWld18eSMWgvWBO5mStaMrEa3x8WXjVszNQs02Pe_nRTMb6IoMSgi8oOU9WQaWHlEVRusxdSjGp1mVQxZMMNHUdm0PExKccsfmQKvlg2g5DBqwHmF6CQW5_nLWjkjxPrsNoblyA5XFJagqzjiunZah2oQ9y4FlTTO0rMgjTEjnTi8wHs9JnHBHASv8o547TCNUg1D4-ZcC4meAZfXrrObqbG_xFiLW214RZzrunDUQHZ4Tf2Ec7oZbajkWmcTdElkomffgGAYM3ABNf68biCsfcWKsjXCcR8avIphhCq62wLBTK75X1vLB2Q3Hp_XIyHaY7ibZsJ_uCCwgltHNmy_W32PPBX_OjQNPxQfnQby1m8wi4ukuhufrKtvzKCXMQ31_pbsE4ztds0t_egzoUJGsCLfJAmL4LfHD6Tyze5dEBADtfR-DU72enzta9OzKYCtryeitiaiZT4hlkQ2n-CsM1cgGZTCfB7Kz0RsZDt_kowWLDXw3_q9SVGX7FSjEpd0SknCqxNdyVizV0rnjNszg09rpDJwGYA1wL6D1DuoVusCL3u3RNlF_A5pHph8xbvIuNi_0TyyA1mZPcyvNa2OIYHGda-Heelsr9BjggZkW5WFozARDn-HXdSHYJIagI76d5B_Sc5GAlxfJcI_PjQkaNRiFevBJSQap2nhxfROs5dQJo_rXS3LLnzP3_iGSG5iBvyvwST1nmhBGK87Et6tWGazeOQQSckbiKEq1Ld3Qm89TQSwsPrgTHoh8LmXhDS-X7ARzmk0hRduwT-Ubox5NuoIh6MZnqCEI5PeFsCRfBz0FeHaDeQ2Bl6vOT7Uq8W-R1ObYJwLJVRCOY9af8Kgs7-xJ9dxHRuGqqM4vd6OQpCgqtM7N-V44zKUhzM6XT78OQdEwAqbj2dja8aoir53nfBBpiWSds7Cw97A-uVPFK2eAJVhBE8IYOfPQ6rPnoseRZUimQRqkUGbP2zLAh2jbScQ2rEHg1KAwbElj16uPN9uE4M8vDoQRsbrHmFnXc7MPNEYfzrOD8Vzh06g33PAqjdmo1VILPAdsOZEdwnAzUCKN9XuEg-BG_AHobRJvYi0798=",
+      "summary" : [ ]
+    }, {
+      "id" : "fc_0b6c2966a18dc4ea006ad1d2dcf23487d099e55eda2ceb2eb9",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"정육\",\"keyword\":\"삼겹살\"}",
+      "call_id" : "call_MnA68aLvFJVSjzjXp3pImMwP",
+      "name" : "search_products"
+    }, {
+      "id" : "fc_0b6c2966a18dc4ea006ad1d2dcf24487d0bd30cc0d2dd607f6",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"채소\",\"keyword\":\"상추\"}",
+      "call_id" : "call_idiuikMD91OK9owQFMuRzfag",
+      "name" : "search_products"
+    }, {
+      "id" : "fc_0b6c2966a18dc4ea006ad1d2dcf24887d0ab636cf3d4d53520",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"양념/소스\",\"keyword\":\"쌈장\"}",
+      "call_id" : "call_PiBWdielHpSdKba3bTBfISad",
+      "name" : "search_products"
+    }, {
+      "id" : "fc_0b6c2966a18dc4ea006ad1d2dcf25087d08f7aae61c13eec64",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"채소\",\"keyword\":\"마늘\"}",
+      "call_id" : "call_x5xEKg3kkhVEPwKh0NCL95cd",
+      "name" : "search_products"
+    }, {
+      "id" : "fc_0b6c2966a18dc4ea006ad1d2dcf25487d085eae94b79c81372",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"주류\",\"keyword\":\"소주\"}",
+      "call_id" : "call_gPEU3iaU4eY35ADS2FbUdrOw",
+      "name" : "search_products"
+    } ],
+    "usage" : {
+      "input_tokens" : 1087,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 0
+      },
+      "output_tokens" : 298,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 128
+      },
+      "total_tokens" : 1385
+    },
+    "tool_results" : [ {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P502\",\"name\":\"한돈 삼겹살 구이용\",\"category\":\"정육\",\"price\":15900,\"unit\":\"600g\",\"stock\":20,\"rating\":4.7,\"review_count\":4100,\"sales_count\":26000,\"spicy_level\":0,\"review_keywords\":[\"두툼함\",\"기름 적당\"],\"allergens\":[\"돼지고기\"],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P306\",\"name\":\"꽃상추\",\"category\":\"채소\",\"price\":2500,\"unit\":\"200g\",\"stock\":25,\"rating\":4.4,\"review_count\":380,\"sales_count\":5100,\"spicy_level\":0,\"review_keywords\":[\"고기랑 딱\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P903\",\"name\":\"쌈장\",\"category\":\"양념/소스\",\"price\":4500,\"unit\":\"500g\",\"stock\":25,\"rating\":4.5,\"review_count\":900,\"sales_count\":6400,\"spicy_level\":1,\"review_keywords\":[\"고기 찍어 먹기 좋음\"],\"allergens\":[\"대두\",\"밀\"],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P307\",\"name\":\"깐마늘\",\"category\":\"채소\",\"price\":3500,\"unit\":\"200g\",\"stock\":30,\"rating\":4.6,\"review_count\":890,\"sales_count\":8800,\"spicy_level\":1,\"review_keywords\":[\"알이 굵음\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"PA01\",\"name\":\"참이슬 소주\",\"category\":\"주류\",\"price\":1950,\"unit\":\"360ml\",\"stock\":100,\"rating\":4.5,\"review_count\":3000,\"sales_count\":50000,\"spicy_level\":0,\"review_keywords\":[\"삼겹살엔 소주\"],\"allergens\":[],\"agent_orderable\":false,\"restriction_reason\":\"주류는 성인인증이 필요해 에이전트가 주문할 수 없음\"}],\"count\":1}"
+    } ]
+  }, {
+    "turn" : 2,
+    "input" : [ {
+      "type" : "function_call_output",
+      "call_id" : "call_MnA68aLvFJVSjzjXp3pImMwP",
+      "output" : "{\"products\":[{\"product_id\":\"P502\",\"name\":\"한돈 삼겹살 구이용\",\"category\":\"정육\",\"price\":15900,\"unit\":\"600g\",\"stock\":20,\"rating\":4.7,\"review_count\":4100,\"sales_count\":26000,\"spicy_level\":0,\"review_keywords\":[\"두툼함\",\"기름 적당\"],\"allergens\":[\"돼지고기\"],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "type" : "function_call_output",
+      "call_id" : "call_idiuikMD91OK9owQFMuRzfag",
+      "output" : "{\"products\":[{\"product_id\":\"P306\",\"name\":\"꽃상추\",\"category\":\"채소\",\"price\":2500,\"unit\":\"200g\",\"stock\":25,\"rating\":4.4,\"review_count\":380,\"sales_count\":5100,\"spicy_level\":0,\"review_keywords\":[\"고기랑 딱\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "type" : "function_call_output",
+      "call_id" : "call_PiBWdielHpSdKba3bTBfISad",
+      "output" : "{\"products\":[{\"product_id\":\"P903\",\"name\":\"쌈장\",\"category\":\"양념/소스\",\"price\":4500,\"unit\":\"500g\",\"stock\":25,\"rating\":4.5,\"review_count\":900,\"sales_count\":6400,\"spicy_level\":1,\"review_keywords\":[\"고기 찍어 먹기 좋음\"],\"allergens\":[\"대두\",\"밀\"],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "type" : "function_call_output",
+      "call_id" : "call_x5xEKg3kkhVEPwKh0NCL95cd",
+      "output" : "{\"products\":[{\"product_id\":\"P307\",\"name\":\"깐마늘\",\"category\":\"채소\",\"price\":3500,\"unit\":\"200g\",\"stock\":30,\"rating\":4.6,\"review_count\":890,\"sales_count\":8800,\"spicy_level\":1,\"review_keywords\":[\"알이 굵음\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "type" : "function_call_output",
+      "call_id" : "call_gPEU3iaU4eY35ADS2FbUdrOw",
+      "output" : "{\"products\":[{\"product_id\":\"PA01\",\"name\":\"참이슬 소주\",\"category\":\"주류\",\"price\":1950,\"unit\":\"360ml\",\"stock\":100,\"rating\":4.5,\"review_count\":3000,\"sales_count\":50000,\"spicy_level\":0,\"review_keywords\":[\"삼겹살엔 소주\"],\"allergens\":[],\"agent_orderable\":false,\"restriction_reason\":\"주류는 성인인증이 필요해 에이전트가 주문할 수 없음\"}],\"count\":1}"
+    } ],
+    "output" : [ {
+      "id" : "rs_0b6c2966a18dc4ea006ad1d2de2fd087d093db136de9f89cbf",
+      "type" : "reasoning",
+      "content" : [ ],
+      "encrypted_content" : "gAAAAABq0dLgtpcJidRWog0Zv7kbTPKxq6E44bNUmHCsFX40ZkpBUDD3QwF23n7p4hnw2XwAmRThKogq9rO9P3AmyBFX2jH5SYfoWq23kpj_EHSB8GHa1BjJwsdC9H23DbqaVaF1FsfYs3lr5mS05v0Qbhe48qYyd6e1IYOYf5iZUZKjmPzMuHXITDAwkARjHeGnNpuvYFYW-9KVZomxS1bdtsMhCO734JJzV8bU_7RKR2tHaNHLfGusaiCIQBlhv5rtFfIUyqdswcEzdHa0eImr9vzt4EhgKH6T3QaoZg2xj1-68DyeF2Zcez-GBf1gOxmh37OmoSRD05qLneOV2VNht9xW3epoKmST9UOO4vTSrWQgUXoumpmXwcjoisua7_Z3IR50z_qMeXO1PUhzePZiscCIQe_ONSu9l9JZ95XkNZhsr6dXcwHkifnb2TaVLI2gMuLl1r3p9GFyVpzjM6AgzogMJ1hg6tTpJFzUxm2OlZer8LHARl61PfGIuZc9JtiK1SCe9xFj55Cfib5gHqKWlFiuBNRbs7KWwFEUotbNEE0J31glKexiWOcK9aH5Pxacrgd0U24NreTOwDHUSfbsGWuAJPiwi7DywQePWDSeWYIz-7lIMJy9t1O1PlsKI3n-7CwXhhddtAudkFwgfggecZi8YJ_X7RSWrA6810hz8KPM-ESG3P699pJW74qgTb-qwdRVGiBt7AQD2OKopNctnJM9bfsRciFZEltXg1jyTuI1eG9LgXFNU6tR_lEYM4OYWK_iVRHdfQZ4wnaR9klAXY2u3vBepFBXNsXicWPAoZPHBiAe1euwwvap2w7VkC6GIU7gZh1k2HU3jnVE7VrpeYBcuPKeRMFWTc9XV1xyBdh8FHlfjdlm7mUltc8liJB9Wh2zMIaYLkz_Ul42ICk_kwmijvNID9CDyAzmdnfW6x7YALUjQ8WgLMWAGD0qHOPdDq1JOAP7qk9eIzstfvp7eaYBG-tDtkoKKG1cSHENBPbxEtWRWlSwHSrGrIfUchTFza2sxBaCRs_bO8LuO_mhfoNYjQJp1BNWwo9Cxt5dqV9N1ZjBfwqsLyQHpmpMcFq4UD3hvCZfVn_mY9Nbk8qtwYcHlGd0Q2cRpRdbLPe9SbnXWbd8YW6CJqMhgiFadeWiKrNie-C-9P0Bg0azTv-ir999ZHC8Hl635sff6w0EN4pbNTpKx9jt6S8qmuhzlDZ-hgBYR0gR9kpstTFrWtFg_tXBEh-1XJ4V8j97pleDV69XHwywxtAVFDkeOkWYsHqL3brXDM568eAz-Bx_Z4Mki4ty8oevKCGRlO6khgVNqpdyFFT5tT-gMURoFt2wfNb2x_tCFx8cUSRwNhStpPN0GEq649ALElvpGWcR36Foq7kiAQGpxHTViSUJm48QIpBFldTlI-GECXdJnxNLxLlhYGS9Sqo9dn98ni6n6STiOLu5Z7t6Ibk6VTHy00oRUhCEfxtAvBq1Z-CwpXfkGg8QIfe50QY4uFR7dbUcLQxEU34rU8Uaa1YW4nqHh_NuGJLszoSmqnVJOSNcrrQmE20q7Y5CHs976nLFyYlKWhswpaVR6E_Y8hkmaP4tex29-eWfdaRzzS_DJAkp0pPx6cWHVcrOUC6rD0E0Oxen10hTcEiLZAfKXkuHss25KiFFJ6g9EXiB5jlAB5gQwHKry4e9k0vBZB5J19rkNJhg-SrRRvClK31SgjpZAZpLeZI0aVyKRNYLjrbZ5OTB7YF7XW9oegGPVMo2Jdt_M0JCu2AzYbnriB3-ReShpDxUwOishoZq9IjPnvYYFKIl8ZGUSEW56txkoiCYwTVLr4v74932XeWI9KHOOV2U9bq7JGRCZYfnD-tGcR6X3F_QydYOi58tetI21E5y9wWaVd7anPr8g3ixUv6AoelKPrc_iQ6sUrelpwf5Qq2wF1rGX91FF-ITL_-88Ze9J_jiUS0YwerypuYP8w-bdObxZW0guCxIRYRoAShjLeW3WfYL8ro7q6KlC6nVluieyKOKmY6NV2jzzgegyZq5B07v7dPjcV66ASzPVQ2BW_jSmrmE43e6cyVX-_OZmY5uHgbtDrUe1h1g2LOr8k6VLTQUfk3tMmTjfQJV4ifXn5v05xAwBKC-Vh1AXJ6UZCvmEvmZY4fKR5SB3Ji6hJf0ZOmpJhCdJkgUlJOkkFeiwkzuA8q87TnxMRu1JIRHmYGepZksu4qtRseGRkUf2NpSE-rUgtXCy1HGdAPgcEUsHwV7-kmUqqCebAt7dkgVdi1-_iZmoFxJUCDtCipCpkqEgaJKujkC1mak56p9BW7t1wAsdEfx0AFh9-jhXwAMWUqBiE4I3tChk5Lsq4J5Dglz0kgvlfoqrLYv48uShcmfxesIYTlIS7mt0xEPNS1V3Ug-8utTYIbR7r-p_8FFIdiOs3u3Mzz4Bc4jxSnr3ftj6MTwer_QIt3PWWLzVWk2vyCIdq8kOXKBhsd1Kq39Zlr2gFzkTyPz7d6afBNaET9gasqi-ikZiioZxNcWGXfgRg6raM83RKF7vDoxyJ_GVgDMIZZv4kqqcELVi6z3rbD02Ffo7DWNQWf4oCjrqH7PHHJteN4FybGB-ZiA75R3ptpLOp-ktU--CZgBdbvPIHrE0wk35CddRj0NdGyCoYLdiLU8Q9GFgUwgXSyJx254RN7gI449zQpi6_09Y-pArLasSRnPVwa8wkV6_ktB-PlNNO_p6YlWKHJ5zfJVvQ1A3nKtoWEnpdlM6sCHzw4AhzFUSadExPVhKSIflXq3jPmQGwM2PN4oU4lF2hlkoPQAKuFpLz31Vqip0cccZRvxQECcPF-OYIdhLpBKEOXOmJUxhHNIW5s-zHGAiJIa7uxaBQ0Fru2PwpjikY-OP8rfE1tE8ZzOzHoXCeKO1EnSYnHzpR_2Ld7d440ce5KoGOGhi1ONfLwH4LJK2wtmou89uZEsYgdwgiaHsXG-gigZcG_bheFO1APEWjHvCmPopvHc-DH0zCR9xlCo4vyBs6T3tSBl1hrhPOdckOBfmpq_IxLn1PFVnrybxOMGVxvNsBYPIoMUumAI1CJtmMv35sb-5ZAmCiM8JfVe-sx3LeHbC57-Gre6jGMsjD_aGT4hsYSxFTV9tHhQeUyZ9g2UtDeI7EqXZVrROHPOCh6Pm9c4v5ITQlbuCTKOjVbb7YX4q3o3Vc2JprRX0X-79e5m_F3Wr1zPpXm_3L4b6yJM0NXTu__56Ajete6yTQvCJAp8toxHGZwqmhgRZNR_Iif6sHw7g1kl0dPOpxm5sZirMvhLFJ3FYf-Rlb0pzONCOPWpxvzrsD7HN9njKdsehCGb8ElQ3tYaAnlmCyL6xkMBQWRSrCzw5yWlowdddxwbWJqqqL9N-GPviFDSCLKqdnFpBO_i1MHspzeu1Vj5D-ZVHwgftRwwwvZ3u_O5AjMbwM8dSQi1LNVquwAufOXp4X9zLHhLMnjIOralgAvfuysfo8EMY5aVMndWg07SWVS0KZxdU_GUSvdrROAh5_yzsNyW-m5nAbTOogEOnufFvAPXJ7RjYt3u3K6LLvvTXBJBOmwNMxhaboVb2iXk8LEft509q-X7w4kWODk4gKMRE3c_RTeID3olSPbfnehEBAhbI3tamGWTMilpKjTa9-xCa_qHA9bjPcIEx-6Xxa3E_H9HjIvBGsYqwP9-13739twCj9cWLzIJyzFbKlVrbA4XDCUuyxYt768LQuN64viIu9gfYCXGrTEM3flI-9hl7MA67oxkL4U4zFDgEAoSlPsCIrYRPnM_fDMm_sQE",
+      "summary" : [ ]
+    }, {
+      "id" : "fc_0b6c2966a18dc4ea006ad1d2dfc51087d0acad7305b60ff273",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"items\":[{\"product_id\":\"P502\",\"quantity\":2},{\"product_id\":\"P306\",\"quantity\":2},{\"product_id\":\"P903\",\"quantity\":1},{\"product_id\":\"P307\",\"quantity\":1}]}",
+      "call_id" : "call_JSfuzbvpY5QRwZ14Hroyv4Gb",
+      "name" : "create_quote"
+    } ],
+    "usage" : {
+      "input_tokens" : 1896,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 1024
+      },
+      "output_tokens" : 273,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 192
+      },
+      "total_tokens" : 2169
+    },
+    "tool_results" : [ {
+      "name" : "create_quote",
+      "output" : "{\"ok\":true,\"quote_id\":\"Q1\",\"lines\":[{\"product_id\":\"P502\",\"name\":\"한돈 삼겹살 구이용\",\"unit_price\":15900,\"quantity\":2,\"amount\":31800},{\"product_id\":\"P306\",\"name\":\"꽃상추\",\"unit_price\":2500,\"quantity\":2,\"amount\":5000},{\"product_id\":\"P903\",\"name\":\"쌈장\",\"unit_price\":4500,\"quantity\":1,\"amount\":4500},{\"product_id\":\"P307\",\"name\":\"깐마늘\",\"unit_price\":3500,\"quantity\":1,\"amount\":3500}],\"total\":44800,\"expires_at\":\"2026-10-16T07:41:45.668327Z\"}"
+    } ]
+  }, {
+    "turn" : 3,
+    "input" : [ {
+      "type" : "function_call_output",
+      "call_id" : "call_JSfuzbvpY5QRwZ14Hroyv4Gb",
+      "output" : "{\"ok\":true,\"quote_id\":\"Q1\",\"lines\":[{\"product_id\":\"P502\",\"name\":\"한돈 삼겹살 구이용\",\"unit_price\":15900,\"quantity\":2,\"amount\":31800},{\"product_id\":\"P306\",\"name\":\"꽃상추\",\"unit_price\":2500,\"quantity\":2,\"amount\":5000},{\"product_id\":\"P903\",\"name\":\"쌈장\",\"unit_price\":4500,\"quantity\":1,\"amount\":4500},{\"product_id\":\"P307\",\"name\":\"깐마늘\",\"unit_price\":3500,\"quantity\":1,\"amount\":3500}],\"total\":44800,\"expires_at\":\"2026-10-16T07:41:45.668327Z\"}"
+    } ],
+    "output" : [ {
+      "id" : "rs_0b6c2966a18dc4ea006ad1d2e2366887d0b4bc834797081bb7",
+      "type" : "reasoning",
+      "content" : [ ],
+      "encrypted_content" : "gAAAAABq0dLl1oMfxEYHrVBspe87V9sPi2-6JFFPE-U8O4xpVnU8MnhCa8xeWTsJDjT_EJ5ChYj13oeWq3hpf4xf9qqkUS6MT7bSbv5vN4VwgpSemr6lv0LF8UA6nb6y4SkxR6T2rkblUFDjnhw00hqfsUla0KhstEprwRK6xG-oGWp9U6povsftSJURFkIVNeHgQbAjgWcE9j2YuEuJqAKB9pc__Ei-l4-1Hnb6yzHNmv__HCfJgFV2t9hg0H2nbZJI3vwhVmn9vu2mALh0pbjYbV45-ybz78bdI1DXI1g5hbptbTkeLGJc89Q6aJxiUdNneDwaWS4fueURjKTgYBI52WBBJJAQA9Guwk5q2ZkOsETzez-MMX_QpWYEPDutwArLyymiVhN5gcgd31fFfBeJkw4yKTA-PGwutNCQX1MSeO04KMCHRaPj8SMibOwTk72X3rlu2z25xm3gzjYrVppFk7EPSNm5TNYxNqYqtr9LX8WgR0NkKZ5NRpxd3D1ZP1gPMaXQ5UngaYXyp-lF7yXgI0MNz7W4ad15xDpOf1yQbcYIpRmTMmTUnUQ-i8rW3VgJzN7BoxoRGKR2sK2J0-W2Mm0gjZh9-3oo4RToLNeST7_3JQfkG-h2QuEVQbVq3d9EWH2I_5g9rgVUo1E_X7uEckimPbbum6RgDe14xxnIzQ9F64__jwkso_tgicuQiPyRy2v3n3j608buhDS2kprmcKUgyzTRQ1BiE1TlpMCaJoeuyam2W031lgpKlfAGAg44TXqqz6cCkOz7003yodh58QzkhnaSYDjynijUhGorqSJsxydhCbsxlXh1B0kKTHfdO4P2TbiCN5Msp5lmFO15JVs1p-psvxPiyEI7kfk383LI0ZrVS9pUXxwltxeAnRxMfnrUHwjojCcWDmJaYmjYLCwEWZJEBy4H4jq8wa2sP5_fSpsl49CE4ZfcSjw1uYyGWQxWh3gNbfyMU9hNi1dPbYSWJI0_4Wpzdicn_lyLzEX_wxIR_kHNZfjaFxbyxHVHlBD4kaFLF3V0uL3bKGVjoOWS2RX-DY4aGUM93tFCnyU6t-KS9NBjx4aDsYaqlamNr-kCARry3XLSZnRPr73GzwlbePazIKSCU4lPoMrzbpQFpQbte7uMAVq3pLZD6qo4qGBbOe6fh4RpEEgLIVhF8YuzIez_CED7H5w0n-kIjdDu0bpdQA3Uw9d2TQ7FhAoGsph4EkaGsNKt-PWNrWgCTczjAYXZ7CKE02a3IZUOnqY44wDNGhlzlrpdJ7NoIYm4o6U4Ikj7xqcF3vIWGQeEMPUBX9J3_Ls3bG7tcQ4ImdWLcGuO1XTG83YGR9-GTsgMZThviaSFW1CtQEwCEJ0SBYcgU_qxusHvdcsVtXQybmJddRLywuar9k0znEdo-By86QvHhg9dFtZFxYjZlx_5zwVJ5tqsJ36YfYJZG6_FL2rQa8KOXZgIIpN2RDTCaH36_sxmCJYfSKI8fhWPqN7JCxTJkQE7dL9IX0BoRkwPwRxzOTulsHAmSG-V5wwi2ys_4IX43-cUFTQGxCApg3-_JExxV7rzCxoKGqucH1LvZ1gNK3gOBIEHW7CHktmoTFfUxSkxcORoW8w8Xnl3OFOCEJCijXzKklUZOPlJoNF1YfRHu8yh0M9lrVj3fEmX5OmO6NFrcW2VrA5UedN-BlMNP0x_TRpuD7lRgTvgTZbjXCCoxBG2Bwc_uFcvCcZFZ-64JNog_9v9MVi94HvXY0ga5GysgRCo3wJZYzQfWZ8b0fmDpN490P41-O90c4o6JFTXkv8NfW-TrdznZesx7PC34b87jnU7clnZi_WGYWKkXjXHMSn4IaRboycItNjhHLSyKD8CeDkD0pnf_0hvv50oNNVyvrK--vR4j7lWaAOWjebpHazyUm0Yyt04Q7qBhnNZ4iw1jE_esYWHaR20NDUQ-7A6yJ7orvRbnL1xbxiGy5_7bWneQLQYwwBFDoFL0K2jkLCf0vv-o2QyBi7DpFRIVz5d_bfmwqI8qSipb35xsx5ARkOQmcWcXYp-AW3-ZIsWd3hS9-xX6zuETlqTyPysWbFmIaYn5ZPT075dalxlPdv_BVMpdILiJAy4VjOxRcriufVFIWowfhYSQdeRUtBCuQF2dn8kBxBXSlbVeLt0siAII99WberW0lcY2qIAjFOqY6DOx39UqtDo_ERVtHknmvyU0I29J_K38vfMzqIy5rtGuFc64zg4eYufWP7v-6nYpZ3LrYMoj4yQsPDn37LNaLrESjd1Ny2BbdfhAt3Npt1VP-_1YfwI4L4gKA7FhWejR0XJtpDo6MlbO-0c9KuAdpdTxr26odh5vryTvf7C2s0QtPpbYsQ_d04Cxy-rnq9DztekXuYzAgW6VC2CvC5ypofXVDiORW7Va4o9Wl19J9a1MImOIvh86f2gHtEMfql6Q5GahShm3bxE47kh2vgAddrpVReNgOYdiMNOJUl6HVppHdzWawMVMD4LJva9DibR471QqU_EXXnwazyBnYbPgHw42R8Z_cuii16OZXdBJ8Rkhs2XuKCMuzi2CeDXwmC-sV6EXKT4MMhmYWU1dgEBNMmYjvZJs4IofYosV_zWSvKjtfN9Nq2j-exA1ji0XLRXbQPh9mahZxx-XL7i9VzaLW4obbO9j1JOjejQ_lNAhhM1NvCvI7nXTJcEI65BMWhxL4oVE-RjORtFEc4mQD2V4RrxuwsPxS9FmnA9f2njWmePq2XgB-hm_1QlrXI81R8ZX7AklabnGzwgAJjN_lqgdpdkttKb5NREkU3wKNfZBwkD01Yr1YEGzBDsEfGM1xg0uF7chkCZPqQ2nZ-s4eipqgCG1IDgLQC4J4zZzIaKph7a8k3j_CfE4NW5sPTq8AkgZkz2ZHzb-beHHAqpU9EPQgUe4pnk6S2lstLM5DbFD-ecZZmkAnQckpXIqn4K6pe4R3pjTUj8VOwsduqaDhlpiSiOKLQ1nzu2c_Y848peoVV7DUw0eM9WuN1f_ZxJIZKrejA5dmmSlkbt00cUrG9glnd2J-dpl4_jHmom0gVV-K-9wrnLnYeGFgpJAh9Fqsnz8U3_75GeYc0oPwgjp_dapC2qlTw3ETEbFa0YHrICNy5UkecXvMF3IiWcTmKNFdwTwOEZKH-DQmUX-TL1I6xxC_qpr1BbDUW0FK3RoWOrNWd_IhMKsqAWh1Ds7D0-E2oBFw6qBakiuh5GsvO9Dh2BW5t_SUp-56pcQAoRnFf7b682ftC-jQ1T0dkcRqlMcTg1Qga-8szrOmvfd89UVrGQAzu_3MxBBILP-Zc4rsfNGhm1cp_XUNX-ygRioGYoG-_H9WXka6fS6RfnkJCIczN6R3sqERxwjTJV448hsG6I5yyU9vbOJ_Z7LS11gMy0l_MSvZa8YD3kZCmpZ50cw6sLzdFgdBfi5g==",
+      "summary" : [ ]
+    }, {
+      "id" : "fc_0b6c2966a18dc4ea006ad1d2e35ba087d0869085121b0d086b",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"quote_id\":\"Q1\",\"menu\":\"삼겹살 파티\",\"servings\":5,\"items\":[{\"ingredient\":\"삼겹살\",\"product_id\":\"P502\",\"quantity\":2},{\"ingredient\":\"상추\",\"product_id\":\"P306\",\"quantity\":2},{\"ingredient\":\"쌈장\",\"product_id\":\"P903\",\"quantity\":1},{\"ingredient\":\"마늘\",\"product_id\":\"P307\",\"quantity\":1}],\"suggestions\":[],\"unavailable_ingredients\":[],\"excluded_requests\":[\"소주: 에이전트로 주문 불가(주류는 성인인증 필요)\"],\"total_price\":44800,\"within_budget\":null,\"message\":\"삼겹살 파티 준비 완료했습니다. 한돈 삼겹살 600g×2(총 1.2kg), 꽃상추 200g×2, 쌈장 500g×1, 깐마늘 200g×1 포함해 견적은 44,800원입니다. 소주(4병)는 에이전트 주문 불가라 직접 구매해 주세요. 필요한 추가 요청 있으면 알려주세요.\"}",
+      "call_id" : "call_Ggg4FuATpruz9KT5qqzGGfh4",
+      "name" : "submit_answer"
+    } ],
+    "usage" : {
+      "input_tokens" : 2336,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 2048
+      },
+      "output_tokens" : 408,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 128
+      },
+      "total_tokens" : 2744
+    },
+    "tool_results" : [ {
+      "name" : "submit_answer",
+      "output" : "{\"ok\":true}"
+    } ]
+  } ],
+  "evaluation" : {
+    "submitted" : true,
+    "pass" : false,
+    "score" : 96.3,
+    "itemRecall" : 1.0,
+    "quantityAccuracy" : 0.75,
+    "violations" : [ ],
+    "extraIds" : [ ],
+    "selected" : {
+      "P502" : 2,
+      "P306" : 2,
+      "P903" : 1,
+      "P307" : 1
+    },
+    "suggestionIds" : [ ],
+    "quoteMatches" : true,
+    "submittedTotal" : 44800,
+    "actualTotal" : 44800,
+    "totalCorrect" : true,
+    "withinBudget" : null,
+    "budgetFlagCorrect" : true,
+    "excludedReported" : true,
+    "unavailableReported" : true,
+    "suggestionsOk" : true
+  }
+}

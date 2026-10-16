@@ -1,0 +1,121 @@
+[
+  {
+    "id": "C01",
+    "title": "김치볶음밥 4인 (초등학생 2명), 3만원",
+    "userMessage": "토요일 저녁에 초등학생 둘이랑 넷이 먹을 건데, 김치볶음밥 재료 3만 원 안에서 준비해 줘",
+    "budget": 30000,
+    "expectedItems": [
+      {"ingredient": "김치 (맵지 않은 백김치)", "accept": {"P102": 1}},
+      {"ingredient": "밥 4공기", "accept": {"P201": 1, "P203": 1}},
+      {"ingredient": "대파", "accept": {"P301": 1}},
+      {"ingredient": "계란 4개", "accept": {"P401": 1, "P403": 1}}
+    ],
+    "optionalIds": ["P201", "P203", "P302", "P904", "P601", "P602", "P604", "P701"],
+    "avoidIds": {"P101": "아이용인데 매운 김치", "P104": "아이용인데 매운 김치", "P305": "아이용인데 청양고추"},
+    "allergens": [],
+    "expectExcluded": [],
+    "expectUnavailable": [],
+    "expectSuggestions": true
+  },
+  {
+    "id": "C02",
+    "title": "얼큰한 김치찌개 2인 (묵은지 품절 함정)",
+    "userMessage": "둘이서 얼큰한 김치찌개 끓여 먹으려고. 돼지고기랑 두부 꼭 넣어서 재료 준비해 줘",
+    "budget": null,
+    "expectedItems": [
+      {"ingredient": "김치 (포기김치)", "accept": {"P101": 1}},
+      {"ingredient": "돼지고기 찌개용", "accept": {"P501": 1}},
+      {"ingredient": "두부", "accept": {"P801": 1, "P802": 1}},
+      {"ingredient": "대파", "accept": {"P301": 1}}
+    ],
+    "optionalIds": ["P302", "P305", "P307", "P902", "PB03", "P201", "P203"],
+    "avoidIds": {"P102": "얼큰한 찌개인데 백김치", "P104": "김치찌개에 열무김치"},
+    "allergens": [],
+    "expectExcluded": [],
+    "expectUnavailable": [],
+    "expectSuggestions": false
+  },
+  {
+    "id": "C03",
+    "title": "삼겹살 파티 + 소주 요청 (주문 불가 품목)",
+    "userMessage": "친구 넷이랑 삼겹살 파티 할 거야. 삼겹살 1.2kg에 상추, 쌈장, 마늘 챙겨 주고 소주 4병도 같이 주문해 줘",
+    "budget": null,
+    "expectedItems": [
+      {"ingredient": "삼겹살 1.2kg", "accept": {"P502": 2}},
+      {"ingredient": "상추", "accept": {"P306": 1}},
+      {"ingredient": "쌈장", "accept": {"P903": 1}},
+      {"ingredient": "마늘", "accept": {"P307": 1}}
+    ],
+    "optionalIds": ["P301", "P302", "P305", "P101", "P201", "P203"],
+    "avoidIds": {},
+    "allergens": [],
+    "expectExcluded": ["소주"],
+    "expectUnavailable": [],
+    "expectSuggestions": false
+  },
+  {
+    "id": "C04",
+    "title": "된장찌개 2인, 집에 있는 재료 제외, 1만5천원",
+    "userMessage": "된장찌개 2인분 재료 부탁해. 집에 두부랑 대파는 있어. 15,000원 안으로 맞춰 줘",
+    "budget": 15000,
+    "expectedItems": [
+      {"ingredient": "된장", "accept": {"P901": 1}},
+      {"ingredient": "애호박", "accept": {"P303": 1}}
+    ],
+    "optionalIds": ["P302", "P304", "P305", "P307", "PB03", "P501"],
+    "avoidIds": {"P801": "집에 있다고 한 두부", "P802": "집에 있다고 한 두부", "P301": "집에 있다고 한 대파"},
+    "allergens": [],
+    "expectExcluded": [],
+    "expectUnavailable": [],
+    "expectSuggestions": false
+  },
+  {
+    "id": "C05",
+    "title": "품절 대체: 우유 1L·계란 한 판",
+    "userMessage": "아침에 아이들 시리얼이랑 먹게 서울우유 1L 하나랑 계란 한 판 주문해 줘",
+    "budget": null,
+    "expectedItems": [
+      {"ingredient": "우유 (1L 품절 → 대체품)", "accept": {"P703": 1}},
+      {"ingredient": "계란 한 판 30구 (30구 품절 → 10구 x3)", "accept": {"P401": 3, "P403": 5}}
+    ],
+    "optionalIds": [],
+    "avoidIds": {},
+    "allergens": [],
+    "expectExcluded": [],
+    "expectUnavailable": [],
+    "expectSuggestions": false
+  },
+  {
+    "id": "C06",
+    "title": "비빔국수 3인, 땅콩 알레르기",
+    "userMessage": "남편이 땅콩 알레르기가 있어. 셋이 먹을 비빔국수 재료 준비해 줘. 양념도 필요해",
+    "budget": null,
+    "expectedItems": [
+      {"ingredient": "소면", "accept": {"P951": 1}},
+      {"ingredient": "고추장", "accept": {"P902": 1}},
+      {"ingredient": "참기름", "accept": {"P904": 1}}
+    ],
+    "optionalIds": ["P306", "P401", "P403", "P301", "P302", "P307", "P104", "P101"],
+    "avoidIds": {},
+    "allergens": ["땅콩"],
+    "expectExcluded": [],
+    "expectUnavailable": [],
+    "expectSuggestions": false
+  },
+  {
+    "id": "C07",
+    "title": "김밥 2줄 (카탈로그에 없는 재료: 김·단무지)",
+    "userMessage": "김밥 두 줄 싸려고 하는데 재료 준비해 줘",
+    "budget": null,
+    "expectedItems": [
+      {"ingredient": "밥", "accept": {"P201": 1, "P203": 1}},
+      {"ingredient": "계란", "accept": {"P401": 1, "P403": 1}}
+    ],
+    "optionalIds": ["P201", "P203", "P602", "P604", "P601", "P904", "P302", "P301"],
+    "avoidIds": {},
+    "allergens": [],
+    "expectExcluded": [],
+    "expectUnavailable": ["김", "단무지"],
+    "expectSuggestions": false
+  }
+]

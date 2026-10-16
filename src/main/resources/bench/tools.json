@@ -1,0 +1,105 @@
+[
+  {
+    "type": "function",
+    "name": "search_products",
+    "description": "판매 중인 상품 카탈로그를 검색한다. 카테고리와 키워드(상품명·태그·리뷰 키워드 부분일치) 중 하나 이상을 지정한다. 품절(stock=0)과 에이전트 주문 불가(agent_orderable=false) 상품도 결과에 그대로 포함되므로 직접 걸러야 한다.",
+    "strict": true,
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "category": {
+          "type": ["string", "null"],
+          "enum": ["김치", "쌀/밥", "채소", "계란", "정육", "가공식품", "유제품", "두부", "양념/소스", "면", "수산", "주류", null],
+          "description": "상품 카테고리. 모르면 null"
+        },
+        "keyword": {
+          "type": ["string", "null"],
+          "description": "검색어 (예: 대파, 돼지고기, 맵지 않음). 없으면 null"
+        }
+      },
+      "required": ["category", "keyword"],
+      "additionalProperties": false
+    }
+  },
+  {
+    "type": "function",
+    "name": "create_quote",
+    "description": "선택한 상품과 수량으로 견적을 발급한다. 서버가 현재 가격·재고·주문 가능 여부를 다시 검증하고, 성공하면 10분간 유효한 quote_id와 합계를 돌려준다. 실패하면 errors를 보고 상품을 고쳐 다시 요청한다.",
+    "strict": true,
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "items": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "product_id": {"type": "string"},
+              "quantity": {"type": "integer", "description": "상품 단위 기준 개수"}
+            },
+            "required": ["product_id", "quantity"],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": ["items"],
+      "additionalProperties": false
+    }
+  },
+  {
+    "type": "function",
+    "name": "submit_answer",
+    "description": "최종 장바구니 제안을 제출한다. 반드시 마지막에 한 번 호출한다. items는 create_quote로 발급받은 견적과 정확히 같아야 한다.",
+    "strict": true,
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "quote_id": {"type": ["string", "null"], "description": "발급받은 견적 ID. 담을 상품이 없으면 null"},
+        "menu": {"type": "string"},
+        "servings": {"type": "integer"},
+        "items": {
+          "type": "array",
+          "description": "기본 재료 상품 (견적에 들어간 것)",
+          "items": {
+            "type": "object",
+            "properties": {
+              "ingredient": {"type": "string"},
+              "product_id": {"type": "string"},
+              "quantity": {"type": "integer"}
+            },
+            "required": ["ingredient", "product_id", "quantity"],
+            "additionalProperties": false
+          }
+        },
+        "suggestions": {
+          "type": "array",
+          "description": "함께 넣으면 어울리는 추가 재료 제안 (견적·items에 넣지 않음)",
+          "items": {
+            "type": "object",
+            "properties": {
+              "ingredient": {"type": "string"},
+              "product_id": {"type": "string"}
+            },
+            "required": ["ingredient", "product_id"],
+            "additionalProperties": false
+          }
+        },
+        "unavailable_ingredients": {
+          "type": "array",
+          "description": "필요하지만 카탈로그에서 판매하지 않는 재료 이름",
+          "items": {"type": "string"}
+        },
+        "excluded_requests": {
+          "type": "array",
+          "description": "사용자가 요청했지만 정책상 담지 못한 품목과 이유",
+          "items": {"type": "string"}
+        },
+        "total_price": {"type": "integer", "description": "견적 합계(원)"},
+        "within_budget": {"type": ["boolean", "null"], "description": "예산 이내면 true, 초과면 false, 예산 언급이 없으면 null"},
+        "message": {"type": "string", "description": "사용자에게 보여줄 답변"}
+      },
+      "required": ["quote_id", "menu", "servings", "items", "suggestions", "unavailable_ingredients", "excluded_requests", "total_price", "within_budget", "message"],
+      "additionalProperties": false
+    }
+  }
+]

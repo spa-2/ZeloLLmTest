@@ -1,0 +1,249 @@
+{
+  "model" : "gpt-5-mini",
+  "case_id" : "C04",
+  "user_message" : "된장찌개 2인분 재료 부탁해. 집에 두부랑 대파는 있어. 15,000원 안으로 맞춰 줘",
+  "repeat" : 2,
+  "turns" : [ {
+    "turn" : 1,
+    "input" : [ {
+      "role" : "user",
+      "content" : "된장찌개 2인분 재료 부탁해. 집에 두부랑 대파는 있어. 15,000원 안으로 맞춰 줘"
+    } ],
+    "output" : [ {
+      "id" : "rs_0e9d438156ed5e70006ad1d311bdb887d09624d1e4630e45bf",
+      "type" : "reasoning",
+      "content" : [ ],
+      "encrypted_content" : "gAAAAABq0dMSQC3VH1LCmyW-Uc5D5kNOYX0KueGBzFeAF692zHRrUnXyigrZEyUiuMHrweHVPoW_7FeWnBNodevAYtoj35HdHRbBspxHnVuQE9jnWuJWYNF78t-Q7MwW9V_0XDh13uY5j7K-1qbDT-CtDiiuycpAXuUriWfjLyyZrQ1oblpPSc_o-ownvIlcIo9lTuENZPypueq0feqowBLUpStYfVr5OZaUad_6NQZstYAC8Ao5Y0TtnJUhp7Yd28fLU5kJuJSkcVUfBbrtkjnHjis3PtEyeEDyXtGS0wY4_yE_qA1INoaMsCjB1KCG3ZntHFC0lOTqToKLtfhLMIPQoGb7mNtV9AReyNzEbWd0V1xTtHrxdl6sCpH-t4hVbZ-LcdZw3Gqn8yfqc7uzL1CVxTI8o1krCntrIOnRmEWZRIL37q8E5OXY5buRwApKPrliKso-bm0M3rey_qmnRSj3YJcJgqcb2z_5IeGiYU3f5uhLVaD9qHVqxjKiCNd7fgPEaGJ7MRKy8xZxt9ZM2jt_HMhMkPa77yWMOCBWBqEdHAOBirq-Y2Lgzg0wRHgn7lt_d0STn3TA4rRxXP9KUXYCGudad9RblVPkl6aNaaNtvwXXRO4SgdERD3nr49gdVQaDdaKTS3xePx9WL24wiujXOpy4ZSBgIr_uD6qRzsVSECgLJYP2XYkHIAEb8ybF9qYIx6jtQP6nqAl4xvHmE6Bzzl1oI6HY-gibCrSpO-_k1uAlVILd-S3PrD-43zoCTf_FIM37OJuXoX43NeH_i4DG9eIhJPd6QDQTBMrc4lOxc2TCmoPz433-RLB9JEfZfIICT0ux_11rgkjOyotFgV3_rNT--IXcXuNXit7Rp6EWtv-Hg_sH2n_GjE7OrGkAueD1OWT9-rgH2Av4jJexb8qYx44MDX7nevoYrihV5XNfvjZr-oRtfs8CW4eJIthNEjGJDqyfHe3g9QTUvyMQlZNs2QR0C3xWZjppl6EYKBg5Dn05txgoIcVN-kn4_gWeAlY4293f24FO8QxFYtEZHFoBq1aK4_pZvxm3guMuLKWxXVz18GrE4M0_Xm4ZhguwFiyOeOl5dVkaADP49AOB_OGBEahCQvorM6rCOxa1qoAKzqCeDfh0z9iKLUyq-YoToAukf5yzDejhMfInYEtiAA4Wkmbk6p53_32MwCM2XWKXrzyyEag9U-6NDZMtniqAi6TMElua759Q329Ka8v-l29SZiLcJX3MNcOP-7SK0Pk80lfJj8kthfp48Duii6U_tKjBwf5yTg0fo_zVxo1jpVJvNF_NY1tag-JphKGR6CEZ0MKcT8XuIreHZ-ncMITurZRhFmm3D1mi0dbje4liVJrWXHF_Xl1KIzRL7OwwHfoDr3_GOePXTLflPlEcALxQViU7SyhGh25OJ1Pt-RoH-5624igQqmoN-mTEc9lPTlknIC59xKmv2ZDO3iT5CuwGQrKY1N5nCThXhc2-bViU2MKKJPPvCGWG3-7GVYPKCsd4k-bNQJ29OBvPTRSx1mM4NF6GjLNWD6YVdpWt6TXM84ya2Nm1Gq2Ik3N-IqzyvkjpvDAteIwoIn-JIIQhNFWlYYMgZ5qUc8sflWONj6nvcGArGfqtvc7oTFf5y5Poh1BeEg4SOl8KE4cqHwievnsUBmATcIqtx75XMRfERzUMcmFoxD0jRxBa3U8JTPLnFv3PaqO4f2Z9bZYgYB3pb85R6vtHdOLzqlBmzTmwWTfqyEBDs7KlRgutSpbzXhJFeVX5wdDXzusihe75O34xYzMgz2V7jupIhf6aA4L-7YNHhx_k7cej5AjecgXHPi00RSj22IEcNH1le1XlnWpKV6gQJhwGU8bIC8vWKbGVN06ars-BuJvoS_GQyjCJCsASRWthSYEuH3rHUq1KGIg3rQFGFVWyRCjc8HQcAPYXiYzxTt66phP9MEn3UYRDIjBtI45OwElpME1vmj0dnDYQifiQY41VCUmG9XODxlS_iYKJm_h5xKr4t72954hxzxUTqEjM3l0k0USTOBa8F7ybA4tsTf-qvtNfcaJqtrjtkvpqmMzCAbi7aR9-4JVka95bnSa3O6aKKrBpqrbTWzrvha8rzrNsN8tLqLBmY108qT5R55RU6m6bG_6jFbuZ6RU4L4MB8DCgQwPIzbvvl8-XuXFk7e6m0LD-GFwiQzDrHMZ7NQG1gm0ckUtkOdYnc2v-kD1t96i4uVsgB7-CudB2HEBZwmKctEVM_R6HD2kl7JS_a_iTzu_evuqWf1ykc5CbKq9ouKnH8OBDg3seyP-EvUcS9LzDT72b2Nr5e1fgt5sLmjT0wqzVpKrcLXywdGzJuKHQoxOdiB_5pH3XjorOq0xXqZTb_mKTmRst61LeubqPdo11nHqpiXGY8ePu5aDQwjGETx5m4QOaO7TwhouScGfIrJhioUe5qy5XiA9j1daKM8r2OlTbvSrm3mRr0MTTu5ylmt007qGbClJ8aKKjWrGtMCu-CCdkw5sCNNVVMQXHlM-PQ2e_i6EBGwdbAHk444j4dF_ZVxSZIyoR6lteMB2qEQgAZFiF9QuDGeBCsVXmQ7sl5ZRdWOnhMyZIWok9G1GU2BQg68ucST3l76tEeukM6m2Rffwm4Eg-CQxxK6HwfJ89A0AqnOTEAiOFSwlhFmOqj4fMTRcoTO0=",
+      "summary" : [ ]
+    }, {
+      "id" : "fc_0e9d438156ed5e70006ad1d312967487d0ab32a18413d49053",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":null,\"keyword\":\"된장\"}",
+      "call_id" : "call_LeZS6kdKdrbApCYckTUhBqZ8",
+      "name" : "search_products"
+    } ],
+    "usage" : {
+      "input_tokens" : 1069,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 0
+      },
+      "output_tokens" : 122,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 64
+      },
+      "total_tokens" : 1191
+    },
+    "tool_results" : [ {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P901\",\"name\":\"재래식 된장\",\"category\":\"양념/소스\",\"price\":4900,\"unit\":\"500g\",\"stock\":20,\"rating\":4.6,\"review_count\":1400,\"sales_count\":7700,\"spicy_level\":0,\"review_keywords\":[\"구수함\",\"된장찌개 맛집\"],\"allergens\":[\"대두\"],\"agent_orderable\":true},{\"product_id\":\"PB01\",\"name\":\"해감 바지락\",\"category\":\"수산\",\"price\":4900,\"unit\":\"300g\",\"stock\":0,\"rating\":4.3,\"review_count\":300,\"sales_count\":1900,\"spicy_level\":0,\"review_keywords\":[\"된장찌개에 넣으면 시원\"],\"allergens\":[\"조개류\"],\"agent_orderable\":true}],\"count\":2}"
+    } ]
+  }, {
+    "turn" : 2,
+    "input" : [ {
+      "type" : "function_call_output",
+      "call_id" : "call_LeZS6kdKdrbApCYckTUhBqZ8",
+      "output" : "{\"products\":[{\"product_id\":\"P901\",\"name\":\"재래식 된장\",\"category\":\"양념/소스\",\"price\":4900,\"unit\":\"500g\",\"stock\":20,\"rating\":4.6,\"review_count\":1400,\"sales_count\":7700,\"spicy_level\":0,\"review_keywords\":[\"구수함\",\"된장찌개 맛집\"],\"allergens\":[\"대두\"],\"agent_orderable\":true},{\"product_id\":\"PB01\",\"name\":\"해감 바지락\",\"category\":\"수산\",\"price\":4900,\"unit\":\"300g\",\"stock\":0,\"rating\":4.3,\"review_count\":300,\"sales_count\":1900,\"spicy_level\":0,\"review_keywords\":[\"된장찌개에 넣으면 시원\"],\"allergens\":[\"조개류\"],\"agent_orderable\":true}],\"count\":2}"
+    } ],
+    "output" : [ {
+      "id" : "rs_0e9d438156ed5e70006ad1d313946887d08aba7adf1cc9ef86",
+      "type" : "reasoning",
+      "content" : [ ],
+      "encrypted_content" : "gAAAAABq0dMVg9IPF9oEIKoppv9hgRr9gGmIs4RS3hk6I4Sk3BnP9VeyHfnmrVHgVQhCJ8T7XQHBEYI9GrwQFGPPuLvqmPMLLYTC9znaN7NQ83tfhlWuTO2noyHGD6sTN6gsS3rmZniAGCwddQ36wcHXRYGbH310tld45U0fwKL4ucHrmEg9OMS1bZyx-PTydUg5tMX6yHYrHYDG-CFVQI4S1gpwn59Wu5kRn9g_Q7fz6-LcMGrVRu8kn8R42BiR5O1ZSNxyPAgNl2ExKwzoeRNya1M_BrPV9Szcu9E57EbjpkIjiwJLl-5iRvRkZCXDQXIkTrERvwm0cU7gStmAUlm4UqD6C3I70byTdYmIaVEBEqDVAP9beZILp3vDnaTdhhb2TlcNiI9tohAaw4h6CuXZltWZhV5ebYi6cZUIl7GQHfcsuGiM3WYv2xPSQ8NLXV4avyjl_0bU650fq-WVTe6nI_LKWg_PYTEQpm2GLp7j3Cd3yDh8rm9gdtbyXZiPQPaYzs45LkfHnNvIM4k5vMul-etUFmYqjJYUT1aWMM8SBOUJgvem4Mtu952yUqYCitr6FriTxTOdsgpKsYeABj0c1Ohvx-Vuq5ppL6ADF6dHRgDUM26CNh9tMwdtw4MigAnx0B_5n0txO6nxSDcrWAawN398WejxCixhQoVc0R6d5vJCFsXgWTlMkwZngN8VQH5N8o64T_-5EvJ9pJ9LE06iIzUZozZ-5uy7BsGi5HpSs3g4Lp9OZYbOPTLhceN1bEHdHK-zxk_k8TJXLjyY269i0DfeatE2WgiG82UMhewwm1VzAgBdBBsIBAIXoehituGR4nnytnKecppmBTAWPZh40umnnyi48sUQfN55jjZc20Xu6-DsXzYF21rbd0zz97GLTM-oufsUhHfXwCJdqmLMBFpJ3LLz5iATQhiYHGIeobva2LdLi-DfzkhKgiu9hPUdrTZJGILRQjEgbleiGUC3H9fiBlBwMczvFi-SY3iCXC9T9ipCHKOOEJ-xpBVEHdsS7nGBEzszelAwPl1-77p7fKbw7HzJiSkYgpaJZKb9MzBNH3j-Jyn3KvTc2leAdA0BiwPoyjO0_fMbKW0vB2ExBj27Cu7ohLP7LK9GJqYyzaSYPkZZD-taWb7w5V0jMFcgZ7pfKIAboXiaP_yRazPN0mgBGcZ_HF8rsOWe4UwqFk8FOY63JG0zMn8V8xFOwvNzA0Ej7U_UADb3zNzp144YyAunNUV8dyKyLURNrGvdkY7iRyNqoryYrirhFFfV8XMJ4im6qjSgBopuyiK9a5NhR2qvAlxBxTdAu-7iNocbxm1eulFgzgqzsUNdoMZNATHwrVgalIrsnQ54J13ikUtmRSktYyWJnJH8AI5drjz5p_TmizjN3cqMcFHwg3Clf6RguV1DlWJgjN4PBeR5ArIexLY02WvREGI45AnZ720Q_kewhJd1UD1YXMWcylR4x9hEoFKgXOuux15njPxGsBQ82bxsd-Yp_1BcObP-Q99LtYxbnLGk8BFmqQBMgqQwrEADLTgB9wmHknMJ1D9efIP44vyyay8uFRuHAI1TjJkOcpyn92n_VhIPcV_mvUUnXwJpCksYYh297tt1vgT8B4uuxly6-uy4ddU3WpUexVq9fna1ndOLR8V4pn9ba_p0ONwbPokw1ouiXlVR3euj1swwII3OWvrOfZyFeiL-C8A9tTtWyWD1LdYC7_LYKirv79N6GV1MjxrnyesDafELwOENb0U_6X9R_FOfPvhpPp7OTQuA5rWizmsUkZzYy2P0Fte0Hh-MgJ-DI1PNR5BCXbdkavYnfeNws7Qlw0QOjTYuCnWZde-jKYm0l8obbSjmYCyypFbbcqQip1A-gll02fsUZgTvb3y6fXJ8HSDaeDvKotyySZmsDc_c5wxEcGA_BsJhj4HBZJ0hz3BKIXFcmdIbOI8Z6xH43bccruSMEXWHFwshUtHyvWIUnMtKtIxJ9_LqqAXA2AygMgbdL0inN-QUMSziPrlyHwA6fC_HoaLwkM-mkC7gel8quI-fZQmlAtcIQvxvkhEx",
+      "summary" : [ ]
+    }, {
+      "id" : "fc_0e9d438156ed5e70006ad1d315035087d094aa5dc4fda8cb4a",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"정육\",\"keyword\":\"돼지고기 다짐육\"}",
+      "call_id" : "call_qVGTCJcD7qJMIdmHyDOXU4tY",
+      "name" : "search_products"
+    }, {
+      "id" : "fc_0e9d438156ed5e70006ad1d315035c87d095926af973dc2eba",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"수산\",\"keyword\":\"멸치\"}",
+      "call_id" : "call_sFZPXpJpP5xl5u2kzHEUhkCX",
+      "name" : "search_products"
+    }, {
+      "id" : "fc_0e9d438156ed5e70006ad1d315036487d0a7d5d7908049baf1",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"채소\",\"keyword\":\"감자\"}",
+      "call_id" : "call_CvfLLzhJitsjyPm1RbL6h3eK",
+      "name" : "search_products"
+    }, {
+      "id" : "fc_0e9d438156ed5e70006ad1d315036c87d090cb907d2be635c5",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"채소\",\"keyword\":\"양파\"}",
+      "call_id" : "call_OKmwe4mZvjMmdbDMcMiF1Yyy",
+      "name" : "search_products"
+    }, {
+      "id" : "fc_0e9d438156ed5e70006ad1d315037487d0b6fc3a2032232c35",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"채소\",\"keyword\":\"애호박\"}",
+      "call_id" : "call_Y8MJIR53JjLkg9qo5QbL6Z5Z",
+      "name" : "search_products"
+    }, {
+      "id" : "fc_0e9d438156ed5e70006ad1d315037887d0af3dddf833501b21",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"채소\",\"keyword\":\"마늘\"}",
+      "call_id" : "call_PCmCFYOeDAV8yx5w6jyh0mI5",
+      "name" : "search_products"
+    } ],
+    "usage" : {
+      "input_tokens" : 1383,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 1152
+      },
+      "output_tokens" : 193,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 0
+      },
+      "total_tokens" : 1576
+    },
+    "tool_results" : [ {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P501\",\"name\":\"한돈 앞다리살 찌개용\",\"category\":\"정육\",\"price\":7900,\"unit\":\"500g\",\"stock\":15,\"rating\":4.6,\"review_count\":1300,\"sales_count\":8200,\"spicy_level\":0,\"review_keywords\":[\"김치찌개용 딱\",\"잡내 없음\"],\"allergens\":[\"돼지고기\"],\"agent_orderable\":true},{\"product_id\":\"P502\",\"name\":\"한돈 삼겹살 구이용\",\"category\":\"정육\",\"price\":15900,\"unit\":\"600g\",\"stock\":20,\"rating\":4.7,\"review_count\":4100,\"sales_count\":26000,\"spicy_level\":0,\"review_keywords\":[\"두툼함\",\"기름 적당\"],\"allergens\":[\"돼지고기\"],\"agent_orderable\":true},{\"product_id\":\"P503\",\"name\":\"한돈 목살 구이용\",\"category\":\"정육\",\"price\":14900,\"unit\":\"600g\",\"stock\":0,\"rating\":4.6,\"review_count\":1900,\"sales_count\":11000,\"spicy_level\":0,\"review_keywords\":[\"부드러움\"],\"allergens\":[\"돼지고기\"],\"agent_orderable\":true}],\"count\":3}"
+    }, {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"PB03\",\"name\":\"국물용 멸치\",\"category\":\"수산\",\"price\":5900,\"unit\":\"200g\",\"stock\":15,\"rating\":4.5,\"review_count\":520,\"sales_count\":3800,\"spicy_level\":0,\"review_keywords\":[\"육수가 진함\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P304\",\"name\":\"감자\",\"category\":\"채소\",\"price\":3900,\"unit\":\"1kg\",\"stock\":18,\"rating\":4.3,\"review_count\":610,\"sales_count\":5400,\"spicy_level\":0,\"review_keywords\":[\"포슬포슬\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P302\",\"name\":\"양파\",\"category\":\"채소\",\"price\":3200,\"unit\":\"3개(약 600g)\",\"stock\":35,\"rating\":4.4,\"review_count\":760,\"sales_count\":9800,\"spicy_level\":0,\"review_keywords\":[\"단단함\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P303\",\"name\":\"애호박\",\"category\":\"채소\",\"price\":1800,\"unit\":\"1개\",\"stock\":20,\"rating\":4.4,\"review_count\":540,\"sales_count\":7600,\"spicy_level\":0,\"review_keywords\":[\"찌개용으로 좋음\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P307\",\"name\":\"깐마늘\",\"category\":\"채소\",\"price\":3500,\"unit\":\"200g\",\"stock\":30,\"rating\":4.6,\"review_count\":890,\"sales_count\":8800,\"spicy_level\":1,\"review_keywords\":[\"알이 굵음\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    } ]
+  }, {
+    "turn" : 3,
+    "input" : [ {
+      "type" : "function_call_output",
+      "call_id" : "call_qVGTCJcD7qJMIdmHyDOXU4tY",
+      "output" : "{\"products\":[{\"product_id\":\"P501\",\"name\":\"한돈 앞다리살 찌개용\",\"category\":\"정육\",\"price\":7900,\"unit\":\"500g\",\"stock\":15,\"rating\":4.6,\"review_count\":1300,\"sales_count\":8200,\"spicy_level\":0,\"review_keywords\":[\"김치찌개용 딱\",\"잡내 없음\"],\"allergens\":[\"돼지고기\"],\"agent_orderable\":true},{\"product_id\":\"P502\",\"name\":\"한돈 삼겹살 구이용\",\"category\":\"정육\",\"price\":15900,\"unit\":\"600g\",\"stock\":20,\"rating\":4.7,\"review_count\":4100,\"sales_count\":26000,\"spicy_level\":0,\"review_keywords\":[\"두툼함\",\"기름 적당\"],\"allergens\":[\"돼지고기\"],\"agent_orderable\":true},{\"product_id\":\"P503\",\"name\":\"한돈 목살 구이용\",\"category\":\"정육\",\"price\":14900,\"unit\":\"600g\",\"stock\":0,\"rating\":4.6,\"review_count\":1900,\"sales_count\":11000,\"spicy_level\":0,\"review_keywords\":[\"부드러움\"],\"allergens\":[\"돼지고기\"],\"agent_orderable\":true}],\"count\":3}"
+    }, {
+      "type" : "function_call_output",
+      "call_id" : "call_sFZPXpJpP5xl5u2kzHEUhkCX",
+      "output" : "{\"products\":[{\"product_id\":\"PB03\",\"name\":\"국물용 멸치\",\"category\":\"수산\",\"price\":5900,\"unit\":\"200g\",\"stock\":15,\"rating\":4.5,\"review_count\":520,\"sales_count\":3800,\"spicy_level\":0,\"review_keywords\":[\"육수가 진함\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "type" : "function_call_output",
+      "call_id" : "call_CvfLLzhJitsjyPm1RbL6h3eK",
+      "output" : "{\"products\":[{\"product_id\":\"P304\",\"name\":\"감자\",\"category\":\"채소\",\"price\":3900,\"unit\":\"1kg\",\"stock\":18,\"rating\":4.3,\"review_count\":610,\"sales_count\":5400,\"spicy_level\":0,\"review_keywords\":[\"포슬포슬\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "type" : "function_call_output",
+      "call_id" : "call_OKmwe4mZvjMmdbDMcMiF1Yyy",
+      "output" : "{\"products\":[{\"product_id\":\"P302\",\"name\":\"양파\",\"category\":\"채소\",\"price\":3200,\"unit\":\"3개(약 600g)\",\"stock\":35,\"rating\":4.4,\"review_count\":760,\"sales_count\":9800,\"spicy_level\":0,\"review_keywords\":[\"단단함\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "type" : "function_call_output",
+      "call_id" : "call_Y8MJIR53JjLkg9qo5QbL6Z5Z",
+      "output" : "{\"products\":[{\"product_id\":\"P303\",\"name\":\"애호박\",\"category\":\"채소\",\"price\":1800,\"unit\":\"1개\",\"stock\":20,\"rating\":4.4,\"review_count\":540,\"sales_count\":7600,\"spicy_level\":0,\"review_keywords\":[\"찌개용으로 좋음\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "type" : "function_call_output",
+      "call_id" : "call_PCmCFYOeDAV8yx5w6jyh0mI5",
+      "output" : "{\"products\":[{\"product_id\":\"P307\",\"name\":\"깐마늘\",\"category\":\"채소\",\"price\":3500,\"unit\":\"200g\",\"stock\":30,\"rating\":4.6,\"review_count\":890,\"sales_count\":8800,\"spicy_level\":1,\"review_keywords\":[\"알이 굵음\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    } ],
+    "output" : [ {
+      "id" : "rs_0e9d438156ed5e70006ad1d315f79487d0963ba01c8854cc84",
+      "type" : "reasoning",
+      "content" : [ ],
+      "encrypted_content" : "gAAAAABq0dMZ_dpOI206ZlgPqwWY2uvBpU_wLs4HHAVTNb4_lhAFspFsmMHQUGRI55cPHQbky0QV-8R58tqDXucabXyAZePQFCgEvuu4dLAnOZ3wrfYgm8aJ8HZOOtef5i9L2k6kU72fJDmTjG_Od13r39orF0oCNDKBwEMaVk1R5aC6cHi8A1R9bflPAORBkgar4Wmq2m3X-tF8Szo8bngeMLXo5m2VzWOeoRZ_l-tX65-t6OOtXJXfVsRczRCDQ7dbaCo2QofpDBLw15WWFIux5HrJNeLCVN-eAZoPfuEfVdEczb9p5cSqkMgrA8HFqDbtO5DHWafHoK3jCw3iBFVxZh34Lb7ZMVGVakQjGDJ5r6tFiQYiU9V7wehnccB4ybgl9pchMfFrTsBFjc6ti6Zos7obVjdT3zjIh_ZRIqDs2SVzpgvwAiI_-cddo3akb3A3FTgKovMLx4hl-8u0r7iJqow9KxPmtxRHxE8PgIRLhXiqGsEeStO75yrjBXNPVVQXLeZHQau-1iompTv3OUrsK0-EdyzLxQDI-1lJ558LFe11wUtpZ0lzBhV9gTBMOcfJuuopNSgFSaxClI4cUbw0G-Uq0OjePXmyPdX-97-4XdTiu5nhXPN1UH6r0v1dNmO2eEcDnb6dFo4bHmnCsFyZxSy3XVI-chDQF0WiftIaEmfwpMDDMkmSF8t4J09jrZc-8f1OjXPbjpcnGlDKRVYRs8P2LtVY_JLhzst-XwWN4Mg7SYaeJjA9BuDgCiRIqsALh4IQUM8PDLDVhxgfyjJBNyzHVmgi088cFCJ9zGiKtgy7JFRBmAKLFBnfXuuifp_v_bkUG5NCYxr6P-x7Ssch7512k2ZzuPNVSPUyZWE4RWBStXN74xygAhCOQwa4E7CPrwwIRisE0ucAfyYmUwOVHZqrYytGobQ0LJAnUUBEDrglgsR79fZqMVy2113YlkeKRvD1zWCemfAEg2BJShYoVWXuZ5jtsw5Ywnz28PCtGZQyMmfU_0O_E6HFikrZs8MhbwsolOp5Y1xwknvh1VS8ZfPyMzGUDO8W0P02jxi8kac53s_9tP8V5V93UrlgOrVsDkn3gUJVKIk15rnJtWkKjG9OynnMmaPJu_8SZLXDzpw8Z-fPId0I1uNKNkO9x9rvez5Jd3bGP875uwPHRZXQ2XTD6tdT_oPN8oyn2PtQXi6YrGejVkQ9OrIMpmQPXEvOq1PzyixkoWIo5vXcjvFIqHVWp76l_KFxmuk2L2L-WWt7iUsoTyzjw4GFBAWNMm3AVO9d8paUN8jj3JeCHs7Pc7dCJBlpO06I0NZSOD9978u7lb8YORv86tl6uGYzcLw_HaP3Xf2c99r1nFBQ0n_FkpizT33BaQuBeEpMrE9l7yPInW_tsY3QvIbWiIe1kNW1r-EkLGYtsGK-SF_2DAaQVFY65TMfWw6YS85FV5QQUEJSGVNURi6spHW04hCq0jQ65-ike4i7Hl0S7xc6VwlMfuUMy6mTr5cqvEhKvAsJbnHoe3T-PxTcq6ZAabPWSbDfhFotm9U0soMK7jz1C-estrN5spWrcmw8EHaiybnCJ0ncl8rZckohOheL1avh_MFfh-AauGVyKwR59Wh3-R9qNzfYwbvNLPv4GRzv69Bs4CAi8v_skjZVMAc0kmFdDoNTCFUk_m23n1FDTOSNGaQ-7OgHjCfMtCghiP0ix3RqpngiopFKpVvEUUjTwNOdTL_4OVrSoZdGrUwiO4A7ixsLyHzj2daedZX25Zi9y1UvBfpgwSFgCyhwO5LNuycmTAcLe_BJUdi5Vb_XQC-gEOh51FqrzrQ9OGoWGcpId0Jlv8uVhZ1J-M5pFPV6dGAfMiLIoKGATuzc5seoKT-RkeLQjU1NOp-tOwZGXPqT8GP3hcMH5_lvxkWnunpWwxvK5XyVWKR_H8SzMOHhdKj198zLlYCmyth1YMFuxRKXHjEkI8_GybSRK2tbX6feOT_UDctXtu6Q2lKlAUjYmBYwXlrywzft7pCMLRXVUAp5N5JZ0iwDWlopjtqoJQSG1WeMKArfIgeeAD6hp2sidqNmdDC0dxhj9TXz9DsmS8Q5Gd7Mlo5RB-nRsOnCP3oxgsaEY6oph7zfUCG2h-cshTYb_Ji8HruVisJwmIwPzNe2K7TuVrCUmMZfWLcfK_qYROpTPsrCGuILhL4FO1s5CP1FLqrXLTfV8IpRVQ2VzKe8D0Hv2BLcv-WOg-uKtYewry1lbNMU85x2jOCJb_PSfBhXTSYkzkI-5w6X9EOTIYdBsjuq2Itzr2YFCJXICMHY_4qSjy1EH1nTswwSV3H6o4EHxO5RMm-WPOqlJkaNv76m-KBSRjl5G6Swl3_ePmMcVDADZbqtsQGootRmQBa1y24ywTT3_hlDeQMlSjhqM4UzX9sHmLPkBB37OtYibzYY_Y_Rt8CX5O7wfsHch_lWV50yRKfRf5RKL1rZOXDlMu3eodx5ilzyOpU7U31iXB7jtbszZ9f9JAAQbLbJBioRgO_pfVZmsHUoX1AgjLO8zLK1aXyySjJVWmKKaRkqrG6_hVqhiAmEDkP-fYfV0TiDYx_kqjnJOe3f4cVS2eKjoygYZB-BdhFT6US3En1rb19WzFU8zYIjLhK1Gk03G5xHWmMsSKi7i75sATzQkvhs5wGCHeix0DOwY7bb9HCQNtCrk9kCLMKCZwWeoXuijLMnP-fnJUBuMcY4s3oJV_phhkscYjd3fufaYd0BqsR5ObmnIpLhirfneFbH3VH8iujiB6rxAHajjX42K-vwg4YvfYRP9gcjIuwthmcKyOPcQY6TEmYj6CL3PkbhoixUlTiJl_EZ4jgiquPsUNsws86wwSjosdrYnmQh7VOcn8QZa1728b_zWwKS4N39KW-ulWBwNqj5e0lC9w-kGtcGXqXg2WFNswFhLUjHTU8qE3QPnQrY4o5alG8IAsQIPs9D6b8ak_Yua7CSD_cqjjsC0_Cqo5Irj8hHLQLKz9aD2Aa0b07o4VvUmPUnIVq0Ag1AWVUEIauNxab4iZydnQ5PEm-KS0b20j4bssx8iMqKyWGrDig784SSP0tzXWom33kbXa3pkONnIGr36VdsHXj137ukU1P65u63CwccwS-PHVYm50_nQLkEo1FSv-t3tsT3cFKSPO3zmVQ5ngxgvZQSO7bHEGvfVo-CpTbfRl6S4Z_YdU6NcNl2JlUmLWPAW0jdgLH2H_ZRkQvVc-wwpDLlGIKK-m9mob53AVLDjREYznTwLDdhKnKE1v2Q_M_JhRImNKelMQYtHkgNI0pg9IOsUOs9J5bXKVxFgJNLQ8oQ7HhEwsjc0xIKUEAk4dcQSSA6K6f_rozW7hdJYFngMiWdmRaASQBmizhZTxhCYDDKN-Tlg3pUa3CpCvZYs2ydEQ3Yn7nt8_C-0ofamZN7BnhjZWrxxdVYpbAhzlYzcbEQTZask3WsmQXHZSAIv6XE51OY0ttJXuQTQlEzHJaCQnXtExOJBgpv0S7nAteR3kYjyI7GzfQ7NlQsUeA7j8CpFxaoWef_tYEhKeTjefjRrZhurdWCWRZNsGrKO063_GF_39e0EAe-aEK10DIjAz92PWSdLp1VeOhB77t0HVNooE6MxssESKZ0hOD3kIJfJJfViPGD8AB98Le7riQhY55EtsrroYHto-aMkRPsSOIsIrYWuTrQY7tJWuDpsixaFOtCNR7-arqYl0B-TWSzlaWN7YQi4pta3eNniroGWpqUHfrbensx5nAvrjV4h2GNydSD4ovNlAN2oyQiVPeNIzvdZdIvcYSQOTi7eMqAsCX8XDixyQrvf86EI65DPrhnSwR0efrsg3NfVLDuQklg0aPq-orTwP4lTwXb76zRSBzd6LlhMekZNayCQfSVZlyl8B13jkNnTvZSlasI5_G7GVqLlV_c7mSlku8VB07AaTtZBuVGbR1QxdvIZ1zL7pIeSR4wHD8u1JVH6YrOp9yW0FvX6nqjgTmbiNnZY0khx4HPxtEi6ehui-mjLzwbIosRoo7HHtBtIfb-uubMqdYIHNRwemSDDOmfQLBOr1QSGcLy24m3wIv2BUmlXv--LiQnlZGMuOkpRkvfSkEPpe8vAQjefw1yL0syKdoaWETYlGlrXwyhM424CHlfJocjZXqTzG6vnjUgjdqVyWcNicq3mbfwYRUpWimfrtj-G3ZC-qRgWc-xYkxH1ogCokazzH_pOEPwLYXXHa9HpkOq5aYXz1V7EzU3UJjTYh5Om-YtMsmDZmD198F7XSrg7V8O9jl65iDXkfKnZb6Nmf3Vjg-nPfS30NmylaorNJ4nkP_95sUtBN7TfDFSi6Kiedats995xoxZVMwVQxQUZuwzJ7hbtlx0q9kLGl65vke6750dbjxzi79DZ1EzsOXT_DuaWvxMI2ouieQSb0C_yBZnmDjz2HgNatpCJ2dA1nxPQ14O6rRRlEmKkiTzX2vcXV5-BcKKPNHz4K3DqMCj60TfGbzetseW4pWq3kmdGN_E_n_wLtaXoOCwq7HjY5-omGv4778w4h2oMSGnNkummfzOQhvtWk6sCR6sc9zZbI12jVz4f6yHLyH6N3DjTOCmm9z-I3gqIUWf1bPozhmXomMuB9XTaUfEgEdodDEO6lFN7yqb4R0zE6YNfVpBApx45RCS3Eu94XYhWxH2Dp_kZvChwcfrmURnJbmYW_POLmte4KvuQ23hKTkW8241Mrf2iBdX5mX-cMBxcmaRbG1CHd4b5ABKUlXeuC-jGMm1Q9FN9mClAuznx9AmpxhUHHRY1H5lHWw3qDrzCx9uzqoaWB_rJMPfvSspXow7ySF5uo-oevPYngsbhkpIklxZhcmkwt7323cOLHYglZblg5IskTxZbrHwQDm6TzCVhYdb2M_nv1lo0WAO4FgjxwYk_sE0QfjkDy-wRtQxAuYKAUX_IRte4iFHyJQ3IPcffgZZq60eflLbe77Qou-6rVA7PgPtkcKEwOxt0I9JMuTWrCDXe6YfIdJHzq-rUWyA4VIUsM4ReX1IDkuqO06oMvlj4RkHCt0eghF5dVKOhCbPl-bpDRG8MbCquUdDyNitgRAJuzh2nEzZ27i0o3zd6OA55VyupsLX0HG3zqjJJ8ZyOCoRvmfZJBExoW-706R0qEB7GWMmtcu0xLC4zivi6tnmuttzUGsBhy1_zFDuvyxmttlbifuuwsu6xWO_Xkia56zkoQSPui6LcUY3G60_ZJYE9OPmYiMoNppLHoE0nSyY-nhdDsnqZBqCOifuPuscScNstL9DiPp09ENdcN9T_GOYpQ7lH0Aap7mmX9KESAeu9rOLaHpgeEpDRFxwPVHF5EuDPR3spm-taTlhXcOImlkwD5vrMhSCeZFJrU_9cJwOpYjhQOtsW2lMdR8JcbhVVa-V2maBKO1sZQp2b16UAKpx_qAiSKYnipdHQ2_aIVUS5gPzjGnCdTawlGdeL2_xATBzkDD5uSMSPVP9ARxg-OhrOPJcPUFSNMamY_1-_HVB0L2FSnDNYxoRiZSCQ3YHP3nmj3REj23k_jveAbOrfnFvpTS2w4ki3iAG60TRhmtiqQ0BAdqpKVJLy3-djYKhDBsfJ2nVKtHh47g8s4OaqUgfl2jE1Q2_0kfP-vcSDsnf0minRgmEsEtqK6Ft5ySX8PqtEdD89nTtPChFol0t7bf6_uwo_UaYk6mK5gcJzUPlBBhbR-1WOPtRFhLpAP5x_mAjNQinywgFChrly_SBIL-epUwbeRBMN8sETxCa3Rza_8ho28swpwyL4xqZefgKUNbriaJA5vT-8CWCqaDInLSRTfrf4q8KCymih5Udzd_BKYgf9S16Giy_vvl9k0iE9VCsjfdfMTbS1s5_9bZgRn2aAI7-hySeZBmoM6Kk2AeFr1VcKJRlnUlpRR6670bZOnQJL0XBYtZ8e4jttnOHW76jZu9e_FnjvC8m4zOPoxnN3ND7SipkJcJ9RQIJ6nWsbvya_yXADAClM4ImwSI2qYSkpj7jvYMi2iQ9Dkb7tKgo85s0LX35d4UKzGGrMesT_NKHnY9lW0CImP1xq4flog==",
+      "summary" : [ ]
+    }, {
+      "id" : "fc_0e9d438156ed5e70006ad1d31911e087d08c5f525d67e4aa9d",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"items\":[{\"product_id\":\"P901\",\"quantity\":1},{\"product_id\":\"P303\",\"quantity\":1},{\"product_id\":\"P302\",\"quantity\":1},{\"product_id\":\"P307\",\"quantity\":1}]}",
+      "call_id" : "call_TziMO2PYR0UzUHrvX5KmWkws",
+      "name" : "create_quote"
+    } ],
+    "usage" : {
+      "input_tokens" : 2320,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 1280
+      },
+      "output_tokens" : 484,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 384
+      },
+      "total_tokens" : 2804
+    },
+    "tool_results" : [ {
+      "name" : "create_quote",
+      "output" : "{\"ok\":true,\"quote_id\":\"Q1\",\"lines\":[{\"product_id\":\"P901\",\"name\":\"재래식 된장\",\"unit_price\":4900,\"quantity\":1,\"amount\":4900},{\"product_id\":\"P303\",\"name\":\"애호박\",\"unit_price\":1800,\"quantity\":1,\"amount\":1800},{\"product_id\":\"P302\",\"name\":\"양파\",\"unit_price\":3200,\"quantity\":1,\"amount\":3200},{\"product_id\":\"P307\",\"name\":\"깐마늘\",\"unit_price\":3500,\"quantity\":1,\"amount\":3500}],\"total\":13400,\"expires_at\":\"2026-10-16T07:42:43.035581700Z\"}"
+    } ]
+  }, {
+    "turn" : 4,
+    "input" : [ {
+      "type" : "function_call_output",
+      "call_id" : "call_TziMO2PYR0UzUHrvX5KmWkws",
+      "output" : "{\"ok\":true,\"quote_id\":\"Q1\",\"lines\":[{\"product_id\":\"P901\",\"name\":\"재래식 된장\",\"unit_price\":4900,\"quantity\":1,\"amount\":4900},{\"product_id\":\"P303\",\"name\":\"애호박\",\"unit_price\":1800,\"quantity\":1,\"amount\":1800},{\"product_id\":\"P302\",\"name\":\"양파\",\"unit_price\":3200,\"quantity\":1,\"amount\":3200},{\"product_id\":\"P307\",\"name\":\"깐마늘\",\"unit_price\":3500,\"quantity\":1,\"amount\":3500}],\"total\":13400,\"expires_at\":\"2026-10-16T07:42:43.035581700Z\"}"
+    } ],
+    "output" : [ {
+      "id" : "rs_0e9d438156ed5e70006ad1d31aaa0087d0b90e2c8a84a4a166",
+      "type" : "reasoning",
+      "content" : [ ],
+      "encrypted_content" : "gAAAAABq0dMdI_qVJlFuD6u8013tMEQggJ5Gln9EPTUSgmhmyaQGQFQNaiAMFrJgYBb1ptoTf_0ulJG5MXe3WsPlg4X3FO6pzBsz6_FgaplFeUXawA1wxzyevqiO04DOynQb5p3lF6h1mO-XNJ2eME-P6QTiL1cvT62cjGsoA4_NQxcN0wBbDV7gLeJjVvyJfkyBAhhvqDopIewYaRRRKe9uTrZNo7wK24Xhaf7-bKeK3c06UTOcF-TuObj93upJlU-yxkrdqRV2tdWoHVFfKPSMFjz6_VSGd4wf6wpB2Ur7KbVh0GbhYkMkAT-DIvgTQJQLYGxdog7bEQGEZiDfVzLca1HBHtNG6DYzLIRQ7133hiOOktNtB3zSWTXGnld6sDf3i5O96tbER9P5BwCA8rjsVFjdShJTZZS8xvelLy36pu8zBWjqwZdK6U9Uke1ek-RW60_y4PmN6ijnV_y2PeV_HQnkmHoHUvncRPHVDwjvn_LUV8g1rxHRy8EJj9sr98NYJnsmRsBhDCOf5ENnZmTeEv70k-NXcTPVhSagUCxyBoh7U2_LvJQxB1HjNUYeDvBReuFy3ma5xRI6_0rgDGoSeTkT3GFmiqMESdKHbZ5INo2dpnM2hbabXNL3qNsLCWmEditiEL15LrdvX7x2l--wyVr1SfmFxA7boFX-7EcykliLW-mWPPH6LsmRln9Gl4zye78nid53YOvSP9jo2DHkIdGvlrXGlMQ3X54OYcaFN_S_urGHlF3GTTCBYNw5sP4mzu08pjmcPHk-1cJEmEUQl7kZhxkshr1SANwd6LuTbZ_eOBCxt2NivwxIZEwN1MQU6jR1-3VwkkPaQ3ceV1agEOsHXIU4WY_9HJFOIEoRnSH9wCaqIhmxCEtDK2N1_7-4MtdUFypmNoknsLfeQKnnsrV6dzpkQCnqG1zN1pLgkLQ_fbOY0kpftogE7FvM1Sr_2eqGXQt21-8gcWjKcZ_VTXllEWmjtKfTGtWnmn8FhAvZItGlhEnLoYI2P28qO7fSEFKOLHdu8x9PC4eI7WcGTEZ1hxTudKOp3XkyIqSP0qUrU8hoqWdN2Uy7d7MhKFjlg9DqbqskWXOA2EnF7rbEEmlCT3v-CT_PwbD6ZxOC-PVQGnbMo559P9cbYnGwzqZFdZDEpalK9jutBe5u1ylVImHQAxu51w_Xn6vm3NmbV3JuRzFdnQ1gLIm-y89zywUhon2Fb8WVVv8dJqqqZYy6evNxGAx2dMft3SCkJoBP87DNjLnqQRKOYPP6MPpT504yDtUWXxKv0uRW9rZSE6czXoyNUqb0dzDbm_J8vEumy8qCl04YTXa90fkPGNY3-mGnkrP4-tZeLXB6_43-8-Ede7H5GHBgedYjc3Fem0L1uys9H90oCZ9E8njZ5ECFLuzHrR8MANQYS5967UltVX30juW6i0rhTcfFojpedoevF5n33w8r2XZgm_twevIgxU56OqQzJfG_jBG0jX-zcwckKCJcN-gsZdiYPrhBgXipWgNWR_hORzKQbHukZVBhOdI4lXxHp2RPFF1Eal5FrSCI1yw7pNHIJw8IhS7ZM2lAYdnpbxsbVVn4zA2-lOsOz8G4ZeiixDhM8p31szwMi2S6jqn6h9utc_w6lz-o0q4UxWtBpcznqNa0w8bLwe2Nr6VkAt6yhvOCbXvwx448xkv1MAS_YEphOElGA8glowwQsxtBkwkA0bIhQWJz0fTA21nUwoUCAVOqU-fXVRNHRJcaDw1i1dkmjoXwE1pFnCWaT-07exhiVHb9KAy7UYL2UXq1LuXyg4cKTmDd6Ck3xsoPLJTf4RR_LccMGrKfq_gG25nd-bCxNqChPAipFRxV1pKFByM8Gug0hMZ6M0wjvFdEoof559547w2Xl_Q2M1f6ljp67GqQLIDLSDjpVI6HTSBGqjVXa1oig0bTFl-QBSTxfoEpYNEVfqs0GRnN9tAOt-fE8kNGIyLziCVd5_qFgbTlZ9ejzKSl6SfbV1uC7pQh01jW6PJJNncPVzl4C7klbcWur78O4RD1-aCkON89BSZEznOrnd7yxTMqTq1YalIgMUrj__A_4M71O80dKZF1ljmQHXqAP17hTxExwnVEUOmlY0Z6fTfrqhc2fcSF_atWt4cNEBTvlrk8dhPzvTtvO5dOFvIAj0eykIU1xjvR-S136xK9uBTzPAQWdK746abjoHxK00eznHZhDnfycSzGZ4SmmmUqlnF2qH95ev28WZclJdhYIQqJ9sjB3Pb0empAQRTGs3yVCQX_VBRnPb4Iv4VkFFJyk1s=",
+      "summary" : [ ]
+    }, {
+      "id" : "fc_0e9d438156ed5e70006ad1d31b27ec87d090aeee1caa150314",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"quote_id\":\"Q1\",\"menu\":\"된장찌개 (2인분)\",\"servings\":2,\"items\":[{\"ingredient\":\"된장\",\"product_id\":\"P901\",\"quantity\":1},{\"ingredient\":\"애호박\",\"product_id\":\"P303\",\"quantity\":1},{\"ingredient\":\"양파\",\"product_id\":\"P302\",\"quantity\":1},{\"ingredient\":\"깐마늘\",\"product_id\":\"P307\",\"quantity\":1}],\"suggestions\":[{\"ingredient\":\"국물용 멸치\",\"product_id\":\"PB03\"}],\"unavailable_ingredients\":[],\"excluded_requests\":[],\"total_price\":13400,\"within_budget\":true,\"message\":\"된장찌개 2인분용으로 집에 있는 두부·대파를 제외하고 필요한 재료를 담았습니다. 된장과 채소, 마늘로 구수하고 순한 맛을 낼 수 있어 아이도 괜찮습니다. 멸치(국물용)는 추천(선택)입니다. 예산 15,000원 이내로 맞췄습니다. 바로 견적 확정해 드렸습니다.\"}",
+      "call_id" : "call_ATnHUisVoAWHwYViE22DSdaE",
+      "name" : "submit_answer"
+    } ],
+    "usage" : {
+      "input_tokens" : 2966,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 2688
+      },
+      "output_tokens" : 306,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 0
+      },
+      "total_tokens" : 3272
+    },
+    "tool_results" : [ {
+      "name" : "submit_answer",
+      "output" : "{\"ok\":true}"
+    } ]
+  } ],
+  "evaluation" : {
+    "submitted" : true,
+    "pass" : true,
+    "score" : 100.0,
+    "itemRecall" : 1.0,
+    "quantityAccuracy" : 1.0,
+    "violations" : [ ],
+    "extraIds" : [ ],
+    "selected" : {
+      "P901" : 1,
+      "P303" : 1,
+      "P302" : 1,
+      "P307" : 1
+    },
+    "suggestionIds" : [ "PB03" ],
+    "quoteMatches" : true,
+    "submittedTotal" : 13400,
+    "actualTotal" : 13400,
+    "totalCorrect" : true,
+    "withinBudget" : true,
+    "budgetFlagCorrect" : true,
+    "excludedReported" : true,
+    "unavailableReported" : true,
+    "suggestionsOk" : true
+  }
+}

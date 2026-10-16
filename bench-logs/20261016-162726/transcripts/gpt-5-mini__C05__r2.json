@@ -1,0 +1,153 @@
+{
+  "model" : "gpt-5-mini",
+  "case_id" : "C05",
+  "user_message" : "아침에 아이들 시리얼이랑 먹게 서울우유 1L 하나랑 계란 한 판 주문해 줘",
+  "repeat" : 2,
+  "turns" : [ {
+    "turn" : 1,
+    "input" : [ {
+      "role" : "user",
+      "content" : "아침에 아이들 시리얼이랑 먹게 서울우유 1L 하나랑 계란 한 판 주문해 줘"
+    } ],
+    "output" : [ {
+      "id" : "rs_058bc47c0b636fda006ad1d35dd19487d082c01705f72d4586",
+      "type" : "reasoning",
+      "content" : [ ],
+      "encrypted_content" : "gAAAAABq0dNf-0I0qLO9yy8EIFYVgI8mhAA8Pv2vE7UStnXY3rqf9obzA74TXFvUAPqa3fzezENOg3kkOOvd8qaRTpvFBpEujAwlenpKg7iTTV3p-g8V4UUTr01MwJyYP8vL8z4qBaP4PtnZP-D9mX-ZxMZpoDC8tsGqylmgVcj1BmdFc791c5Je1qOmKCutvCD2RtnaUs1UUdWVEGkJ_flKQeFmIGKqzopb7IsCVGVN2Sq8ftAwVvmBwf7b7MCzbNnElng1uRJ6xp7dn-pX53tE1JOZKGUcpeKXUBQg0KpbjDswpbZYEJQa1fN1NIuvaA_SWxEWiXY6EvDPj7wc3rkX-We454kOldZlS9pt2TVXUdZdhzigKKa6goBJEOm1NgXZ2VWBdj1K9uT6elvRCnBPkqgqMTe9JMrKqvCnmL8aewPhpGmmaw46YACuk-_TE7IE9e1vBGKV1IIoscxlPPJqouQMMoJY0lqaVMSyb64CkgGyLBL-4BPlrWG3AXlmjkiXhlW--tRY0M0tiGvedQH4DSpi4fbx9N-S7Xy3a5rTeu98lPv3TmKp5wOIfRACN6Gk7c0VBwTy5hhnKQuB4MKsyLM9pUD3x1qldIeDnBWkF4lW4dZSWg_IszwQ_Keh_sBdrejltv1OaMnTSTByR2VsFwJtn0aFEeQ9cNKAiT-qGbA4HpqOcn5UU8T-kPaFpoDBDJL5XcLgkbjopozq-jvZ-oUFHOijeuXPSBf0BkzKzkThpGPN6v6XxmHiTI12GdazR5JIrZML7fZSERzYfFpebQNGh8cPOtU0GV2dHZQZ5e9Fq3B6ddlunTzZYHvNChyY59E2qo_Yh7Mc1uyiijG0MxNf-0NvJ-eQ4buD9b2cITVRK0mOK1a4xwRYPOVe8_I5J31D_I-7U2BtrnoyVuteUe2evv7ryrqmJeKiveLYXMwvC7fSVdI2gVXiJ1y-8bN39hVX263jL1ptqvArb1g5urr0v1t9qCJfgSBRwSETVT5vbRcvp3ONE-P1dZpMI5s4BHy8So70Tee74Q7Zjt3iOA5iIAR0dTWiEik4_1QFLowcefM8Om4xHN9iSnYQgPAYME20BCBIXmFMZUDxR9kvsL_87FhG3lJuyBWIxAzJYRi80ZoWAikWbUAmqV0sw14ZnN_PKTN0o_Wwebf09GFVjPfAIt5qIULxuTppYT7NEA1bn3KdCHJKSi8Yc9t54lwb5UgB6HRQAFzR8aw7bzr0ZKM4FHvNCThfVe6jcu7LNuLNvozSHW7X-ycW-81U_3JepG3xSBjmMXWQ3TztKp8DXQZoY7HgNaIcVhSiA0g3fj36Z3SNkVjtc4dPOEj1OsVjd1uOyopCnn3NKVn36YmIozRLkMjbQaEy17ghGdw6P4LEK0COxmWUAAsuFGNaBBb7o83zQcXmkcBpSwuSe-7QOVLNh1A05xczl8JdqB6FP8ODhZphYt3eiicfW-NSl0DDDgcLBJQz-SOwtXi-pAlRcr7ef1xh9xsiJHTwiV67v_8hxpc72Bk5zXMwQ_vJh1s-yDjY_xPvbGL-M1jT8Pj2KcFL8_oxFh51qMMzT8OOU7z6ctQ-Z2IxQwy73ckdTYBAKXrvmaAjywGmYY88vXlFCLVkJYGHPY-wuYheZ_RXwXPqd_4c7aC7zsMgDqm4-sEPv10TZ9RC9F2IVhMlcRYZp0xPZF5bqy0vgx4yiH7dprBwneaJ3Wb6tWs-CdT_XLqvY8PRMhiYHE4bOoWA25pycEKbyBsIUSMn4lN8FuMG0HSILKnbgCtfn-n-m-4w2TtXrqqI9GN5bZ_wGC9s7UKApWzFOxB2dUDnpv6efHbxt0tMqmhQjzXIirf_AujWT0z5D6QDfAfRG4mQ1AOxwZTI6ab2myY4a8psG4-e7p9LcSNhwqiD8d5yIouF1pTdwHC8hjO_ABxgK-l2noTxLYrA32jilOI8YmRX1Vr8yDeQNHRhnmFpI1rKXZx3lqE1wGdmPQuQZhx2xnkmsncgcpYnl4AUnYBpk_b9iNVHU1PKDy_qKwl80gHbtkg_fQ2WHZmQbwmhq9KCDqAl0yl6gMrBnVSFacSgJ82b6J_HmYvApI5x76S8JaSHKJoWl20Xk2g6JjM04Jh_9Lv--vp2G7lZ1VB1lOrUotz-tTMF3c92zbJFiElm5CU5fIn15ew8uSphvMHdLEN0PrmCfvNZgbplpB0CVZHeyBKa3hVkkanJbnO2ffNHJ-j6Ie4FiegX8Vmi0-V2UuN7DJatLRp1MmsaRsKQx3Ea0uUimIbI9yLTetoVCshHNHVKNv7UR21pZigvY9YOQbRPt46K59FMpD6n_Zb4l2n91_t0QUdBVPsqk6jNAMQ5ctndeyxiGChLK08mKj5uR3XNrRYVBlBCJUr22snzJj5BIyTkDJD41DHFfLNI61P7yxa2TT1fQOlM_J3L5OqAFfRyK6bTiit_NRNeI-7ZxnoJbOoVKmmX2KvQMlW-Ntr4qe5RYnf_3WQAScLDAg-SexLa4WJ7GW-IqWPuB5xauwH-MlnXhZUWiUwEnDCEZQt128EknRtD6Y-yLC5bx-3XF4q_nm8kmZedW6NwtECiL8fWjcqePUK2CyoyOD1ok-Or1foBeg6LI1QHFG4Ls7LF27lUIwf4sOg863achBwRO3EJxfikRzwzx1Li4tSbcckmthd-C4dzwGPc6dm5HKSTX0pBF_a4eWYdl5Z_F2dTBMLF_-ceFNh9UUTUizWTPLM9DIcpvJ1-ydt7p-3KkImyGMsH0SrD3-rws48mbzoYEZSG-A==",
+      "summary" : [ ]
+    }, {
+      "id" : "fc_058bc47c0b636fda006ad1d35f120087d0892c6db6c80a404a",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"유제품\",\"keyword\":\"서울우유 1L\"}",
+      "call_id" : "call_Akd8wfcqvWsUKF9ZtbYQaxmw",
+      "name" : "search_products"
+    }, {
+      "id" : "fc_058bc47c0b636fda006ad1d35f121887d08db69b68a335f8c6",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"계란\",\"keyword\":\"계란\"}",
+      "call_id" : "call_9RoUnRndi9nMW1Vy6TXmRS3c",
+      "name" : "search_products"
+    } ],
+    "usage" : {
+      "input_tokens" : 1063,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 0
+      },
+      "output_tokens" : 176,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 64
+      },
+      "total_tokens" : 1239
+    },
+    "tool_results" : [ {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P702\",\"name\":\"서울우유 1L\",\"category\":\"유제품\",\"price\":2900,\"unit\":\"1L\",\"stock\":0,\"rating\":4.8,\"review_count\":8800,\"sales_count\":62000,\"spicy_level\":0,\"review_keywords\":[\"고소함\"],\"allergens\":[\"우유\"],\"agent_orderable\":true},{\"product_id\":\"P703\",\"name\":\"매일우유 900ml\",\"category\":\"유제품\",\"price\":2700,\"unit\":\"900ml\",\"stock\":40,\"rating\":4.7,\"review_count\":4100,\"sales_count\":30000,\"spicy_level\":0,\"review_keywords\":[\"신선함\"],\"allergens\":[\"우유\"],\"agent_orderable\":true}],\"count\":2}"
+    }, {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P401\",\"name\":\"무항생제 계란\",\"category\":\"계란\",\"price\":4200,\"unit\":\"10구\",\"stock\":30,\"rating\":4.7,\"review_count\":3300,\"sales_count\":21000,\"spicy_level\":0,\"review_keywords\":[\"신선함\",\"노른자 탱탱\"],\"allergens\":[\"난류\"],\"agent_orderable\":true},{\"product_id\":\"P402\",\"name\":\"대란 한 판\",\"category\":\"계란\",\"price\":9800,\"unit\":\"30구\",\"stock\":0,\"rating\":4.5,\"review_count\":2100,\"sales_count\":14000,\"spicy_level\":0,\"review_keywords\":[\"가성비\"],\"allergens\":[\"난류\"],\"agent_orderable\":true},{\"product_id\":\"P403\",\"name\":\"동물복지 계란\",\"category\":\"계란\",\"price\":3900,\"unit\":\"6구\",\"stock\":12,\"rating\":4.8,\"review_count\":700,\"sales_count\":3900,\"spicy_level\":0,\"review_keywords\":[\"비싸지만 맛있음\"],\"allergens\":[\"난류\"],\"agent_orderable\":true}],\"count\":3}"
+    } ]
+  }, {
+    "turn" : 2,
+    "input" : [ {
+      "type" : "function_call_output",
+      "call_id" : "call_Akd8wfcqvWsUKF9ZtbYQaxmw",
+      "output" : "{\"products\":[{\"product_id\":\"P702\",\"name\":\"서울우유 1L\",\"category\":\"유제품\",\"price\":2900,\"unit\":\"1L\",\"stock\":0,\"rating\":4.8,\"review_count\":8800,\"sales_count\":62000,\"spicy_level\":0,\"review_keywords\":[\"고소함\"],\"allergens\":[\"우유\"],\"agent_orderable\":true},{\"product_id\":\"P703\",\"name\":\"매일우유 900ml\",\"category\":\"유제품\",\"price\":2700,\"unit\":\"900ml\",\"stock\":40,\"rating\":4.7,\"review_count\":4100,\"sales_count\":30000,\"spicy_level\":0,\"review_keywords\":[\"신선함\"],\"allergens\":[\"우유\"],\"agent_orderable\":true}],\"count\":2}"
+    }, {
+      "type" : "function_call_output",
+      "call_id" : "call_9RoUnRndi9nMW1Vy6TXmRS3c",
+      "output" : "{\"products\":[{\"product_id\":\"P401\",\"name\":\"무항생제 계란\",\"category\":\"계란\",\"price\":4200,\"unit\":\"10구\",\"stock\":30,\"rating\":4.7,\"review_count\":3300,\"sales_count\":21000,\"spicy_level\":0,\"review_keywords\":[\"신선함\",\"노른자 탱탱\"],\"allergens\":[\"난류\"],\"agent_orderable\":true},{\"product_id\":\"P402\",\"name\":\"대란 한 판\",\"category\":\"계란\",\"price\":9800,\"unit\":\"30구\",\"stock\":0,\"rating\":4.5,\"review_count\":2100,\"sales_count\":14000,\"spicy_level\":0,\"review_keywords\":[\"가성비\"],\"allergens\":[\"난류\"],\"agent_orderable\":true},{\"product_id\":\"P403\",\"name\":\"동물복지 계란\",\"category\":\"계란\",\"price\":3900,\"unit\":\"6구\",\"stock\":12,\"rating\":4.8,\"review_count\":700,\"sales_count\":3900,\"spicy_level\":0,\"review_keywords\":[\"비싸지만 맛있음\"],\"allergens\":[\"난류\"],\"agent_orderable\":true}],\"count\":3}"
+    } ],
+    "output" : [ {
+      "id" : "rs_058bc47c0b636fda006ad1d3601bc887d0b81f0939ea55777a",
+      "type" : "reasoning",
+      "content" : [ ],
+      "encrypted_content" : "gAAAAABq0dNiMfXRp23a2GOIn8Rr_bDA-KEWl9jrbeUVmRO7-QIvp_IqaNkLURDXb4NNlTih7MndXpJWXwqobU7CotIVtni93FSYieXI2Szf_4p0gFWDJc3f3mVKaH1b7e8295-mya4QvAaZPeNcAjIl6Wj8csGToBdUJFCYf-FrjKl_Eyvu1CAIVxeQ9Tw-Si1IAUgXe3nleGQHpRbKOOlrRWe0hVyvl8uFgslOPdns5WDFl49O5Op6cspdAZFlLe8aZ8D_f-ArvlHXYX0Cna6W2H-P6go7HB7fnWgoCA2ej9zvo5kwMmW_XM3x_nIh-G4rVV1vBZwUNHGBG-mD1L6RGTiwiyS6s0bvVWgkuVxKBA0g3bP7Rl6ykqzQKvAsGHTwc4SbqRjSLCs8uxO2rz96W9XyC8w8IHEeDDXK13u_Q1K3IAWuSVQQoZ2gupjU6ayM6u90fyglYvaHUrGWxru5Vb2-RLhKMWU98qYrvn9ba9gI2sBPb5w5AgcJtSvdE9OTznwI1AWn7vnXDHhEz3xq5R6W3cDAOjyePvyzc_QVGtx7nU171eHWBh3hedpaatTp8MCrMXeuXiVSZXuOeXkmUMnaAwjBl6irKEcpRuafGW1FN2uhfT_YgoAxtF2DL23p883lXNuIjo1f8Hq6aossOTgGQvf4OUbYPjh37dOOrGNhc72LU3_b_xH-eJD75hxlSwa45pY-IJ-MMzVrqvnwQHb7nzY9aS4ZQyfJ038xkrtOadvN5y7JUPpiilSoTXIHDAnCQAEPR249jvYXBH0GmwTV9xJdFqx1X_6TBe-_rP1g5_qmfdhiAuUDIryeZimHomp-genfMP4-0rz2VwyF38u6gNt_WjG6hZTg-5KXYVk89owhxETfLI62YXpTBFcxWKRrYnWVbGnE7UHhdhF5b5QaOzSYH2CuCHdcAN9-3nt8oAhdCilCtv3e_v2nflOngDp5_4WMBxmyGk176314HaHC1TdtstPQ3KRlroES5XNhIwDL0royqsDSbdSsE6JHYSDP3iB_dWh-hCJpbgRoArhC6bcw8IAb-ooS_bcxEoAohtMgQjzqfiJ2qdKbOjFKAaGWzEObdQSAyLLa94Qx9Jx-u1-_DFEj_qYfzjfP1xJZvuYqMHGoNGBZVV1KqXYKj-vOEvg5PkjKzNGpebjTobZF6SZ2iny1w_-IxojHWGDMnHio-GsmMklrw2x2cdG1nwjBESXb2ThFMhAvFLagr4o69Uzhf2F7aqk-u6XeUCQu-Xb-UInsHcClpHRPArhSo_MLYXnC2AATsieNXuEcCPBpgaAEvx5NLS9AdHg-caSPysgry7H__da2iOvOVUWwYwzK1JU3hiRHCu4LEWo60FsVJqKdGEfP33rotY8guOb-5XjeHh-KIaLEjF-fPiIjAMMkJQVWpTxhoLlxbMjtHp7ciTqEslyg7Rw5Bx4_RQuA3DzldtC0rWseY-4rYQmUFaBU1s0WlqZFTFvgpeW3Y_LXnfQpuePqoe9J-kFF1kE49nTJ9MIXWARwUoLB3Llagyjc938iMsAJ-LETyzHoSqj90QDzc6MDW44WaYSB9PEkkJGWI1K_J_KW9Tk53xRwPBLU8zPDka1akhvFINFI1H4r812qIt9E2kPvD_DPK3z05cTk11clbQ6KACM8_xM5hYMPxcXnACn0_fI36bnsKdr7cF7V2824YsmLG14UmWGyOKwLOMIOOz5q42PySepWnisvIwtoQY9hya-HBKSvgzdB5fZS9wTtFni0ZRJSkij5kyMYn0k78RNErCr8fWCZWoi9cgBjaL99I3XM0QG8jU6DrPYEnYDuvXbv6pOARuyKKxBcopdcoxHT7mAjmyMkwDSmxFiJe9nQYKwgV74PnVVJ6wFReKh2dSiLI7IVJnRhwbmMGo1WUh-Tsbe93zr0PD-r9s5Rs6x3oT563Q62-AkibMbAbYRpOxEk4HpkM1J7NyTywPjfkhQ0c5w7vBwjpTU6KljAXOqGyq7vrSKr1goKaaLHTGngZ4Ek5ezBwuZS7PAfmEeXDWOze9ACOnfIF82fHK6VDV1sKtd92FNgmhAWzYztrf5DfHOV8GWZptdNaj_4XZFJebstDtLdyPPV3bleLDFwq_FuZRSvHFdM8UzC9uSj6v-yJ7phrhjV7V8N6zCg7rM8MjtBRJqYhseo0h8KgO5u6JlAtRoJ88ihGwIxYK93azLW6hGLqLER0lM5OPjmQ2VVBSd1WYeQvMJzWel49cCMhe_Q9_kTylHdFpn966NJofaV3FG-o-Q7-3K-cUb6kSSY_4CT5sXtzx3mKxYn_ReB2GSztv0gmEdBbDJjXXujxWjuijdaOx2YWLyIecBGKxesIwZc4wDaXlc7SsDCiCcBtf4Pp77QU7-CQxoSgctalfqpV13wm94pnfYDxFikoRnnsxVT1gMtwMcT4qO13-_NS0eY_Js5AmDKI5WCfTYvX6Pg2GKnrfI6b7GbszS1F4o5HAl4qylVe2o6jOE0rrBn9U0hWDwp2A83ZeJ8NMQAn7R4BP1dveRFqNZ1poJm5tIb0QIbbaBAW-mN4wrg4IDAkGWxup5NocrcA4N42KL4Lg0qPCNVfLsTViybSIutjQzy8vR0NhOnsLiO3HmdjiZvnv4zSRDi-A6FA3dj8SHC-tyKqrwS5l_u0GMMoHwVuhXcJvoWLVTG4RGfadygQFNcFufIf3H42VxeJ_AymvlADIOtqIEaKN4DJA5J_--e5Q_xdeXic26mVOPOQ50RlkkiQ52eYutz3MNNGonI8ypQeqQvurew5M5Q_u-f1UytX4u3W-yokDLjjOkoznVwS2EvvbjhCTK7Hlg9Yq7bKpbSte0IgBBkiI94-rEmCGdmXnTcLYU73TjC0vX9Ks8X0ugSFRlBc9dns5jJsP3o8qcKjBmUwqvSd0pGQzS90qcH3OfYsb4I2ACUGDfsgABEI_ONeo3cA2X0RWZn0wHmKmW54VobMCu7mmZWuaieTF4XybjK0ua_55RXjovkQkjfSb2Mfy2mjl23peCl6B632zmHG4bSxWEC13s1x8QnF4EIfHaAtDopxS_N92o5fkV_iykHR769XOPwwe8uMkL5Xq5_QRAGtHLHKMsOxkUDbEd8kT5Vd2MH4wSSPi8wtzpdqQAJEEbEowDQqVoL5Bkl9BPK--pKpnVjFG34mwVLWXeFKJYwkYVSfmpxRIQZ1xwacBpttikSCDnliZlEv9D0IawRzBQ-cqN_Sgcr9YE9N2Q57eO-mmKHnsfutPQ0vUe2v2SXaWTuz_6_JswGhei8QCN_M1izpf9YQj7W8VeSgj8-xESoT47bKyHf2wcs33b3NMJepiKicMsaqCg2wGybQ5pxuMyf1CUagZ2Xj4iABq67EPzASfENrOtLGzso0uUgn8xTh5Bm-1Nwd8RR7UtbILS2JUIc1B_RYyN8GJ80I2hIIyQmEou9KOV2PiL0tM20aI7brOq-T18bJdtBLKS9GZfrRGOvAP38PsokTFeRoV0b-ixK5KuYuUWimmhI0gDIu2d8EnYV8ko56DwhhR9TEKQN4h8iVJzFA50tjBinthkfRug-Xw8KKozGBbZ3KB4sLEgu5iELFW8IBkx4iDRseVp7-5V2g9y-ajrX-0nGRq3FeKc5-1pmzOsExqxIAHU_HAoER1B9L5PRgiEVaH_TJWcBirJhWoIVjXOqFHFgKcCm_Qh9C-Qlci-21VTCMqCeetlH3FEZ7t-7KgaiJGZNN8VRQ8JiAgL1WRW2xCZAVSd53CV_FxynxKHbbHR8e8b7M3Ai9R2QAqJYHlqKCrednreF446FIqfGsd7LywCZRQ4ko4ikGSuB06Nt-7qkgfh9bcHy-PWBnRc4my7U4UkbYE6nvcn5ES23c-ym-qBJFPkHyg9_8mv3VZI-j80478euxagrXb-HGfpw7f8KNb-j5A3dA07LoaRw70Cqp_GgoZJt7RlbmCuIc2hRwBcHbeY3vSvJu2HoKRKn8TZPOXzibSxcQnLeOMsq32TqI8ahL7eLDa1VPs8_70N48xs0s0kbw6I7f0xEg60F9XPGL-6XFplfiFNqrNYlslsGdmLZdghshOYKQ3e3_a3lsMMQK6IQhQ9VLdw8Xf40a0kq3jf33RMkfhiqpVxjWDdBEOdi-TG3kr5kpcj0M9bJVn2dZ40nVf__9Lb_gZpieVkEgsob32TZS6T_L8p5KyMaXiZYIKrVZyCHGG6mRI3LNrwsi1ooz93TnzIAo2V4PwZarzyE-I7G2CsjAWEK81Z6hHKi-UZGCZ3ef047EeiZsdP_7fu7Wc1OTzcehuLgr7N2rFG5BuTXPoELvv-WUPNxJlPNgebH2wzLtQNBDSGGXcQTsskrlA7m7V4fkFynuAcPYhX2vFmPdcIsGSbzVzEr5rIcErdT32b3GUToU6bZJbrlkkRs_B5M7AwWc-PrpIX49wisvaxpu5eEGI7kZFR_aNfes6BLI_hW3_0tSF3uSSoq5vHlpW9odbTaplCF_3drxsh8_0tapNwFsv7mRCd0zDhYWyThzzOQq1EZbRJJZOCoblmSQJyX60Z3NtjjjIbWYIdMPLo7Pdm79c1MgHr6P5oL6u9GfBSFcsdZH42u8E-j0d6hmtT6KvXzihmU8VBSCVlXpBylqWP96Uo60oMhNF2k7Zp29bCuCN5H344KFAg9QOmtQcCVzZTja4fRP3DT89-rYyKhkXM7BtV3I8jaUlo6ZQWbMt9bG31sq0zrIAw8Xv1aw2nXcEHwggZjXLJN3aO9ZdByW1ChVyfxRvRisiKQ_n0gl3s8QAALDmuBsbLT0433FoEbemlkB3GFY3iYq9F_UimoC_IuPLseT0GyHi84JjZKrO9vcphU0EJ_OSxJ5dytIRIlllT8_u-zKmiAPbownf1GxFSYG-HCOHSPCeR5Gl1AdSr_VW3F_HCehz0J9tKNlLPu",
+      "summary" : [ ]
+    }, {
+      "id" : "fc_058bc47c0b636fda006ad1d362302087d0bc25836edbb60fa3",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"items\":[{\"product_id\":\"P401\",\"quantity\":3}]}",
+      "call_id" : "call_Dkzg7or49jGTVGtUp4C2uoG6",
+      "name" : "create_quote"
+    } ],
+    "usage" : {
+      "input_tokens" : 1665,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 1152
+      },
+      "output_tokens" : 314,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 256
+      },
+      "total_tokens" : 1979
+    },
+    "tool_results" : [ {
+      "name" : "create_quote",
+      "output" : "{\"ok\":true,\"quote_id\":\"Q1\",\"lines\":[{\"product_id\":\"P401\",\"name\":\"무항생제 계란\",\"unit_price\":4200,\"quantity\":3,\"amount\":12600}],\"total\":12600,\"expires_at\":\"2026-10-16T07:43:55.931822400Z\"}"
+    } ]
+  }, {
+    "turn" : 3,
+    "input" : [ {
+      "type" : "function_call_output",
+      "call_id" : "call_Dkzg7or49jGTVGtUp4C2uoG6",
+      "output" : "{\"ok\":true,\"quote_id\":\"Q1\",\"lines\":[{\"product_id\":\"P401\",\"name\":\"무항생제 계란\",\"unit_price\":4200,\"quantity\":3,\"amount\":12600}],\"total\":12600,\"expires_at\":\"2026-10-16T07:43:55.931822400Z\"}"
+    } ],
+    "output" : [ {
+      "id" : "rs_058bc47c0b636fda006ad1d363557887d093ded81ae914cada",
+      "type" : "reasoning",
+      "content" : [ ],
+      "encrypted_content" : "gAAAAABq0dNlEUnbjOXeEWruCFQi8XTN3s5rlQ1YzJrebWnoVHwccnI7zDZxRDF0ehj4eThTxO7w0Wqxd21FbzsgzIMt5juNI7JCiBf8Swr-jKGpwjufQM-Fv3nLelEcg62LDEGwxFiaFmOgAlpewLeYf3QoqbiFuXAooRVmMujP2IhjclZ-6QnwV0JcZxtK7wPeBCLWv7RcSJOZYMcAT_YkmMPKtftcROSzjy7SxD8zCKIqAJXieanA8TmtBZR-SlVixy2xE82uMN-Z0xAGfqH3No2Gsl2-oCXZ4An_r4WcmXyYlUg-6jVC_19fIz-1LfrJ9-U9RdtbtpkJW_JxmgeU2Kl5qcBIaQqkZdGG5ZwHDM-yy9zivOnPpEzp33DyCMlNxm8i4qdzcyuif7sQTS9blFwPL1j1vbNay_q6Fvfj8MT1Afb_oD1Rb5nslrhNIu74CELPWV9u0Pd3VQMQBTN7ed_E2MDPh0lFiF1b3jCMq3lvE4X_1tgjpvnabM7K0t4-kufGJH-ht-At5ZlhM7emg_X8MRkHWAitGVGYo2sHQ1fCa4KMnJ02ICQbBK42xkUz5gSA26VUk-unmSiLM8fT6N6AuAWv3rWb_lXfJvGoTTzckHCTNe8yQV82lNc3oxKNUlB8kQWEhPQZFgPYMF3QYvKaFSXOLSgL4yhwAAr8kJJpU8w48J71PHrXFa08RMIq26bYmBcEnmJqZs_jfAHHPFkp-Sh1rC02EUhPjwQCHfg6_GUg0ngr6luKCvqvqAJ9sdxSpIaOalO2D4j27_oQqeTbr_M9H5YaNfbea6kQoag-joEV59X337YsVCJRSh3U9IDowT2RYaw8MAsQeLLz2keEcJJV9VNHnsf2C3I4YQAKUBKDaVcnJWO0qWtltPaBBaYjBS-B_RNsQaZ75VjzrseYlqOBGEIJk2VUBhZSOSDpOK6NEumvUqdzEqLkToOrk3PZBxljgTO48NoncekeZe_5iSHQ5bUHf0oR8voKSs_W2dsKFsRnVIEBcskoQ6_HNcEEBbDnvDBWATaZyzs_qAlPNgFXRqbHw02wEyTAvKdhBa5atAkR4JKthQ_Wtfv8z5hVoJp16ONrzluYRzhxRNs8IVt-NPnwSvZspvBuTh_HWSUR2r6pubbqJW5hiwAmpiZyRQPty6ovYl8ykC9ROA8uCIpAby3Xr964mttLD5mYeOe_Ud82ArBYm__wG4hMC2_OpRU36SlZSaIFkXlo-B4qyQBeNiCH-1l9TRJg9h0vT8nPvS6vZJc7h0zByTHNVuQMV9HqtLRPvVZxq2MnRVPwj06UaFZ4qaLrIf-oD9_HJ-HdSA6BYUYAYAXEaSnBR_AcgBX7UVyG-LnlAtLbI8N-jtVFqK2oEkbMEYL3D8nPRqPG3Bojcs5JnFirYlnJim44J1NavSEqNTfNZJdy1dQ075NrNA41oozAWkdoovOtwu2w21NIn8B0EzASoKebLzsESxosS6jJLE3ReGK_Wr5w3pe8gf8UaJoNqCRBafDno6fEaCSUoJoZZfsGEiSpLjkEJMKB5OHK6f3rxdSnGYVaBar1Kw3WKdcGBvb-aQTGgqhuxVMX9RVla_ol6O3_Fzy_KhEABjkf0wI0P3ud7NAAPhc4IZF20OLgu7SA6Ma5NTf-tFa5AmWiOot9Bysvz0wCPh-dI4KRc0c0VC3cFuZeILCEuraGIfF2ttP9hy6KciNXGhJAZECzI1Fjxa_lYFJ6IPRiMBKvUCRTjM6a45eAT53XAlT0-PhdoGj5v4nDnDdR8fUl8NrJaG9E5wPSzLa4Tix0wg3fcLLou-rYx7s_cmbnLe00HIL6nEXLVfllM5fvsLa3-cdSz6qsFX7lI2QQzTSpODnhVMofO3Oo3hCyTiPRmwTP6pQZJvrXLjGJjYMMmtFy-hFUxyvH43k8wJ6GLK9QsFVTswHoR0zWSY28G_ld5-buXt8parVg9mMaCn-6i3vNFGw64pgwoXWOwIVw4hrHtxZqOPhYTBIVTxSVNzSsblnfwZzOgAOMhvsUBsOWTpt8IPDLmd7_YjvUyMECcagzoOey_52hYTUaqN2QFR5Vy-CrKQvdk_theJzIAUEi3MGiPvwc6dBBe-b8m58BQ6DH98EQMOKHFVXB6DCZIImFKk9h2X8q50bRYGuEJcG-t2zzijJd_O3yYSwJRuf2MetKhsCG3q9x4qO2nKvKcmvjlc0poQFUTfIDWtW2cUQPPRxobwYKk7mGW69QXqsX2HatIGNaDeobeZnsnnbohtv66Jfs0clPi9tuIAwTXEArF331-A8wrx5U_sYGPi9xnLGTMsLPHBGxxgEwYjvPJeRy_gv5Xq1eMF5mkeRnOo1rEWdmvZCdqrZRjp8GRZenMakntCt-Sga6BXa26w1LRXCwBiQnJEIt0xVUXFVz1EXSLkM4W1N2Vn2eaWT08UedDIK5udx7J2kydZdWWD252smeE8yj2yW-VGGhOsJpeJjj2X0Wtamw3E0qiPPHrkq82nreFudnvC1okDX7Ki3j6tNEaevurMIpTGiGpMhC5nz-FHXPLq4uAEOUMl4jukY26g_DO-S87tSfhH9dfzKs1rd902s_8SKcy2EKxpDhisIr-9zBxYw1PzoY87HREaMkySllbhBUmUwBKovFFQEcsbOUAmECMT9D-_hdA79uGyquC5A=",
+      "summary" : [ ]
+    }, {
+      "id" : "fc_058bc47c0b636fda006ad1d36411f487d0aab12348dba5e91c",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"quote_id\":\"Q1\",\"menu\":\"아침 — 우유와 계란\",\"servings\":4,\"items\":[{\"ingredient\":\"계란 (30개 분량)\",\"product_id\":\"P401\",\"quantity\":3}],\"suggestions\":[{\"ingredient\":\"대체 우유: 매일우유 900ml\",\"product_id\":\"P703\"}],\"unavailable_ingredients\":[],\"excluded_requests\":[\"서울우유 1L: 품절로 주문 불가\"],\"total_price\":12600,\"within_budget\":null,\"message\":\"요청하신 '서울우유 1L'은 품절이라 담지 못했습니다. 계란은 한 판(30구) 대신 10구(무항생제 계란) 3개로 구성해 담았습니다. 대체 우유로 '매일우유 900ml'를 추천드립니다. 확인하시면 주문 확정하겠습니다.\"}",
+      "call_id" : "call_XUMK17YejlroTn4rqSLzz4tN",
+      "name" : "submit_answer"
+    } ],
+    "usage" : {
+      "input_tokens" : 2061,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 1920
+      },
+      "output_tokens" : 299,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 64
+      },
+      "total_tokens" : 2360
+    },
+    "tool_results" : [ {
+      "name" : "submit_answer",
+      "output" : "{\"ok\":true}"
+    } ]
+  } ],
+  "evaluation" : {
+    "submitted" : true,
+    "pass" : false,
+    "score" : 75.0,
+    "itemRecall" : 0.5,
+    "quantityAccuracy" : 1.0,
+    "violations" : [ ],
+    "extraIds" : [ ],
+    "selected" : {
+      "P401" : 3
+    },
+    "suggestionIds" : [ "P703" ],
+    "quoteMatches" : true,
+    "submittedTotal" : 12600,
+    "actualTotal" : 12600,
+    "totalCorrect" : true,
+    "withinBudget" : null,
+    "budgetFlagCorrect" : true,
+    "excludedReported" : true,
+    "unavailableReported" : true,
+    "suggestionsOk" : true
+  }
+}

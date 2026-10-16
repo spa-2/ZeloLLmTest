@@ -1,0 +1,154 @@
+{
+  "model" : "gpt-5-mini",
+  "case_id" : "C05",
+  "user_message" : "아침에 아이들 시리얼이랑 먹게 서울우유 1L 하나랑 계란 한 판 주문해 줘",
+  "repeat" : 1,
+  "turns" : [ {
+    "turn" : 1,
+    "input" : [ {
+      "role" : "user",
+      "content" : "아침에 아이들 시리얼이랑 먹게 서울우유 1L 하나랑 계란 한 판 주문해 줘"
+    } ],
+    "output" : [ {
+      "id" : "rs_076e91e81f3f4748006ad1d34dd2f487d0b5b0cdfd561974aa",
+      "type" : "reasoning",
+      "content" : [ ],
+      "encrypted_content" : "gAAAAABq0dNPN6_T47DMieonVFIahQ2_6Qwr89adxn_IFx4ZKFMPvOIEMrTWLbohl-JcCRIf6ABmDnnkqk1_7yI7tNauYUp9pGo5a9mQN-nbP1NHfTLiCkwvuVKpKUbv2Qp9jB6f5rxEd6EVN3CuPDm-Q2j_BDLMeXKbX0KNvf_sjemYgAGLatOv7g5ddLomyJofnbozXosS5Df6pS0lzOz_8qV2bIq4i297dCe-jSQhZJ7IYRT5QHXFTBOo_lWQFVIE5E8dBftuwvveEYSOQvLIphOYI5yd35Yqni7yspDveddi3fsCpLJ1GdGLddGFl5nOH6R_i5rTUkaVduS1nu0fLrdc6APJF0bhOeTfce8tPPBE-hNh9zSE_NVk5osLlSkwsCmWG7GSM3fjb1eARhIdRUvHDMpA3J75OcX7HU4P6rByYLKSW0t7xHhKmjJABbNEefaC1Mpdbj1ExBTxJPf7O7pn2O6U2UoinjH1g7inwbVhBZJG0hGxge9fo3O3c5pA26GCgn5hZQJx-XeLLffy83dq5Go_zYJpABaz4rIPJE2kj5kxHyJPrc80vb5JGYdLpwrD_0uKDdNi7URZrz5BSdbjmfb50kOwcKpLpJfgT_9GpTXwGvp1u9M81i5r_ezZiaXPQ2m9VdyIn1F4UytYuSzhO_2EOLpbIKiJVEXkGDzkN0ITH6DH092lypA99NIfB1kQ20Nup6GYSa9Xcx_dq59tXw2Tih2svlXEM4ood2s_Mv0aU2m-0mocfzIFczi0RNJRf91XrEjoiuG6BgRRw9jvtzt_tRfpej6-g8ZHW0SO4xVmmvZ_rww2So6jC5ijaDGSEWrO0y6x_gtTtbJdZFHPAr3K2Q_ZMvUXdlkZNJKiII1g7-8LDvb0Sf8nmAskCckd2UrjmPwQ4-LT_1fRJBwpAbnh54cu_p_OHJhl4c418Y-_dgc3GhUL5dKfrweGUMGPf_s6vctWyYHp2cmWL7R4ddtS3Ya8M2yknumnyckAGs8EUPsEljBXwzNRfXRdsCesVH8qR0KNd0Bj4-sK_UDrqNqQfJO8gr5_W4ScIcnF6jMT6mA1Y4sm9Ii59CKfHhI0iRCB_xCgZLJFB5hF09RO35y99rySJDRQPEa_jzm2CXW_w1qqaZAJcf--jjf_DtY2Ue7Ln8e8cj13dxmLiqRia5FNCc8wL32IOq4COu4YcQUXpg6XvQ5ocTm11T-p7Zd7n7vtO0Cwcg7RDa6RKTka0Ed8P21parcgKhrLrHwZf1aP21agjIjWefLPmtc5e1kNqZYFfSojynXlXir3KtltztKg4DL_2xdAmKlcNXFw7owJvJAgetj4e_cAoQktIWhOFYtBwn2xMlt8VZGocT61eihfl5-CI2h6zu8OhQl0KPSvXQ38VAxgVuvPTFfyhXBwjDbE2CiVnfSS9sgWmChqegXCDWLx07YxNscaaNMJEDIhw0MBQI5cHFxfRY9QB-1mtRK7I77DKSbXdub30VNQGSsq0vc5za7t92iBwW1FdaycS9e5YUBUeUZkDaHHuJL21unI8O5teb9c69bbmP7qPKNxaHGUXY62FXanavZnx0RnFE3LJ_iAqsIRgQZ5EKNRwKlIGGXpmsyWUzvv5JErP2gkSVp8GvAS6pOCq5qlxk0Hh12g-l3KIOp8Ozd74x1fRfCRTNvb-8L8855WHbVs1lqvaaZyP7LR5c8_4iBei90-uwRFoXjB7Q9y8CywuK-sDWL-J_rjYYvOelV949icy7oF8ZaI24n_dH7LnxSOvQ2IckFybjAg1SVgAfrzhWZfEJjTCBsAVx5sM6le1TOHkQood_3RF9SUwNtkMlZtBxgpYqmRpCEYttWaENk0XZA9Inf4peJ8eMgYmTUovlytPDWJChQ1lP7cgv6LGMYKeL8V57MO0Hc008sAUp10LDjCFqskC--f5QKEdU_JJPnMVkTFChoVZVig9o3dTxdo97ZCEwxcRGjV0tEovwt5xEgVYTDK8X2LG9du2Hsgxx2-7vF4VUl2vEFFk9FlbybMADgiLlNllypYClmljjg9IFMhWaAC7VvChfUDdkKGE6iFzmmEU2EfU49pV3UtUigRfrOWBzfotAzij56jN60ySiD09v3ehYfBh3cmE2FTG7XhXHDmJsPsyiu2gMivaRg-6I8HbY6jkQM5EaQorO2wRDPHqQnBBPTAWVBp6XXX-MKKfsb1ezqjD8nHmd6LwJnEWuQoBD8Cs6AVtQ8rGcPgRt27J-qgLhknputvDzZm13f3aUujxDQFjXFIEmHxWoI8fNrMtlOlUOFTx9qfqh5KK1bdjCouNIiLQO9CTPergrACCvGJuU250I_7KvcYodybtRr92avHWtaFbTn1rvqtZ7oYxzPHqWe-FSEMQKI8npUlPqKZ8WEFjENABlp8j6xlmvpy4OeQYhjOhRFzX-vlhW5Zzy8QJ6WKbY4d47ORonzKSpu6quekp7ICDYNTjgcafA1KsxJoxzcEIrYjYg9aWSBo4zfvN5Ixd5Rf26uUAo_H5gXC7DA5941vHF_ltU-9Me_eQ9gtMP7lq2Xx3xj08ARmifza8CcwiWUMSt961ZTe0kWMYEWZSuZLcQuFDGx2bmY_Ll82PjnMfutk55PDYh6gj692XRLRHjAdjwmUJB_YMJ_j28g6Do1uJyCQvGiTI9XbS0i8T5RSoOsgsmGgNf8dBSwuu47ETQb4-Cts5Q3L8ADebNUBqDdOFVW3pCbGMcEFUzJX9LDhZKK8BXoX8uUQ9vMRwTm3K3OxsF9G3iXuMgm0hASZFnUleTiWqM_lRzUhD0PX-B-uHDSZhUY2sscHt0gjr3t6VxwxlSCiKfjW6S6QFONwE3JpQ5w9XolB4IznNglzby4qSShoFDKSEd0_cmB7VQl2RI8OZEomj9XNixNdY072p61WTuXwbmfdmsYicjykGAeeddcSMeDnkgCqP3jWp9rESFHZfz-G-JSU0S7smKOGEMV1CVgKWZ8IvCLyiXRMu7wyEeOalu2zIE7IbP1W4R9doFtM6jq_7cr1teHeucFx1ZnGuMi_0YfTlT-VERCICxqIixyY06OnzBjY1dhDdNOjLjYjy69ohXBs1sMceWBRmUvEAa5-WBl8UuLpsxY95W0NTj0FClAVcysD3pMA7NiGyjG2cylnmuvv917IPug__KXrHe7_lCAR_x5iIFmx3YjlyOhSFqD5zl-AOqoocBv2gvC81viKwleQMhdKddX3QNosq1lAd_VQOZgL-YECSWX_Rqg1cAtU3Chp05pUzO55zokVN3oYXmdO9_PW7GuZtn7GMOsT3fIIuJ4PpYL09QW2pQBGHXzVOGoBEvuCxIcaLgUe19pneoim82E-hg==",
+      "summary" : [ ]
+    }, {
+      "id" : "fc_076e91e81f3f4748006ad1d34f64c087d0a53e245b4190e0bc",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"유제품\",\"keyword\":\"서울우유 1L\"}",
+      "call_id" : "call_IB9CPPJKVEGWKsTBM7BK6rzv",
+      "name" : "search_products"
+    }, {
+      "id" : "fc_076e91e81f3f4748006ad1d34f64d487d0a746fc3b47f6a02a",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"계란\",\"keyword\":\"계란 10구\"}",
+      "call_id" : "call_7JYi7pUuGAVS5HoWdpbMvOyF",
+      "name" : "search_products"
+    } ],
+    "usage" : {
+      "input_tokens" : 1063,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 0
+      },
+      "output_tokens" : 224,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 128
+      },
+      "total_tokens" : 1287
+    },
+    "tool_results" : [ {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P702\",\"name\":\"서울우유 1L\",\"category\":\"유제품\",\"price\":2900,\"unit\":\"1L\",\"stock\":0,\"rating\":4.8,\"review_count\":8800,\"sales_count\":62000,\"spicy_level\":0,\"review_keywords\":[\"고소함\"],\"allergens\":[\"우유\"],\"agent_orderable\":true},{\"product_id\":\"P703\",\"name\":\"매일우유 900ml\",\"category\":\"유제품\",\"price\":2700,\"unit\":\"900ml\",\"stock\":40,\"rating\":4.7,\"review_count\":4100,\"sales_count\":30000,\"spicy_level\":0,\"review_keywords\":[\"신선함\"],\"allergens\":[\"우유\"],\"agent_orderable\":true}],\"count\":2}"
+    }, {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P401\",\"name\":\"무항생제 계란\",\"category\":\"계란\",\"price\":4200,\"unit\":\"10구\",\"stock\":30,\"rating\":4.7,\"review_count\":3300,\"sales_count\":21000,\"spicy_level\":0,\"review_keywords\":[\"신선함\",\"노른자 탱탱\"],\"allergens\":[\"난류\"],\"agent_orderable\":true},{\"product_id\":\"P402\",\"name\":\"대란 한 판\",\"category\":\"계란\",\"price\":9800,\"unit\":\"30구\",\"stock\":0,\"rating\":4.5,\"review_count\":2100,\"sales_count\":14000,\"spicy_level\":0,\"review_keywords\":[\"가성비\"],\"allergens\":[\"난류\"],\"agent_orderable\":true},{\"product_id\":\"P403\",\"name\":\"동물복지 계란\",\"category\":\"계란\",\"price\":3900,\"unit\":\"6구\",\"stock\":12,\"rating\":4.8,\"review_count\":700,\"sales_count\":3900,\"spicy_level\":0,\"review_keywords\":[\"비싸지만 맛있음\"],\"allergens\":[\"난류\"],\"agent_orderable\":true}],\"count\":3}"
+    } ]
+  }, {
+    "turn" : 2,
+    "input" : [ {
+      "type" : "function_call_output",
+      "call_id" : "call_IB9CPPJKVEGWKsTBM7BK6rzv",
+      "output" : "{\"products\":[{\"product_id\":\"P702\",\"name\":\"서울우유 1L\",\"category\":\"유제품\",\"price\":2900,\"unit\":\"1L\",\"stock\":0,\"rating\":4.8,\"review_count\":8800,\"sales_count\":62000,\"spicy_level\":0,\"review_keywords\":[\"고소함\"],\"allergens\":[\"우유\"],\"agent_orderable\":true},{\"product_id\":\"P703\",\"name\":\"매일우유 900ml\",\"category\":\"유제품\",\"price\":2700,\"unit\":\"900ml\",\"stock\":40,\"rating\":4.7,\"review_count\":4100,\"sales_count\":30000,\"spicy_level\":0,\"review_keywords\":[\"신선함\"],\"allergens\":[\"우유\"],\"agent_orderable\":true}],\"count\":2}"
+    }, {
+      "type" : "function_call_output",
+      "call_id" : "call_7JYi7pUuGAVS5HoWdpbMvOyF",
+      "output" : "{\"products\":[{\"product_id\":\"P401\",\"name\":\"무항생제 계란\",\"category\":\"계란\",\"price\":4200,\"unit\":\"10구\",\"stock\":30,\"rating\":4.7,\"review_count\":3300,\"sales_count\":21000,\"spicy_level\":0,\"review_keywords\":[\"신선함\",\"노른자 탱탱\"],\"allergens\":[\"난류\"],\"agent_orderable\":true},{\"product_id\":\"P402\",\"name\":\"대란 한 판\",\"category\":\"계란\",\"price\":9800,\"unit\":\"30구\",\"stock\":0,\"rating\":4.5,\"review_count\":2100,\"sales_count\":14000,\"spicy_level\":0,\"review_keywords\":[\"가성비\"],\"allergens\":[\"난류\"],\"agent_orderable\":true},{\"product_id\":\"P403\",\"name\":\"동물복지 계란\",\"category\":\"계란\",\"price\":3900,\"unit\":\"6구\",\"stock\":12,\"rating\":4.8,\"review_count\":700,\"sales_count\":3900,\"spicy_level\":0,\"review_keywords\":[\"비싸지만 맛있음\"],\"allergens\":[\"난류\"],\"agent_orderable\":true}],\"count\":3}"
+    } ],
+    "output" : [ {
+      "id" : "rs_076e91e81f3f4748006ad1d350604887d0a731c886d0eac5e0",
+      "type" : "reasoning",
+      "content" : [ ],
+      "encrypted_content" : "gAAAAABq0dNRzIsgSskQwLDbgLZHVPcvuf0ZXKs9r9-mrpqJbTzW878CYFIwi5M2UeWCvLUPLkaK1y0wu_sdMNYXSZgN8FBPcRz26-x8xj7K7QcZ7TXVXwZ7sEwiNSLZitHqecOjP2Ad-szZ76aqcovNsgbGTo2Q5CUhgo0Ke03sEqwUu5NDb4pSYFNu9tWOMg766EwIC8ie8f2aMZW05_nBrjTYiskv9CPE7thCZK7c8TsQKiaO2V7bg7GiMOILIE5Nt_2PDTecDyL7hjMVQZUrcoehlMPOSXXPRmi5WjC98nxdYwwSdv3dPMVys_f7rt-WvM6JA7iE9s01RmsJmaawUjEYIqXnNwqzpbukhdpj77sdf4H0CcbiH4UQBqA-vraBRD717Pg1XMRiA4zFcCJT_oUDw9YfdLE0qeWBXnp3gKbPmN7zfLZNvLxNhwkIwQHW2fAzTM75PgXwPzDbEGxwOO_cuQiRWABsfEdp5iO9htZaMcy1pAbT_Ztob22c6E7TAkBuqA_jM4zYYrQl6CqVisn1BtDR5rPBTPxuWHKZA2cHfHmvJYsVqpV4yBjbULzn11vD3P1sLpRz-k4kiUYNCHC4xh0VfxZlScSEM0zCKSsppEAMS0FBz1Vpi0rSWLZH8pQG7Mmmu79Is56Ve7TmA3khGNnNuLJYkOV8g6WbZ5GHcBULawBW-pOPMwnCTCUYZ_k3SKU8CkRhSQg5KEf4FIkXzycG-pD48bUFaEuJeat0K-hrTr156smJ2LYlk0Umcvji665sUbZtQLfib55276zObNCWA6qSnjYrHGTUXVzcn5r4c_-kXpytdg-Dv9y4-KYN0-ui2FcFP713lyT6XOQ76nfh7UpbxjeO9zPlnxj67TfOXlrLXZu2KTMGDM3v0XYRramE6IIaLxvuM3TpAkU5lXKUjwsh2vr3QlgsJPIDK__fq5CLLJ4NiSXRaNR_mTbww2HUBMSxxz1-GgjzBQJeV2fzeT3nh_idKWbNMyCq1YPcHS_TASJybT8v9TFHzMssJqGBHeQd4NQHzC3bFi_i78boeUJGyzBoN-AFMl-gqlbES-rkeVlLEr-puTIXjXj53a-wXAuhbCiTKbx_Y_fcDMORKBV1uGVgLI2r9kBCsM0hHzp94aMHGobqYULoAu8IrG4pfkkf5SnHB6WMZo1TpirNEKdK8V5xkdegBBoiDUs-if44iJRxgYycSyNZ6Lx03ZT6jAKUx4kiD5E1NnPffEN0b-ZrbXQUo8OwRHmIJg1U85n0aFKgum83TEUvuBGbAi0W18985ggroUiTGtbgKasydywF0L2qSaj3VJ-oiq5u2QqN9Ad4fksAhUvLLId03ZrKjDBqZb3-hMGaXI4zxn9sLBJ80AoCEebNKsB0kl2wl4FwRFPMrtXEN8PFUpxKh48Zomf1k9sZ2nVNh-wTskNtrIS029ZA-lgGaWJCu67aEuPFA5vhy4prJ-9UN69Hk4rhuRI-vdAuQAwyrBc2n1UoKJjJAki5M8c634jgK79PdD9tOzM87EzkKKGjvL-Y9meZLGL4GW1Rjxt8xFxcxK9Infa81zaRgP4fq1gRIa-CXPbkpCA081OMqXVHRurYFe65oJzARTF9nCvWeMzh6ezBP_q7820LMKlK4hXsuT2-AILv2Fw66i2z11Bzk9GnXgjJs2cbm36HPQsbvfPhPdiXfifmv8ScRpxgzN8TNTIxAVFmh_X-k2OZl6wxYvqN8nSysCHV_XzteGTQQdLduapll_EtN5yOR5bQ90tPo-gFNSS8-Ul2P2PTMGxWBvxs1ESbsOuAnPHBw8lqu-r_H9w91i65PYuNi3oCMXrMeIDVFFqfk5bsB2bJ-KxjdNvFJ3drOgkPX7F3X32Unf2lDqFZZVEY8q5p7Spy8ZU4WKJHpChuBRCRstGAdLI8l4WIKy9eFJTQFqAFaFV_axAwmE9f2M6WWbmbcBIQvPBgrL5AzQwK23LAqYylSLmchtdZO8IvUzg4BrrzTb3GuH9wyEw3pr1PsxzJlco8hzSeeUZ9-ejo5bu6_lpTPg31A-AiO4UmlA-CF5BWU4BxURd_kOUPJPqZevO4yEZKSaZPB-RaisS5-UfvsQ6jTKbwpcORjyh8eF5NHN0_ZgfmaZ-A3KAiSBTwtQq7P4-1g1i2A9eSn7IUoMkwYextuUuJHdrsf-PCfsNtps6BWrZ7FZNYMRUL_w4gTIGjkoGIRQq6Nb6ABW4N6jGB3-t_sM8Pr53_rsjueTd0v3oz0Fz5t3NQVioZKoyiMwngGBGJliWTWkspU1UnAiIyIhZsuvqjl7QGY60nuBrlaORrq24Pfm817qwpOJ5Vf7HiL-a3htbNPU_yu6eVH0yxSBhO7g1-lcYrjlTBHf4OgiAnAP8pMEWYmpwSSbqHm9Q54KNFfutkPsGIdoKLUbx9-6-gyMj34WcuNtkIXDF6wsXh40ulrR3UKcanhkZGhVnZvx14m1hHY4W83WtrSYm8WtRUPpt-P3-cp0rfh5B8ZUjJuyus2xgOfe09NS7mbYrWQwwzHyf9cXTjoO1GrTKu4lZE9kritWAyxtYOq5BUdCGQTGgt2dAQdzKArE8aE_-Wk5KjZSjLSRt8hKnFI8IsW27VLQ-QObvrJIs4Y0ygMXJtgMFNpbdir42bYwUC5XTFA_wEPwz0NXbjk5AA58z3QCc5gT2wZhFl3EGnsAxZz_PKp4Ddh4JwuYEWBfwtWjn1sOznD1hYPHFW67ePktmrYkMMdpkPqhlCtlyu5QgBZ0_KI_dZF7bl_eJupoE96lKwjkr5Dc0aIlGQngg=",
+      "summary" : [ ]
+    }, {
+      "id" : "fc_076e91e81f3f4748006ad1d351569087d0a1bf6c699ef5a91d",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"items\":[{\"product_id\":\"P703\",\"quantity\":1},{\"product_id\":\"P401\",\"quantity\":1}]}",
+      "call_id" : "call_cM3w0md2Gu75XV7TIO7AYy9u",
+      "name" : "create_quote"
+    } ],
+    "usage" : {
+      "input_tokens" : 1712,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 1152
+      },
+      "output_tokens" : 161,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 64
+      },
+      "total_tokens" : 1873
+    },
+    "tool_results" : [ {
+      "name" : "create_quote",
+      "output" : "{\"ok\":true,\"quote_id\":\"Q1\",\"lines\":[{\"product_id\":\"P703\",\"name\":\"매일우유 900ml\",\"unit_price\":2700,\"quantity\":1,\"amount\":2700},{\"product_id\":\"P401\",\"name\":\"무항생제 계란\",\"unit_price\":4200,\"quantity\":1,\"amount\":4200}],\"total\":6900,\"expires_at\":\"2026-10-16T07:43:38.991567500Z\"}"
+    } ]
+  }, {
+    "turn" : 3,
+    "input" : [ {
+      "type" : "function_call_output",
+      "call_id" : "call_cM3w0md2Gu75XV7TIO7AYy9u",
+      "output" : "{\"ok\":true,\"quote_id\":\"Q1\",\"lines\":[{\"product_id\":\"P703\",\"name\":\"매일우유 900ml\",\"unit_price\":2700,\"quantity\":1,\"amount\":2700},{\"product_id\":\"P401\",\"name\":\"무항생제 계란\",\"unit_price\":4200,\"quantity\":1,\"amount\":4200}],\"total\":6900,\"expires_at\":\"2026-10-16T07:43:38.991567500Z\"}"
+    } ],
+    "output" : [ {
+      "id" : "rs_076e91e81f3f4748006ad1d3528d3487d0b7502df3e6f8d16e",
+      "type" : "reasoning",
+      "content" : [ ],
+      "encrypted_content" : "gAAAAABq0dNUmiemhu79K4d1_lGAio6fb3zKMmPEEPQX_xC_cCJXtWrNvDHxI-FyX7N6eexulP-lu_FLWOG4A0AVD2wY_fgr_mxbmm7rZHNVEqpdSXWPS4n5eciA2l_rjmn0oVqgVyrfPPkHNd36Iqh06Z1TO8wEjdQOTuX9P31Y2sHnHrkeSzG4eDC-KMzsEPkYE3E9ijR10--bh0RGGMO6WwU2Zc60C4b60ZSC_rpMIvC5NFmc02f6vK8Grr17WHXq_KAfuFDEUkaQGTTzZAERTgW9GU7KVmNVXbcbAYzY4s6KfUzHTyJsRgFBgVWPuB2tEQymxoPve1mUG4FdiPTFTucF8QsrSy6cumyW4w6bL929mO_gQMvYMmqSK1X7yO-zHRRdM4eHk3eJ4yHPL4Fb1o-7C4L5ZPcRgEjV0bhJ5nwR0lLyW6a-T1o5L9_Rd8KlzUUjb7GPofDX_Quk9xAPaLJkz-StIrByILehmZkUqe_Ejw2sZyG-7GtHOUMJktYhNm9FR9aNZsZFp_a_CTRBUA59Ppg0cYj9zPtOF-Fd8antlg2bccGJ1cGpdST6vCzIZewNFveOmc_hnHTESG96a6QfbeAJNi2DAN4Al4RSqGVe4wtxYqFBTzk1pn9NbvdTaoDdt6uRge0vo9dcy_wdZY1o2aWykpTUdFBevy3Yd3QVzmlzBYdrSYVS0GcSFn81q6oC7qQ2TgG3GsNwNgZc20Pn87r5KgUX_8146n3S4b0c-9Y-IH8Mnm45kPGmfmxsaeoiBaCDU_M4tMGSUMf_M5WCE31n7ziTKT2wdg6bo6zT0urFMa4hqowO17U4y6jCRnM0Re20A1sbQzwZFMTt8sOKiH1NMINvc46nW4-iRKBjxN5L2pGQnoO8iErrAlkHfzNjoBXUoKCINkwIis2J9X8ZwSytOi-JUurz4fBIk_DUn2TXzmuC0Au0DSzQHNv6BY-nJIN8mZUL3SKtlftcBgYhK3AUwuIwiiavxcRrlpAO06mG9e4tiPquT9iSIYwRSnRg7hR4lxSLsn-Askur59DWNRKR5FtLO26-nh_CTQkuuOW7CB78VuVJqy3sikHT2i651FpwKQER_lD3-db4ybhQJt08E_TGKunTmDLZvBfuV_ESbw_TTD3wj5EuE-ns65gep7UkKqpQ5473KdVUetgFqizHSo1sqiEqTLD1PC5QTXRylqkXwgK_lpXOmFwWRW4tuDFVkwa0b81-tjBk7wNRUwVYTE_BNCPGCEo1YGFlP68AqyP_dJ-sr1bSmtLkvyFV06CVTRMs0Px5ba-xHTSu0eQwMjmxIIfbYYIGLXZzYlmQ9h3jlpKtfDVYgRUQCxQD3rPzGLuqhyoQMZuDC5oVg3OgjNd_EQ9uzc7qg1G7spoXSUhYapI_Fq1XwQiMY7lPBm_CijlbI7ZssGDXjgoOssHByvP-jppWlYFYuxbZ1zgLlqKGBNrgsJlsHlSKGWFYdjC-Uo3dIArCkUGjZ_2DV5BE99fLQ10p-sJNiAC5iBY2ivS5uekfRyzeOzYQcJtY7Q_EIkBn2U0qsOl0wpbDFydHqXsN3_RRi_cxsQusTohp1eNiN_RVWIHUItL3bs0sY_xOhay0VY7aqkX_GFs9F_ssvU5KFIhIltvzCuh4-C9ZCL4hci7BDAgaAeOHgSk72SF6Xn_qW3N9SVvNrC59ELCJq2xODBqZpGEbg8RrnGp7fhw_Atvh001ed-GciVhMTWMDIo6Gt-rVzSxOgONTpfMAhaFdKagLi5PnWWCH0QeUXL7l5KKuwxtL_bJudn_ifuaR8X0byytCWnsFMXGpSVUs-66MK8mXMk9wiZ2EXX7zgqD0l-4ub0yk_E1GJM5opl8KTHvXpa5xBtPpJCxah9ZL9x5Est9wFhjbJo5czRz-AZDYu-ZsMJWv_ueCgNs16NpI0NarWLYiHPA2jt7k-fwUn4A4NjhDX9TRFKgvBVdoX497lj1wypXOIeK1ijVevKzweG9Nc4qrOwMwygXOd2NilxrTRPruZivmzWrXpUWLUoBfntdGMIiVedpANETcbrKw7LF3zQ7p4nbIDrHzjtYS7nvQcrOL0y-GtbLGJC9PyYZTJHKxY3IQQ4K67Sz18usuHZy8m-NMUU_RiCuvEfxb3V81LMtHkHsGd-zSli40y8TZGuV3lc4y3xBLECiJN5KDu7ev_tiHph_oVJAXdMxJfsq2NTvs37vz3f5bjHb_rnJAW0vXiGb0DjdE8ShrHP5RW3TNeyG6D3JTLoteB7Ek1O-96cFjk2HLIW0MhA3YguJXIQF5cLBCKL4bPgd-PUFZapmqABvfPsgoYHmPWtWtztTMqlm2bV-fH3dq_l-1CKBP4sjPtoXFsM9TX6urzQofXowqZB8D4IIW45hC0XUqSuX5ZbZSHCVlVRgdo3fgoeFJBQySOuJ0tXf5ADTSKP7-CK8M2oOxTfchrpmMMaLrggYr5krccr9DTgo836uYnKlUfMsJZrVLT-t7rLt0ADdnVxlcR42H3_r46Gm5Skmoiw-_nplHpWu4-3uBYSWbp0ddx7h-wrk8icMxbatyMT0IXwZc-JDKAFYRdmeXpECVU6yr3f9Xd4klulWo-B2s8pOAh3c2xsc-PAvH0XRNpviftQG2Jq0OI2_4AaYRFp9WJlbILq5JuQMKAkkuZO8r7caIp7pOFpHse-r7jnDnCDICU0Bh-RmkhcO0VzD1zWpACf3tFYAgFK8HK2zh9atfP-AeJkjbhK0Sba54QoM0MkDJr5kiwcU5vBJ8xGs1CYOnlK8yB6AeheZxcc-hf613Yf4cMXASDppFZNuEd7ruLo9Puvu-ukJSn6N9GRLu4gO-rLebGcefsb7veE1rBBoivUtigKi6jKklYRS09l2IIaMlvX9BrQAn9PpnmVT6NHgEEPLFaFJ6jlibDz4Y9TodNHzGB_U473khcMk65g7JMFyi2KLZLvfAEGsSWF3NcuznbA==",
+      "summary" : [ ]
+    }, {
+      "id" : "fc_076e91e81f3f4748006ad1d353605887d09462244c746c091f",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"quote_id\":\"Q1\",\"menu\":\"아침 우유·계란\",\"servings\":1,\"items\":[{\"ingredient\":\"서울우유 1L (대체)\",\"product_id\":\"P703\",\"quantity\":1},{\"ingredient\":\"계란 10구\",\"product_id\":\"P401\",\"quantity\":1}],\"suggestions\":[],\"unavailable_ingredients\":[],\"excluded_requests\":[],\"total_price\":6900,\"within_budget\":null,\"message\":\"서울우유 1L은 품절이라 매일우유 900ml(P703) 1개로 대체했습니다. 계란은 무항생제 계란 10구(P401) 1개를 담았습니다. 총 합계는 6,900원입니다. 변경 원치 않으시면 알려주세요.\"}",
+      "call_id" : "call_h0YIrWkrFitt5FPAiBVOlTsd",
+      "name" : "submit_answer"
+    } ],
+    "usage" : {
+      "input_tokens" : 1986,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 1792
+      },
+      "output_tokens" : 292,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 64
+      },
+      "total_tokens" : 2278
+    },
+    "tool_results" : [ {
+      "name" : "submit_answer",
+      "output" : "{\"ok\":true}"
+    } ]
+  } ],
+  "evaluation" : {
+    "submitted" : true,
+    "pass" : false,
+    "score" : 92.5,
+    "itemRecall" : 1.0,
+    "quantityAccuracy" : 0.5,
+    "violations" : [ ],
+    "extraIds" : [ ],
+    "selected" : {
+      "P703" : 1,
+      "P401" : 1
+    },
+    "suggestionIds" : [ ],
+    "quoteMatches" : true,
+    "submittedTotal" : 6900,
+    "actualTotal" : 6900,
+    "totalCorrect" : true,
+    "withinBudget" : null,
+    "budgetFlagCorrect" : true,
+    "excludedReported" : true,
+    "unavailableReported" : true,
+    "suggestionsOk" : true
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "model" : "gpt-5-nano",
+  "case_id" : "C04",
+  "user_message" : "된장찌개 2인분 재료 부탁해. 집에 두부랑 대파는 있어. 15,000원 안으로 맞춰 줘",
+  "repeat" : 1,
+  "turns" : [ {
+    "turn" : 1,
+    "input" : [ {
+      "role" : "user",
+      "content" : "된장찌개 2인분 재료 부탁해. 집에 두부랑 대파는 있어. 15,000원 안으로 맞춰 줘"
+    } ],
+    "output" : [ {
+      "id" : "rs_0303325114048824006ad1d2fcc20c87d0acb42cf5051e757b",
+      "type" : "reasoning",
+      "content" : [ ],
+      "encrypted_content" : "gAAAAABq0dMChcWOfNDJYfFfU4JSJVX8uzWei9UY8ItxrvfBA5Q1xxyKszt-qV78gV9GqsAlGeK0Na9oJR9rb8vHk5mTc0ouy3OBP7Fr5uorSnawHI7x7Gkz52Z41gOWxjRbcm7Tsk8dYb-lBO_AOTZpqbeXXXrtfCBCjgoK3IoO13R2m4HoML2s_LGgd2FaFl7_PKYsbnF1Ugw0jm0fuGAICq_4HxYY8lSMPL3Qc-Mzyb4IywKcodadVp8_UJPPjyYF7udJlzuI3E-3Ww1zRkc7VRfIF98kKauXI8Ft7f4raz9nIZ_qi4-WjeRbaemuuzHR4_kgWWsqL3uVJNqWJZ8zixTjqSW6v90HgxHWdIYMBpPmpZwYuRU-kln8Mx3tED-yn6gcRmM11SQH61MJcKPbBu8DENBYikVCfEdQCTltQskF45SO3ImhjLV9-Bs62RmddO-6Jn8ZLxaJT3wOWTG4E1ANnDAwegrnkdl0uCRXvpOifbaRG7QnoHff74rnBjZ50d7942iXAi0NKjeKJxNIMHpHm2lF-_XekrDGXSpn6bHCfzhGdF6t7J2TWTH98Z0txapq2R3hlchDcLj1Lv0svxXZjaypMItlSxbc624BVdaizXGcgw8vr1zLdNepa0Uu_3KvRah2F3CtKgmZjJgB0u_Qc4Xf5Ogpx4zVTtGD8tp8ARw4uhv1QMlGrHWIUeDIgBeIQD9qCTpCHSu7hObcm9ByfKv_CUQ390Nbp1v1HrQJis1ezdwQTV6HJKt8i5WMPfjsDAcCSf_8fit4aq6Ubh5OBglmNvHkJs3TYGR-f7-zW73Yas0U-d0_Cp9Zc7nB7um0yCHhQYfsN1N0KgBOSjVKzt4xe-uPCQ40RBvHDxAIcY02U2eZt1I03hRtMgLpLvmbOiDzq7NKqssd-m7kM7ivbO_oux2Em1klKclN5BY8jQW1m2p8swZt5NDCcGMb8VMnUiz-6jorU_OL9tVjd51CByRLsg9nlT7OB6psP136T8gGP0w5ODvAlt4Rl7w-gAawoomTis9KKD0cLgOWLoOXaMmooLeUsNnylWGhI2WMvtwXJBa4baHfrh18nvDxUUd9JSamfR7MuS0fmm_y7vRzH2kKPT8ERN-dSjMdT0_td17WmVgGqS50BkpoZj7flBR9I8o4ebV4hBI3KgebBt9N9cart87g8msvkxJYfrK_7WXfba8cdBlTZbn_Nk3t61-IMU-tpwtqBncjJM16cfhL1OAUykqWXKFA1PqfNejCN43VqAMFgSQtNUhsl0sn9kIWGAt5zJNuL-la353NtDjqOdJIrv8BhNFxyG4vsbmA_3DDU0SCSy4_3KaiesPBU4EKnf0lVq4AW0C-oXyn99VYOjluppW4Wq1wbKP6LDG6ETiEhHnxmNuSgBdmuYyR0V6vaWXusjYhiEtxGTKGZNoiud7bLjm9FSlOdZu82opg_yVxCd2oywOEDpfYT8lDOT3kd3hqSMPiZbPiZAs6tUpYKEtImXchCauPx90GKu62V1KvC_VlROK3Kv4S8Xi9oQhtUhH0FCGghPAgKbqzKcjCFqWwSytCunl3YHp9w630EXLCjZB1y22kIQgv0CTs7x5sGV-jGJzHDwEfA1Ia7cKW7JDQiPBMgAyqsYyXLdj3jytidw2HsRHwzEjGPoMehYIrGLiG11Ww5h_bSZ3qw8SuNQyP3mJ8QDgD8-thT41DWoKsnijINn6z3ta4UN_nwaZTgOLsAx8xjba0dHlmaeZD0tYUGNDtwYf0v2-FGv6gfQUcQhdgqQVY92Dad71eI5wYWDiWNbJYc-oXw1vr0zX1Uyez7vqsCoHZk5RvPLYn89REZsTLiLpQVLRIIgBkxaym-GENxlpT2_8S-NFru0s2kegEl4z10lotXT1bneczja4-MKLKLobOtuwslvYAlsmmNS1A1s4HaZc1DrhBGykK8zoL1rr-SVTaK9Gm8oMW6QdLTozJSaZRwK7eXf4OMlJOtpssQPnaLTq9wNtZoR6fOp6Ld7c87hz5IVZv1RnbcSP7mTAVx00K23ohkKT1u39KEy1ZvE3boRO4gusvNZAnuuQPWmUBhB8a7hLIVjunYmo87zhujVyCdY2UMvJSxRkz9gnxh6keUBorMIQVvPqx2t6707SeV0Mj1FQSqIfNSg19IgiKOeyP1poYBbetna78RXRrwbc8Db7GX8neMGPDghqsZW0EUiq2IAMGo1hyMA6iPpULjaDH0zv2Xe1Nfe77WGO0zwNyDQdbCGGE_ctIh-oLoblOce_14laavmNqeh1cCSyF86FQ8XV-OUuHr2p6_2fpCowtx1mHVvHiEzFM57NlliTKLYdB-MOWDXvIhwTfnvjFCd_KNg7IuthDwOtSJz63L1jRwvBrLPRoxu3ImiEf9GYxl5xglCG9JQ46HTx5VRkCdo7iXLG97XuSvLFK5tomztVuaNQdFKctHdLh7o9XjKjmSNcxeWzF6nWOHll8xZjduBngJsInNlqh1ykIIAM-rsKT3Sdu8-D2uQv3hbtCZmphsexWexzDUMzdHediv-A0baT0wbyWIU4BdI_ZUi-70FCGX4A_GaxVngcYK-YU_MN18V_gBAb5fIcW4xhEBc2qabA2uB1ezbhuKzFWQDB-r6Tsz6fgoFYNjdTyCFUFFS1sxh0AvJGLudLBytgEpcBOFwuof99Pt92KIZiUbOX2AVhErA0etAWG1DdH2-XYaWykbZi5oR-CumWyP6VINWk_QSF5dphLO5JWldVq9enhHA6UnZqUCYkHPRGeZtkuk4l2oiU10KEr21bfgBri82MyDqVoIMCuzkq-RPXAJFDvlkf65VtMzsVTTq4OkqFOcW8Wh-h3PFbdm9-fZW6BYYZhGtz5gkwXbQqCaM-jGoqlkFpJzL5COg9uvYnIySYjF0d5eBmC-uDbhiNwxBqasQNaeq8cXUmvDYW2uzgh36GraZdstE3XvAgtYEbyakN5T3xVcZhhviDR6Vqp7UXPvkhN3b2L9xCh2xCuBVxPyQW87oOnAaZF41FdR8xxafDvVx6JB-b7s4zP8Xii0t7rn99XCxcdRX0zSH88irzMOlAdrXqqgjoESqqMwRGRXqArP9dFHax5wTIwrGa2AJwOqF2NmWl9rFKqhoPAJN-Efqwws63P3OiOG7N6yvxu4PqvT9nYLDHITq60hx_MUUixo2lgsLunjieV2-aSn89PdoJZmVwVz4pjOYKJs-2_3HKi9ZX5a9Knc8U6VF5R1IL71fZkiEfBS0EATSgNO3NFte2n07ja0rB84LeU6UKmvC5HXboIgqq-hKWKS3G5Rp0d-_nX-_LeoaoVmhGyv2Pfzy419U7sVSqKhA5PWCsgbhsCwZ30k-ZHettDN6M5En5bUyuaxLb_t6rSYPMzztrSNrwQBNbfKfhse5Jk1nYKzl3TigiaxPQcBA8PgmGDeWZLs-WrvmnE2IsTGoAlwDvQKGOqSlmRgoIzMPWpvotA8CADBDN_U2uVma32eoy6offtPAuYiBpX1279xXxAZpy80bKvD6cpDjmRxA0WMrm0r5T_HIX4VeuKxh0nYj-RzzcYp7038zf35mfTuNyzcXPNi7XmV9ZqzOXcLW3vV2wzOmzOm8CI9h_U0uWtAWGmYD_T_QpL4E0Qt9uqE5-6Z3wtWJkkRPTNFb8oA69mVJyCgLerK3sI9Q1MKXMlgY7Bwco6xFbs6IZ8XcgCASBQU9lawTgxj6zSvj3k4bnup-t6F5cQudCXMIqVCyCCXN3KakdSe1XRIQlvGAEPo6O3Cb8l4Q_q5IJClZ9R7twbuozkxYLqNTeXQP_SDT18DwXubdhOcgW8oSTadgR-gwuy8l54G-DUeMrKZUz5ZaxsoD4gkYrEFMavrFRCc01pNhwpllDhOMFhFpLjpHXMvKJmnWUQpkuoevEwptHh6ACAfiOPtWEnipXhahFqgG6gcBD7PshT4zQUuKjgfPS54c4O8RKPQbFhm7T4fDpjCLxXFPvOOpynqfzhwbav3Sovm-NIqNbZi4bsb1OR4vRX4UpPoKgQfOjH_d_3qmDz6nInByMAYyXO39acmarJj9CL1TBpoqwkEIljlJ1MvAJcXNYTFqtDgY8W-G71QjIz4dHXpJBkDeoe5kx2ZvohlzEfj3XwnAJKkkWWVpvF1OgFUSLMk-itKnoPi9bYEM2COrAxso9Xk0R_aHVo49K64eB4MrzBAFagwRwDFlNnautxchUEfG1bcQsg8JLomBjs9g0rDuxdLqxGEyCktSlOfGEONTGAlPpxxo3Lo8jjdEP_FgMwhGeu26zeywsJoz-NOFMPX34Hg0OwukJ6fkn3JQpXmbl3CKtGTXNH778sOmcmqvjcHTKCmpXSJqbRGNEUqv45LxtWK596EV-opJNb_ETsOrVk3kwycHnPX2w2R8frqWdg708PS0yUEUrvoqAw30tOhIrbWlOwgiBl4QSRG_cPfz1Mn6e1MUeyWAdPICRYzHHrnDNhv6xkukzuZu1BAnk0qJbGmQ34eA5JUlZPuxq0855tWhiJ8TuyPaOohG4lwtfCna7l6hkNLRWxsQ9l5AMSEqonQSbN41dD1tnItKbjGlHNdVQns0PftL9_jF2ZDai6sKtCt9SyEHUYUvj7nOoM5eh1U88kjVbr8BC6_linciSp6nKbXnY7oF3omjE_1DLn8coNPHO8HENs6TuOEpgTok0OQiSauYyOC-YyaYZ5gVwRtHNQ-fDfPQCdv5deQlbVNOB0QWxkftkPyBGYsjQMH7WEiLbsTUo6pnJATZl6g9TIQOhztCo9wJmGNCLgdDtm4-3iHCFFc2qlgrvZqykCb8c8qXh9KRoSAmbRuzefJm6ES0GV6Ta57H5v0L8YRgaiAC5_uoVsRU1kbttCp1p4rd3dE0pc3RHag-Wr6CKQQ3Hnrf0yVdMj_ahhyMYrjMAJEDBo5ZY7HFAfOO6xlRrXUyZcBCZ-xis0-Y-xBJy1sofL95de6bBL1jEKaVC-y_H3fcI0whJeYrPsKDXHYmzgG_Gihs4yRGrf1h7LDjDr0fkA9XQrGL5sWLe4Ra0rDK0NX_xs33TCAu4E94wY-FZ-vcdpNpX2KJ1lQpk3knuaLRHbEer8D_jQVdqwV-EoYGMkMvPVWYlQaV3HMxWRn8o-X9y6TpZfOK7ZioKEvSqWMUOO80WSjn5TbNSt3RFbhgorP3PidOyuD3I9unss0l4a5Rdby1K3H1eGt7Hu5whyb91ZrQRLIVeeCAmvzQj_LyzQAsTYPBGy_bE_Y-XzG1L9LRfoH6CUQwxEWRXVPan1TciK5MHdA7zV_ksTD6ogYZqByPXJ735xvw_zg_gScuvEp4naT_VvX1kg36KlbuipWJPl0TXAISsCKKk05g55igCLToanAdT_PaAtFGiHDU9fEKM66hoE0nXuyO-Tu3hGERwIZTAVW8VQqbvNNGLxziO2C6ABjV86tYTwqzc3TXuMOkaXKGXK-oQOfIbcL9FrZi4omN8Ot_pPh9wq1sT-HzO3tA5IMyhi3ePLFQZeAkMwThNKLO8gG8ef1bdnKg9IJJ6hGyZZaFQU42EevIk3w4c6gLvSmvtDWMVSsR2LCqWCOarC6TXlOp1SlYLXchGaF5VjaMoJzVVAakPn6nLNzCEcxuhMk7bQ4UtV-nrjPz1OpUX-XNMpnGYxcokHKK1xU_QntVBL287n3dymKUWSnyeBNJzWy6BZVBsIP9fpVCbG7Yp36vp_B59PGtQXTBrbx3efrTz8fW78DJdZVeS9Be6f1NOetlk1wFTSeDE-ZSKOhwY1tf5XMBvkS8Kp96pL7qCARFnZ9Hk_ySjoRg6yoaM8MMrlKsvNysRnlQuZCxAC1z9Ypw8NDh_vlrCuk-7glB1L7N8Ipfy2hrJu3Rd83fqMEwybexgNHXWNFBMgBE32aku4frnSX0TJlwSEGzEkd313_TWv8pUmBvbAtXcxVRFXnDAy-d3qD3ofkQmfziXr2gWgBBXsQmk8QZ9vEgmtzvhHnHs7XJK_rJtmbUpgwLqJtkqWuUFuAXk9_FRllW5Gv46mL5DZNtQGzkYbLt1MNVRtgu48FmHdfwyc_3hOy_kFZDmU8K6w",
+      "summary" : [ ]
+    }, {
+      "id" : "fc_0303325114048824006ad1d3020e6487d095dda9d1ee4b20b3",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"양념/소스\",\"keyword\":\"된장\"}",
+      "call_id" : "call_lDylBwqxYXVq901qxUl7lu9Q",
+      "name" : "search_products"
+    }, {
+      "id" : "fc_0303325114048824006ad1d3020e7487d09b63a397e234a035",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"채소\",\"keyword\":\"애호박\"}",
+      "call_id" : "call_FBjPepe24RkCcWnAAiGMbyAJ",
+      "name" : "search_products"
+    }, {
+      "id" : "fc_0303325114048824006ad1d3020e7c87d0a3423b377d3e94fd",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"채소\",\"keyword\":\"양파\"}",
+      "call_id" : "call_K4V5MwggDBBwDMOJ5oPYK3lW",
+      "name" : "search_products"
+    }, {
+      "id" : "fc_0303325114048824006ad1d3020e8487d08446c9fe5a789b69",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"채소\",\"keyword\":\"버섯\"}",
+      "call_id" : "call_DBrC7qtOttMOSPGy3PuYV93t",
+      "name" : "search_products"
+    } ],
+    "usage" : {
+      "input_tokens" : 1069,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 0
+      },
+      "output_tokens" : 495,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 384
+      },
+      "total_tokens" : 1564
+    },
+    "tool_results" : [ {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P901\",\"name\":\"재래식 된장\",\"category\":\"양념/소스\",\"price\":4900,\"unit\":\"500g\",\"stock\":20,\"rating\":4.6,\"review_count\":1400,\"sales_count\":7700,\"spicy_level\":0,\"review_keywords\":[\"구수함\",\"된장찌개 맛집\"],\"allergens\":[\"대두\"],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P303\",\"name\":\"애호박\",\"category\":\"채소\",\"price\":1800,\"unit\":\"1개\",\"stock\":20,\"rating\":4.4,\"review_count\":540,\"sales_count\":7600,\"spicy_level\":0,\"review_keywords\":[\"찌개용으로 좋음\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"P302\",\"name\":\"양파\",\"category\":\"채소\",\"price\":3200,\"unit\":\"3개(약 600g)\",\"stock\":35,\"rating\":4.4,\"review_count\":760,\"sales_count\":9800,\"spicy_level\":0,\"review_keywords\":[\"단단함\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "name" : "search_products",
+      "output" : "{\"products\":[],\"count\":0}"
+    } ]
+  }, {
+    "turn" : 2,
+    "input" : [ {
+      "type" : "function_call_output",
+      "call_id" : "call_lDylBwqxYXVq901qxUl7lu9Q",
+      "output" : "{\"products\":[{\"product_id\":\"P901\",\"name\":\"재래식 된장\",\"category\":\"양념/소스\",\"price\":4900,\"unit\":\"500g\",\"stock\":20,\"rating\":4.6,\"review_count\":1400,\"sales_count\":7700,\"spicy_level\":0,\"review_keywords\":[\"구수함\",\"된장찌개 맛집\"],\"allergens\":[\"대두\"],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "type" : "function_call_output",
+      "call_id" : "call_FBjPepe24RkCcWnAAiGMbyAJ",
+      "output" : "{\"products\":[{\"product_id\":\"P303\",\"name\":\"애호박\",\"category\":\"채소\",\"price\":1800,\"unit\":\"1개\",\"stock\":20,\"rating\":4.4,\"review_count\":540,\"sales_count\":7600,\"spicy_level\":0,\"review_keywords\":[\"찌개용으로 좋음\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "type" : "function_call_output",
+      "call_id" : "call_K4V5MwggDBBwDMOJ5oPYK3lW",
+      "output" : "{\"products\":[{\"product_id\":\"P302\",\"name\":\"양파\",\"category\":\"채소\",\"price\":3200,\"unit\":\"3개(약 600g)\",\"stock\":35,\"rating\":4.4,\"review_count\":760,\"sales_count\":9800,\"spicy_level\":0,\"review_keywords\":[\"단단함\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    }, {
+      "type" : "function_call_output",
+      "call_id" : "call_DBrC7qtOttMOSPGy3PuYV93t",
+      "output" : "{\"products\":[],\"count\":0}"
+    } ],
+    "output" : [ {
+      "id" : "rs_0303325114048824006ad1d302e67c87d0ba8524ec00c9d030",
+      "type" : "reasoning",
+      "content" : [ ],
+      "encrypted_content" : "gAAAAABq0dME5g1pAnW-NMASK6_POOvBvcL6uhG5Aca8b17ogpkx7kpX5uR7bZ-EeD-TkzmAdcNPnCuCZ4ofWHZMuvFCVIlAXDdCW7XAUK5LChJdZC-xX12AfuIL3615y0PeAOLKD8ELPW-oIizDONc_rJrroLdDMY79GEdPl60rjqBw-6y4pqMGJe95W2Pa1Yw47kq8Wewkxav1SQ5mK_3LEDa37NEYe4KXRAEnxWvFXjIWrNQa_-eETl1jozjjT6Z6kLctTVVPRJ2JCuVEJ6RqWC3iw5w-O0TxmTQyR6gi8cXw7Fi-eVyBfiyrCBxrJ8vU2a3XZsE-lNg81b9xkjHoZvi6hoihuYKD5r1nGW0-TFil2gK_M4jFHf66J4FOzEVXGeuJ-XPrxgiKR_2Q-yOxrytz7Cs0m4TT5VbK2RKZCI40uHwU6E5oKkeZ0-2_7BhTprunYhVQBzCRnzwnwAGzoI5sPT07mk3Gs3YPPeed4Yj24poi0x4_TOEGKjkLScvrjxFgfNbUfQjhXprYzM_z5FISb6JbZ5NWShbTLx2QgMoNjqvfzM_VJY3V7_gE_qX-n0_rf6PdhWmFrxYXktNz3iCBaKYzTWfqez_rtfXzRb9NwFcBM4-JSI855vWehU_gYkqY7QX4dU6bW10dsmJE2fB7664A3xMCzZdFNqX98yfLRlHHeqPmY2H-ZTvdOJubBYTWMl5WQ8ObRODBeh1LhMsT2mpo8ohkbVSRBdNqKNAVSxvtooLTlz3gQzVfCBwHHLMJVzndrKWJVYUCl-Rdc2_Ym6iUrvBqq2YZH78T7iz70WlUYDCWtnYZ7sEPbYMwyahqzVpx1RTb0pGgEuGbTrGC91XmGtVI6oFgFCQrpp_3jNY1GFrGAB2IN-n75B1I6B_dW3J0r9Ts9MTpbYdTAvljzuRpkszbxUOEpnBIee8VgzEn2W-d9OkRN8zgGFijGfzsZz-MapHpfrsm1wSil7rGCdmFG6P5BH6FpGXrbC3Y2K_aJTjqf_W5C7Q5_bVe38krZ2qTuIYf4e88s2tTe2GwVGP81xSvtbYQYOcA_uqrL-jvGgN8yo3uIhvupEGbxgqKXz2ApJ_xsCawT_WaJGpGlHoLD6bLdGKD2zpJY9-VieQXg7zXsh3yqaxYHHUVmrActZE8IhNLEeFS8Iav0x6fJLN5j_JIm6-wh2cqgTwcWjsiioSLuPo5vENmJyPTB7WIGnUZv95zXnZlDixTqsaCbRCR0-zGPiO1gykGeQqlr7S5zePoxJtm0BJdY0iYR2Bxo5Rtzq1GeOfrYEwKnA9_aSlCSPdugTTQ3vodeW4-4JYP7CCQ1z9yfh3bczhYPhE7wch5yra3kDG6LqLPIxZ5MCMJ_plCiT4aSF9AoAJUmnEe9IWcfjC5cOOh3gEQOz3p2wL4AfmPgOANHRLhMtKB7n1xv-3lyjkfv-2uwwwdnXtOskDCm_gmQXX72hcp_apql7ug6mLv5B2Y6aZgtIIJYZ5zgQLOZjWWuGrblmL8b0J9hQ4-c4LYEP7WhBVFMwxv0EZCJ8d43eI3_f-7DnPJyit46wZdqEuMWefbikplmQ2xlUn5-84cqkIn_7AhjapXqgPEu2Z1GQvbo5kE2Kl5ncYbBrEc-nW5nG8W071PSlZiYEZ2tGpebdlk0ufYnjV_OOhKFQzHnfI-U3iqBq8MThVr-lA3JKE_z7ASX4mom9BHFgs0KRM-fpeuwacVhxm2gF_GSv4Co2ttMdWFeBjjquZs3Hg5acXiZnh3q9ZuKeudMhCBUu-92-uJjepPRhPqxDoYmz1d1K5GyzGQ9HO99IbXY8qqE5tIQExV015S5YMkp4NWkp9_uaz6UbbuMiTmF7Ha3pNbo1Rn8S5SjqJHxWizx5lmWBCuiDBuWj8Nnzt_VZjIihPHt2lnwLo04cr19-WhageWG9fcfIYDo3z1NQVDhk3EblLY0YSs9TAxvTMrMAdnbeYPgSIAD1dNlxDJf9cH90X7xt4969BnppQ8EXFzUzsTG3CJ3-GscM4hd2gyM5f0Z1ZHa1aAYFwqDlVp1UE2aEczXZeivog-RwLpcLyd5e14v9NuSGV20_uqb617X46dy3HV1AdatU6UsUZhAzNBiC3W6lx5KX4Q4iISMEu6NpEQa1R4Cy_4KmvK18SOLSDe82aefojfUOquINs2ZgVTxeUGHqXzgKGnv5jCJVwVE7C162rv9dA-Jy3_R07iwk8iTbPC0Cda_EoQsalkNFBJh28asaH_weUaRmMQIalFMgA_ht2ulf-hbV2VT2uvF6YYJQOg3kymImWcQuhKAOM9gVM-VPe9hO8SpY8IXki8cmviCzcS4Be9HBeuKw804L14m6FeT0O0niEnlX5lRJdoIl6ISbZHgdUyOuO2afKzJ-SL9JU9GYXjN-x3oeXtNrThHsh3gC1yRElLBCCebhYEuwgK0qvUot2dQMRa_Uiv0wCLFFICTSjzSXhXGOMOWWuKJeBaxk7QfNQr88vEUG2VSNYK33PAK3walIqSNDmF6sfUgI6XIFwyGwyvRjOaUM2YCCGRyQhgOnUaK2wnLYriP89cW-4Bjep8d8Bno17NvQdC8PMZvGrv0K302OpBWbvMPvTEA-ZKaRhdfDwtxpSqMp09YP7Zobwb-hiGWJhH2Fu-kDDJZpWol-6nz0SVn-Gf36hhbM0h2J9gTK24OLMEbseUNcrE1_u1V0uqsW4u6IyRJJHKAFd6on29v9WI1MbMefIRLnQ0HBnuXKE29kwEggmeMxqYnssAJlpAjGkxXZ6EmTLdBRw45quqD8hldDY=",
+      "summary" : [ ]
+    }, {
+      "id" : "fc_0303325114048824006ad1d303e8b887d0b746b3786253082a",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"category\":\"수산\",\"keyword\":\"멸치\"}",
+      "call_id" : "call_pl6sfFjCKjlnn5PWjrriPzj8",
+      "name" : "search_products"
+    } ],
+    "usage" : {
+      "input_tokens" : 1867,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 1408
+      },
+      "output_tokens" : 142,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 64
+      },
+      "total_tokens" : 2009
+    },
+    "tool_results" : [ {
+      "name" : "search_products",
+      "output" : "{\"products\":[{\"product_id\":\"PB03\",\"name\":\"국물용 멸치\",\"category\":\"수산\",\"price\":5900,\"unit\":\"200g\",\"stock\":15,\"rating\":4.5,\"review_count\":520,\"sales_count\":3800,\"spicy_level\":0,\"review_keywords\":[\"육수가 진함\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    } ]
+  }, {
+    "turn" : 3,
+    "input" : [ {
+      "type" : "function_call_output",
+      "call_id" : "call_pl6sfFjCKjlnn5PWjrriPzj8",
+      "output" : "{\"products\":[{\"product_id\":\"PB03\",\"name\":\"국물용 멸치\",\"category\":\"수산\",\"price\":5900,\"unit\":\"200g\",\"stock\":15,\"rating\":4.5,\"review_count\":520,\"sales_count\":3800,\"spicy_level\":0,\"review_keywords\":[\"육수가 진함\"],\"allergens\":[],\"agent_orderable\":true}],\"count\":1}"
+    } ],
+    "output" : [ {
+      "id" : "rs_0303325114048824006ad1d305266087d0b9c97e76eaa8e498",
+      "type" : "reasoning",
+      "content" : [ ],
+      "encrypted_content" : "gAAAAABq0dMOSdEdIBiVuGwBHqTr7kUXyGRJL9u_9-LpZAris-dy29haGoBxHeuQn8Me_o0Q35lR0YwZLKxi7lUEUjmKKdP9kOtscUVEtRTLLt1GggxledF2KmY2oQfBZBndaCJSrTzGhqTIBWC-VLbcWKZM9PEo2APNeX__h1nFfwvetn2lua1HBB0aUGEfhH4kyDWCn4CJPuETvSj6YmZdB8XWuMyLWe4sAfr9CX8uTClqFLZ-W-EHVl9jBud_nqbFRZWLvJsvTAHNlvF_tCPDFsylBFbqt8IJ1QqtwYBcFOGR-woj0nH9pSLUxGI3uN6lCgI4yqisE3ZgBNSCsBTwLm7mom30Cx7mf1IDQHwHLxPcaxdVfCE8yK_rmy3jer2kqkYf050YuOJkpPi-8eyhOd-KwH3zu2crdvMXHZ6b5HlR4_zfEFYIC93UZlkxzkyrLAytz8HSLYVuwI9rTg2kKd2G0DNmr3hwtOntLYqsFGd6ohMaXAYlnHN40sTQb9PpMMqL7WsonmGd5A11_6UAvXordvju8KVf0FmPtNJsJCTRiZEluI5Z7S_odq6EkdNWqaBottMUMgiFv1nZs4Qv53OuNrQdSaVn6SBHUj-s1s2kEoigiE-Z63unRWyxO25sMdTzVee9EJ-bKCbvbnEYuc3n8fwUBTYqCd4AjvnrwtZ_k8H_o4qrq0QLFoXShe-F5FKGsI56MJrLYZ33rXTRxQJljmBgRg1qHi6CLy_0Vad9CV737n4fl1x5Pecd7ahJhpTThzl97kuNUEFQXvZ0M7d6J36iD3gC41Re5BJrZfcUlwbfJXz2ZkUltTgL_Tq6uTiKas5vt0rCuM45d0BP3WKmQ_KEk9FBy27xyGoXY9Mz3ylCmv5cGUbhDQnyDh2k5a5t5RFl5lopK4y-QmyNJnvRfaTkHb-vf5h7yjbzaP-VxhLHAo4pkwB4DwZ-AfHPf43KClaljEsst-mN8Ry2F4m5bSzvfRbgiPrTHzZIXdpXt8NhFhb-QJGMwNfoJN7LtqHrpvDyB6o3CLdcleiBvakiFnbRZPL1eHyjiuMuMFCM8ZZJAazot3d-A-tY0NHkEXlYPFtiBWmRZgIgj25Zfe3RbzBpl4hd30UXX8huyhCv7K0BbaAoH71V73p-PB1bUXG9UVPa0s1bE7nwNY0Pg3f5eiEjAWvoJDpYMrQK-FIWizRCMUFHENcRZbQa5PYHqcRoDVc73JKBhkuVj3yd8lrQRIEPGW3emJzDzHh5JuzLzyQhwWiOODprWQ-n0RlQQmhMCjbLB5dn9m0cfR5-DD9m5te7yW2DmdED8PGT1d02bVqBtv6iXVflEEDXMpTpebdFRNrq5bGxRyaHZ8la0aQ5buVjFGcupQHylpo8U9T-rox5KM361TRilqh9h4rfZuZ6qUDsuZ3Vb7_kMZ2WjSMxB0hFD5oEwuFvdNuTvez4JuPDM0iwZfG3AEmBoTzqcIB08Y74iyNu5pQDHt1rXY2IFwRufx-Uf9ZvNy8qbXzllbvDNUnh0v8-MByydMaBVatfX77oYwKC8z9Ff8SnaBSoeIrzgXOejWmIbxdlET4onMYvGIZvfIUPDAP-wUdgpJefjUBCl-3olTXPR7Xao3Ox-UvkP2c8zKFuWxPcGCeuQRXA5VAdPoUXuKutbvLUahGNXlhDdWsZenmv5H4HaVj_64L_P0nOPKs5T5WV84lHTjf-gXHzFt65Z4YCm2dngqKbjs5yLf-ltqsb1Ki-2VOf_dXLi3Wu1NLBlN_IumnZC4I8lNRmeH8fniCOLNYJBwANEsCiccQy7K_9bW5uYWITc19_j9ihYU0Mpcmtt1pveI2rkDKkgmxwO_6NAjBDbxp1-D4XTptDR0oR8xM9xEdE5bXG2P-sDqDd83tmGguyQ7yZAG--QP50z7MOX1FFo44I7xRbJfTvI8i4LQST22xgkGoqCPPgGIR1Bacapks4sTjlubX9QHG3imgQzU9KrHow-F6giXB1b4RzsnDHTbKj4AtpZTpiOfow3yCSBe6hsYE78E-gmcgYHu2OVL_B-_r8WaLbN-IKb1utPEWx_osjuX-SxOSAHisbP8AMiwNwopqYeFFXOE1BB7Ttb4qzwoyt0rERHmeY_JPZEJt2jdO4HA9hKg-YmfeLSNyhxR2YBLDQcOQbgFBsJCmmsKWcEqoIiYplykyphns5omlQBAtslS-1g4UMv0cvPKcJkeCUTlTBX-fVtF3UL07f8S1-H8NbiToOa06JRuELIVZUfVlDJRbWsk325w9veB-gMQZdlRPz1WWqqzwpOmiHFYJM-3tLgatUILlwlBTR3K7zo-KXibcB0ZObQlVn9G_baKaLJIP50NPi-Zy0r5K6cbAHA1NPIx6PSBrH7nobjx5n4jbvXlQXs9tic61p9HXSB1XA4_Tgu6G1AXFOqWjxRvhx2jC8upCdDO8U-IcpXy9-X3ZjGS4fOF0H35bHuThDwuqmOPqmh14Al9XDtF4Ifw922ibUzUOxbF1CZiRDuJP64joJoB1_W2jrwPvJWe_dFyHMM3yN9X8O4Fz05HKwqaP0_oi8irz5l7W43j83tCCUXmA3prKeFDUOV1Eh05Hr5eAmOdFmucuO3MQphV9MgFdjVYjODAPYIhe-EBCTO8utOW5Ue7Aynad_3xevT6Zwt4z5CmS6ZTYQtuVngwdrA0Eyhqwl2ARUFMrg-5dpN8v6HQh3xSfSolY-0pJgN63YMGDpwlK8ERhunNyOCt0qTMIeComIkZjhF7YypUKuSHrXbJ60RVVjj9LT-pgcYfLIGn432b6i0a3Uqyjj2BD7cL9mP-4jAcfNJFWpPtrjWg28ciSFWJ40eh9z49GU5od1TcugjUhooNMvBhQho8mnrxqntG0SkIqwipLdYy69ry4WIJr5LbwhwSwOW9MpmRGvAmYh_JmltPQbUMaSND5ga5Edvpdy500dOdTd9DRlgBSPCwy8EiZzvG_k-ajBHaI-7Bl85g5qFT0Iuwis-vg_XzaGiSl7vg3vFxqCn4IjRCOTQ3obaDfCEJgp1g9o6Pnxb4Na5q_KGGYtzrh4bp9Z-npmJDh5wZZr74YNW2n0zRFDA06TSyV03Cc9XBkj7m9qYfwUV434bjh9lUuYs9aBY_l8l0n_rDr-SuuqUfRwejIeggHcjUWzI3UVvgJyaG-wid3gz4G-kNO5XrcPK30BtTrNzenADDc_xnLg7wYRhyvXDKejTDyTCri0OCyIFlpmSQLcJOYwgLw4blmd0CDpMfA6pjnGatOOBwdBT8AEKcg4ZMFEvN-LNNEEVfXtSO-h43Fix8W5M-G6fxFDsEGVDlnDDYYxTGuDfAri23kgNVKT8PnDLL9D6s6IymIlMP8XjSpHfAKvKfpwOnyEAK9JinP3dcU1X55Lec2rIGbqupa1Ccl6V0pUNXhG5EnXTqqDoe3H_V6x9DVri8XgDTQP8iHzTvVxOTojTcgV-SOHX0tKTG7kb1GRUo24CdvP8UwXjVtcuFgCDJMhVjOLGs9VT9ms57sMoDXGrpwGv6xpb3vC-I-iV8LCwyZKHnOluQL8yWh-nBiKyID5bzGnh9358MebU9nTTsjM7d3W0Q3KXHEmJAvu3mMWnDdr02HjpR2IiC1zJ3Md5NpdEgbbX_t3RVie5HdEsyZg-5a3qyhT-3Y6B-pdH6t2osAG3Yjh2meUpV08GGXKrq8aAvSvOLGz5ZMOBbNjXvMeoZGeVu12T6Je9X3n27UaKLglQoh3OvWiFxIf6KN0yis8Sg1m2wNRnO-xiSBGP4eyccMMPBBjDjdPkDPOnJoioPFmhomjfefAUxfX4tUksAFT6pYPcaJgwhXgnxwmrjuEyQMXpxBAX4-Yn7eH79F5LMD7ALkqkoUwsLHPkNLK54ZuPU8-P7eFz043yCjhSx8wnfLrps_WIBUrgOWd3DN-3sUWj93ATDeunm7M1AXJY6i2LQJjwE49fn2GIFAOmMQlTzmvT0Diwg_PgnDB8woqMHzUso6pAHy4YHhS5AzZ_TnqJWP4q_SYCQTvDcMYYg-JITXa7qRAIlVKmSDHWlCeBtiew9HwSUD2ysvRrvn65IYhiEaDe0njXV9u1KZocrN13-pq5r-y-lGp2wLeZpS0LTkJPWAybAN8oFrgO_3tZJU0DGfACYS0wg8TPN5B5_FLtWWTQeTMWwHZc9UsSPSfQNGFpwXMI73KJhSZVoLDcPQaDLp9OcSOOpxynMNAJ_NlM5vgZc_DFspCngvvhJO-eUtq-liJof5FuYgDTK11273FNmW5H8y4dlyuYlmVNb1BdXiJ7jSs7-bzaKqC6dnqxvZVM7xkiJNZpvxiF0hvuYyN82tVnxzJiGAtC9yyBxukqqTjRoa-JMrcQAKnEd3GBBJZiPqXTl7_myi63_1dnw-SWT0YPcsr4S-Leh6wRis8SfsN2VMfdMbGIx5kcN4fzD8Nf0C7q3PEy23MJNVuT748wNkxbBass-FbcrOm4n9KzBrEJNR_Mm15JyI77C-WCkGZuLInADcgtSGjSCdWEGs2BHylnTVUZgxSGnHfZTR9JEZSH59OAwlzDW7TQh6tvalpuwhNQnMcKurbPgWRb5vFIp3rBv7hQEl3EvZJ_NogSp5Gm5Mt7HN8x1D2zuoR80xosyZFlbzz6D6IiwTUNfaqwtC67wBPs62nqMEYqMCpOkJuMnnfLC1LPn4Vb-MIloWkLvc9aSwJpSKyqsLPCT8451a8xI5t1_VPwbE1UyTemIvwNw6iiWBh_RSEpSA4n3RPNwe6MOmzkSLKZNJVhAuvkqllPL-sCj6LuyNd3WlxEwAF6YAzU_SpGlWxR97ZH8cNEkR-Zn9W5fd4vvGXljwjS-UVeY1ua9H7dvGkN11fkzGeHdP_l8LUs5VCraVLMBgtlTEktHAbYZ7CQJ6nAAGhEVZB5wErf1DPxZpf7_Af9BEhZgmS6Bgqf6VDmOS60Fso68nqz9Z9LT3yvjB5d7UzhL6wSx3IUZq9_9Ucc8IYkrJXHnRZUqGgAWJLoCLjU6aVCNPm7CSUaJygRUExMfgFMUv-LSuYYFnmH3xU2cGFe13SCkFSHNWVkKAK23S6zTK4M2z-od3QDSAsTNEvxgGkkMFGlo7ZfOvZR4mrsbH3Os3lpXHNKXy27vQfxhr0zbJQgaCdSe43kZhRnoxBDe5yooVVIW4cdZuVIniNR6-HXtv1EZvL4y7z02T-VolXiBtmo96FheqjwjJE6MSWstxItPDiPQLY-x2aCyNB8hQjwBFsIvqE5YpjyGGBGTaedARd3E4ZAICxDiL2mQ9UOTimLFQuU-X5xSy4SaFbH14f19dT-W-gASmhmbKx-im3nKpgyDIXZ5z8xJOC04W1ZtlLc2osmxV6zjTMg1oaSrc4XOzggtSaFLOi-Up6Ycr5XFMq4_ItesRzFPPX1HGTxiHVkrOaiz9hbCZJep4R5dT6mQU5wxdNh-OISKYI4TJNreExyib8T8oVY6mEGzohEDikNSJHf7RDbmiX1UX0wDimsV7F9cvt8bIT1KWbWlUIra7eOfuF3KjLRlHNjR76XhBzxppflyXjMCPkQQd66oyEeb32qh1s50CCIM4pD7S0Jxsn9fSLAPGYrlXLcIGOV4vhev9U-Vnq3k_aULClqZ1autAnzlJlpRmpF9YvqD6TwE0Hke8mrK0yVzp0M0Bf7nnB6j_vzKYRDCBN1ZNDQ49-I7F9hApaiV7onJUUHUwYIhLP-D4VYh6jMWt8u6hpRxaSXyxEhBKOyObfEfM73cJvumahevs2cueiVByYvyShcet4g53X2y8HBgX_3REI7cbyCW-YpULKFP6e18ZyYYxUY7rA5qrf3ker1-1ztJwY6p0eP_0JjsFFnA74ktVui1YnRTp6ff_WzyyMRKze8ZRQFHWrqvbGMnjOXtH9iqODlVRqamLSqRwOTN2r7_pKtbcqs58TB9DIAYsJ1gqV8zNoMG5oMBqgnZ97J5DwhTCUQrxH2kEv7n_Q88gOABXfXF6neURvH-N1Uc3IjiBgfkSb1QbT-5vDhDYBcgRrUvOtHYDMgfJrTWkjX2FONkbYmfkv1qAhcj9i_qI_dAT1Ixv8qaQ19QX1vg9TFacNhRmAuLTA5QCkpI2Ft6_ItyWqfSPR32LSpyVY-sPUgu4aMhZQDxj1VR_F6CPtiX_Sy7R-9F3KHaynw6Px6X_5cWr6oPXRykTNXDA0ty07FBkrDJ-GhI8HghVJmIYBDzzfZCbSOTr_4E0ZGiwUdg8CYFzd35MPC70qmO90cKGZ7Ivszt1x21RX0Oc2dO3tcHZXlv4RgXy1CkU-RlDTviGTwC2g8CSTUOEWerBXJNIAd5HhFpM7spoBir1cKN2StaAWaHdYYFT7zcDC129NcIJlZs-CRVG15cuyQWqrii3sTQwZDkKJ4z8rPu2npErB4g70IunQGip4I2nGiiy8aejHjmbvKwOl-AVpf4fV1xuCZD0sN-hjzt1Sh0JSSR3CxIS3QwAfimjQPwCQ9iBPNl4ku3hTUNypjJA4qeVo45beALWsVT6_PhqtLePTR5jXAxQsMl5Z7S28Acx-AnHsLzVsS-APBnzVeKLEWX6U9yiFQwoEhiVCPSGa-Hnqd_MQPY-NAuua_9mHjsqSxlPFQf-hHYbaHw3ku_EjGlebL4qFY9ESxiQqCTB4qxbB6UYSZ6uFSwFkoUTnEdeXKE5nku-HktGeaDoticLFRbjruF49pC1asKG6PmyZpzO5UKQjcnKfBgdP_0WIEL4rqKDL_5UKy8BJEuu-4sRULnPNWBDqTyNKugQm3C-K40JHIpcqQ7XKXK6MAqOibz39ySTwc17lJnT9kMhRST_z20lPhGTpqyVRdkH7s8xVtAKcOZX2qolAwzHSVeGYRX3tkUMbHYl_foquz3TqLeGfXG8IQ52i6biPn55abAK63Xz575JYDilDhA26poxjwanJnb7RtZDFfWmdcJ0-eYCSLnZfgBQPQ25OWCu2t6bRbvONhnN-lnVON0OJn_zAW7BAZDub-L-Gs1X-HdHre_vpclrVG3HqyPb13boC8kd-CaevEXhOo1EzgXkBds-MmP3wEPeWystG82BlqHyx8sW74dVet5HTzOSkCEUyy5VcUXPzBKPMzgBz1vdbpj9QzWvZ7DPby2gmERaxvKNytAhojiXgoDsuYPlsfuWGmbPvAZSlGGlUo6WhbgCDvH9XYSF1qxyl61sm1JvjbIesw7WK9WP3HY4-AhFisQkddyYU02xxDVBkDTHIiqJf1bplxP3TZ3Hr5BP6l0IRoqm9q4v2FMB25IMVMxwOYEOGQs376wazZ2-PmV-4j7KB6k6JWLHSW9aYH0ty5Dec_gLOKKYnhHszvrUyeKZh9aFKpSrlz16zV6cNPW2fU6bs4so1Q71t43Ok8uwH3HIn7B0PZQpC7euYKML8WEedRDBjH2Gsue74LTx19m5yZGaH7bIlrdJDSIf7ExZoL_88i4eXBanKCaP2GydGkafL28t1D_oK2TSeN9SrQfCajxzKu4Cmk9vi4Z4STx2zL-n4S_vpkBFCI7tyKffIk1J76YGWCBH0H4-eF5nq9yVxZIomAk_mH5oRatYhryCwMJvCJOcRoSXIXavzH-g_0A-16WNZsCay6_R1Fk1kwumV56WyT5JTYbgQN_rFQBkBx0dfjZGdKxTA-V5X76QarTheX8xf8fQsGmSwGFyGzOrCvY5OsbB2h0lJyZ2gvgzLxJWGCgcFlqFQkUtNEUohi1pdywLZNQwWWw24O1ijcDC52cCD2TsiAi_No_xiI46adeweI_Ua_Btw7KNltrKHiAto_wA5ERi4k-OOQPtl3jraf-gpJ5Bb6LSecs8_hYdEFRkLZXne3NW2m99cVpmtYH-u4rhzmGK19yvo73LRbZUdxjEIO8ZSmuoJcYTQa3M0aXBwya0tnN6FSbfUdBuf4c1LucKUVtDx-AUEXyU36-nAiPbCVpywN3mWqDpZsm5uwDH5BjKItq1trWb0CeqJXMz963hYhXcGf6KJaEs5nEtCeTVUfHGELb-PlcUr7bs-Hfmle9Vd2gLtitb6mggPC2_LSpJX8clYXgDULZeojL1AIAMeHxo86ymZXzYEK0zO1yKhu68EIlUcP3ghPUvszZFmp_H_OtHGPK8Gf-4ZPh4VPQGPmEX32whsKy27z_aMcWfQsIqKY8jCcywRCWcrzOdEQnjwFqJw_zKkztYt6yykVmVkvGUl1HYI8Sx6aqiZtSNUy3QoA520XEfR5PSorJUTiwHueN8trmY9TeNyMk3LHtzvIa7-OlpWbZWcet3Fnkmi6IJ5IxHOM_Sm-BvBgF9WdAgbZa6srMyErdLugX56b99P8kaMrosliBSthstn9jA8ZOHCkrFbepbj8yt9tHAjw2JLyA5SRcd6lvUt9i2rywj_4MzgcGxecbBvCR3igXusm8witIYh7aUYtww9-Z4NqRIWA_GjNgF-umJMIkhdL0jhUpSSpcEHjONBEkwn_snytJSJWjO9_0akCx-PHTcflx-oNfIsIhKyIQzRwq_W5KkWbtEREjfRfS4XkRtVBbYiPzzC9YjBpfdmXyeJ5rYErcP3uBWwYDRRuK7IkWyXyFkuqJWEuHkgD_7CrXky9Vze5vyServKcNIkC2i4OOLh2-yTvs3M96015wTEXEzAzoJaqGbkWWroZCoAZnyKF71q7sdd8VZGl-9NeF3mN5CZ20eQ916YErBDr4cZ56WEykNFqLPVcfBw_c6kZW3TVjXFDwhbo90RC_51OLlURB8t0-7U3LbdB2cUxEIpJ3AiYObAAJvTzw73FaXGPdYf0LW06nHMEi8qRiIxc4uwX_JEGjiGInCyN_ZW9vgd7q_gCrpraNYrr8WsV1yE7D0G7lJ9KdxtgxNbgvAQXEzAnLK5eJDNfCYCReLZ5MopeP5UeaBQB-EkQIACQ7iVKBU823A_uRQnQ3UlEc31QMaQrwiAzdOtGJMhp5tiTyj8y1N7lEHnXeD9akNDrk8bbo_RnU7fQEAdOHUasEpU8ajB0Z9rLPBma7SXtoGW1BPcHj4hqyKetvo-PRdGoXv0-EysJQTF-WygY1TCgkAbz8aO8GZJodF8k0bsQlcq1hb0sSdFkpfmPNde1bAbEKaoqYU3D_jL_xk7PMNKKPCdjyGZLGia6IWuekCF8eP9Amoas1IgyCxtdC0DSB7ZD00zVbfXfe96wIdvM8aOiDHi3SDvqhQNIz1_gE6u29-420u0yu8kpWduN9navqMrnQ9zujS8avmGTyN_uB5iygSo5PDizIV36ttAfV2UBdOkV72EF2SQ_NqWN4pW4nBSQeyryzxYP8KVXBUSie8CpicEDt690ewAD9qPOStk88se8657MWBi2IN8I2mPQnK7CfxCWXmpOuAqzj5cYDHdDJWybUG9VoZbnGIaVq_6KgmJVGtMQOBIt4_BuOsQoMdFmzJd6FIwFBqMnogKFS485SLWAH7AKQejHaL6ju1I9KSS6QT4B9Y0aceGDZfUpCHpHA2_-0HxTkD0M_l-PVnC9YZQis8LtlFU1VhyttB4ZcbF9Y_L_OGZkp2SuUr4gsixe4Xhn1NgdalH5SZNyARLgQ2uPCirkf7zCEw64bNoq1Aan4owI4lue19LiYL0xvINQQsuYGkiqCiVDbipxiUqIpCdE5ybOIqmapfafHYcfI07U-hMDcdJG0RXJYYxk0JiQUuODjO-8YvRoeWU94z9m4AdaL_LkKJUqiHMDp1N-FJ2U-AG06AVS3PoAf3jE8IHBLKQd3jkpL3EwKfyB-NAJWp2PTR_I0_YgGv9",
+      "summary" : [ ]
+    }, {
+      "id" : "fc_0303325114048824006ad1d30e342887d0ab42547586597bb6",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"items\":[{\"product_id\":\"P901\",\"quantity\":1},{\"product_id\":\"P303\",\"quantity\":1},{\"product_id\":\"P302\",\"quantity\":1}]}",
+      "call_id" : "call_1t2a5sT5b5QUwHelYaHiIXjL",
+      "name" : "create_quote"
+    } ],
+    "usage" : {
+      "input_tokens" : 2105,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 1920
+      },
+      "output_tokens" : 814,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 704
+      },
+      "total_tokens" : 2919
+    },
+    "tool_results" : [ {
+      "name" : "create_quote",
+      "output" : "{\"ok\":true,\"quote_id\":\"Q1\",\"lines\":[{\"product_id\":\"P901\",\"name\":\"재래식 된장\",\"unit_price\":4900,\"quantity\":1,\"amount\":4900},{\"product_id\":\"P303\",\"name\":\"애호박\",\"unit_price\":1800,\"quantity\":1,\"amount\":1800},{\"product_id\":\"P302\",\"name\":\"양파\",\"unit_price\":3200,\"quantity\":1,\"amount\":3200}],\"total\":9900,\"expires_at\":\"2026-10-16T07:42:32.357639300Z\"}"
+    } ]
+  }, {
+    "turn" : 4,
+    "input" : [ {
+      "type" : "function_call_output",
+      "call_id" : "call_1t2a5sT5b5QUwHelYaHiIXjL",
+      "output" : "{\"ok\":true,\"quote_id\":\"Q1\",\"lines\":[{\"product_id\":\"P901\",\"name\":\"재래식 된장\",\"unit_price\":4900,\"quantity\":1,\"amount\":4900},{\"product_id\":\"P303\",\"name\":\"애호박\",\"unit_price\":1800,\"quantity\":1,\"amount\":1800},{\"product_id\":\"P302\",\"name\":\"양파\",\"unit_price\":3200,\"quantity\":1,\"amount\":3200}],\"total\":9900,\"expires_at\":\"2026-10-16T07:42:32.357639300Z\"}"
+    } ],
+    "output" : [ {
+      "id" : "fc_0303325114048824006ad1d30fd8e487d0b82987c48ccc5488",
+      "type" : "function_call",
+      "status" : "completed",
+      "arguments" : "{\"quote_id\":\"Q1\",\"menu\":\"된장찌개(2인분)\",\"servings\":2,\"items\":[{\"ingredient\":\"재래식 된장\",\"product_id\":\"P901\",\"quantity\":1},{\"ingredient\":\"애호박\",\"product_id\":\"P303\",\"quantity\":1},{\"ingredient\":\"양파\",\"product_id\":\"P302\",\"quantity\":1}],\"suggestions\":[],\"unavailable_ingredients\":[],\"excluded_requests\":[],\"total_price\":9900,\"within_budget\":true,\"message\":\"장보기 견적이 생성되었습니다. 아래 구성으로 진행해 주세요.\"}",
+      "call_id" : "call_Cr98lFCPQ0UEee2Pe8zCEzOR",
+      "name" : "submit_answer"
+    } ],
+    "usage" : {
+      "input_tokens" : 3053,
+      "input_tokens_details" : {
+        "cache_write_tokens" : 0,
+        "cached_tokens" : 2816
+      },
+      "output_tokens" : 133,
+      "output_tokens_details" : {
+        "reasoning_tokens" : 0
+      },
+      "total_tokens" : 3186
+    },
+    "tool_results" : [ {
+      "name" : "submit_answer",
+      "output" : "{\"ok\":true}"
+    } ]
+  } ],
+  "evaluation" : {
+    "submitted" : true,
+    "pass" : true,
+    "score" : 100.0,
+    "itemRecall" : 1.0,
+    "quantityAccuracy" : 1.0,
+    "violations" : [ ],
+    "extraIds" : [ ],
+    "selected" : {
+      "P901" : 1,
+      "P303" : 1,
+      "P302" : 1
+    },
+    "suggestionIds" : [ ],
+    "quoteMatches" : true,
+    "submittedTotal" : 9900,
+    "actualTotal" : 9900,
+    "totalCorrect" : true,
+    "withinBudget" : true,
+    "budgetFlagCorrect" : true,
+    "excludedReported" : true,
+    "unavailableReported" : true,
+    "suggestionsOk" : true
+  }
+}
